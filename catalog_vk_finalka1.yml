@@ -1,0 +1,1566 @@
+<?xml version="1.0" encoding="utf-8"?>
+<yml_catalog date="2024-01-01 12:00">
+  <shop>
+    <name>Нитрил Томск</name>
+    <company>Нитрил Томск</company>
+    <url>https://vk.com/nitril_tomsk</url>
+    <currencies>
+      <currency id="RUB" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="1">Бахилы</category>
+      <category id="2">Мешки для мусора</category>
+      <category id="3">Туалетная бумага</category>
+      <category id="4">Салфетки</category>
+      <category id="5">Моющие средства</category>
+      <category id="6">Чистящие средства</category>
+      <category id="7">Тапочки одн.</category>
+      <category id="8">Латексные листы для коффердама</category>
+      <category id="9">Стоматологические</category>
+      <category id="10">Микроаппликаторы и Ретракторы</category>
+      <category id="11">Рулоны для стерилизации инструментов</category>
+      <category id="12">Шприцы</category>
+      <category id="13">Шприцы 1мл</category>
+      <category id="14">Шприцы 5мл</category>
+      <category id="15">Шприцы 2мл</category>
+      <category id="16">Шприцы 20мл</category>
+      <category id="17">Шприцы 10мл</category>
+      <category id="18">Шприцы 3мл</category>
+      <category id="19">Колющие</category>
+      <category id="20">Нагрудники стоматология</category>
+      <category id="21">Фартуки стоматология</category>
+      <category id="22">Чехлы защитные стоматология</category>
+      <category id="23">Халат хирург</category>
+      <category id="24">Системы</category>
+      <category id="25">Катетеры</category>
+      <category id="26">Шапочка</category>
+      <category id="27">Маска защитная</category>
+      <category id="28">Иглы</category>
+      <category id="29">Виниловые</category>
+      <category id="30">Нитриловые</category>
+      <category id="31">Перчатки</category>
+      <category id="32">Латекс</category>
+      <category id="33">Хирургические</category>
+    </categories>
+    <offers>
+      <offer id="102761701" available="true">
+        <price>2900</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>бахилы 60 мкм чернык (1000 пар)</name>
+      </offer>
+      <offer id="102761700" available="true">
+        <price>2200</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>Бахилы 40 мкм черные (1000пар)</name>
+      </offer>
+      <offer id="102761699" available="true">
+        <price>1600</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>Бахилы 20 мкм черные (1000 пар)</name>
+      </offer>
+      <offer id="102744054" available="true">
+        <price>200</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <name>Мешки д/мусора Пакеты 120л (30шт)</name>
+      </offer>
+      <offer id="102744053" available="true">
+        <price>59</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <name>Мешки д/мусора 60л Бонус (10шт) синий с завязками</name>
+      </offer>
+      <offer id="102744052" available="true">
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <name>Мешки д/мусора 35л Мастер Фрэш (15 шт) с завяз черн</name>
+      </offer>
+      <offer id="102744051" available="true">
+        <price>55</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <name>Мешки д/мусора 30л Мастер Фрэш (20шт) черн Суперпроч</name>
+      </offer>
+      <offer id="102744050" available="true">
+        <price>132</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <name>Мешки д/мусора 160л Мастер Фрэш (10шт)</name>
+      </offer>
+      <offer id="102744049" available="true">
+        <price>30</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <name>Мешки д/мусора 10л /25шт</name>
+      </offer>
+      <offer id="102744048" available="true">
+        <price>55</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <name>Парло Мешки д/мусора 120 л (10 шт) черные</name>
+      </offer>
+      <offer id="102744047" available="true">
+        <price>45</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <name>Мешки д/мусора 20л (50шт) в рулоне</name>
+      </offer>
+      <offer id="102744046" available="true">
+        <price>30</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <name>Мешки д/мусора 20л (25шт) 8мк в рулоне Люкс</name>
+      </offer>
+      <offer id="102744045" available="true">
+        <price>163</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <name>Мешки д/мусора 160 л Мастер Фрэш (10шт)</name>
+      </offer>
+      <offer id="102744044" available="true">
+        <price>42</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <name>Парло Мешки д/мусора 60 л (20 шт) черные</name>
+      </offer>
+      <offer id="102744043" available="true">
+        <price>60</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <name>Мешки д/мусора Бонус 60л (20шт) синий</name>
+      </offer>
+      <offer id="102744042" available="true">
+        <price>75</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <name>Мешки д/мусора Биг Сити синие 60л (20шт)</name>
+      </offer>
+      <offer id="102744041" available="true">
+        <price>68</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <name>Мешки д/мусора 60 л Мастер Фрэш (20 шт)</name>
+      </offer>
+      <offer id="102744040" available="true">
+        <price>82</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <name>Мешки д/мусора 60 л Мастер Фрэш (15 шт) с завяз зелен</name>
+      </offer>
+      <offer id="102744039" available="true">
+        <price>130</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <name>Биг Сити Мешки д/мусора с ручками 60 л (20 шт) синие</name>
+      </offer>
+      <offer id="102744038" available="true">
+        <price>68</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <name>Биг Сити Мешки д/мусора с затяж. 60 л (10 шт) лиловые</name>
+      </offer>
+      <offer id="102744036" available="true">
+        <price>29</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <name>Мешки д/мусора Бонус Эконом 30л (20шт)</name>
+      </offer>
+      <offer id="102744035" available="true">
+        <price>63</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <name>Мешки д/мусора Биг Сити синие 35л (30шт)</name>
+      </offer>
+      <offer id="102744034" available="true">
+        <price>44</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <name>Мешки д/мусора 30 л Мастер Фрэш (30 шт)черные</name>
+      </offer>
+      <offer id="102744032" available="true">
+        <price>141</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <name>Мешки д/мусора 240 л Мастер Фрэш (5 шт) суперпрочн.</name>
+      </offer>
+      <offer id="102744030" available="true">
+        <price>127</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <name>Хозяюшка Мешки д/мусора ПРОФИ 120 л. (10 шт)</name>
+      </offer>
+      <offer id="102744029" available="true">
+        <price>109</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <name>Мешки д/мусора  120л (10шт) черный</name>
+      </offer>
+      <offer id="102744028" available="true">
+        <price>127</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <name>Мешки д/мусора 120л Мастер Фрэш (10шт)</name>
+      </offer>
+      <offer id="102744026" available="true">
+        <price>128</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <name>т/б Папия 3-х сл. (4 шт)/14</name>
+      </offer>
+      <offer id="102744025" available="true">
+        <price>26</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <name>т/б Набережные Челны/48</name>
+      </offer>
+      <offer id="102744024" available="true">
+        <price>228</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <name>т/б Зева Плюс Яблоко 2-х сл (8 шт)/12</name>
+      </offer>
+      <offer id="102744023" available="true">
+        <price>120</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <name>т/б Зева Плюс 2-х сл (4 шт)/24</name>
+      </offer>
+      <offer id="102744022" available="true">
+        <price>235</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <name>т/б Папия 3-х сл. Белая (8 шт) /7</name>
+      </offer>
+      <offer id="102744021" available="true">
+        <price>68</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <name>т/б Вейро 2-х сл (4 шт)/12</name>
+      </offer>
+      <offer id="102744020" available="true">
+        <price>112</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Смарт Эконом Салфетка д/уборки микрофибра 30*30 (4 шт)</name>
+      </offer>
+      <offer id="102744019" available="true">
+        <price>60</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Салфетки д/уборки Бонус вискоза (5 шт)/40</name>
+      </offer>
+      <offer id="102744018" available="true">
+        <price>34</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Салфетки д/уборки Бонус вискоза (3 шт)/65</name>
+      </offer>
+      <offer id="102744017" available="true">
+        <price>83</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Салфетки влажн. Авангард д/всей семьи 120 шт с крыш. Антибак.</name>
+      </offer>
+      <offer id="102744016" available="true">
+        <price>93</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Салфетки влаж.с крыш. д/всей семьи Аура 120 шт. Антибак./12</name>
+      </offer>
+      <offer id="102744015" available="true">
+        <price>14</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Салфетки влаж. Аура 15 шт/110</name>
+      </offer>
+      <offer id="102744014" available="true">
+        <price>26</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Салфетки бум. НИКА 100 л БЕЛЫЕ/50</name>
+      </offer>
+      <offer id="102744013" available="true">
+        <price>110</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Салфетка д/пола Мастер Фреш Микрофибра XL 50*60 см/60</name>
+      </offer>
+      <offer id="102744012" available="true">
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Салфети Влаж. полотенца Универс. с крыш. 21*19 (60 шт)/10</name>
+      </offer>
+      <offer id="102744011" available="true">
+        <price>246</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Полотенца бум Папия 3-х сл. (4 шт.)/7</name>
+      </offer>
+      <offer id="102744010" available="true">
+        <price>132</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Полотенца бум Папия 3-х сл. (2 шт.)/14</name>
+      </offer>
+      <offer id="102744009" available="true">
+        <price>131</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Полотенца Бум. Вейро Classic 2-х сл. (4 шт.)/6</name>
+      </offer>
+      <offer id="102744008" available="true">
+        <price>76</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Полотенца бум. Вейро Classic 2-х сл (2 шт)/12</name>
+      </offer>
+      <offer id="102744007" available="true">
+        <price>210</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Полотенца бум Зева 2-х сл. (4 шт.)/4</name>
+      </offer>
+      <offer id="102744006" available="true">
+        <price>115</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Полотенца бум.Зева 2-х сл (2 шт)/12</name>
+      </offer>
+      <offer id="102744005" available="true">
+        <price>165</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Универсальные Полотенца Рулон (150 шт.)/12</name>
+      </offer>
+      <offer id="102744004" available="true">
+        <price>62</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <name>Хозяюшка Губка д/посуды MIDI (10 шт)/40</name>
+      </offer>
+      <offer id="102744003" available="true">
+        <price>290</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <name>м/с д/посуды Диона Magic 5 л/4</name>
+      </offer>
+      <offer id="102744002" available="true">
+        <price>97</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <name>м/с АОС Ср-во д/мытья посуды 450 мл./20</name>
+      </offer>
+      <offer id="102744001" available="true">
+        <price>200</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <name>м/с АОС Ср-во д/мытья посуды 900 мл/12</name>
+      </offer>
+      <offer id="102744000" available="true">
+        <price>15</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <name>Губка д/посуды металлич. Мастер Фреш (1шт)</name>
+      </offer>
+      <offer id="102743999" available="true">
+        <price>104</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <name>м/с Сарма Гель д/мытья посуды 500 мл/20</name>
+      </offer>
+      <offer id="102743998" available="true">
+        <price>112</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <name>м/с Фэйри Ср-во д/мытья посуды 450 мл /21</name>
+      </offer>
+      <offer id="102743997" available="true">
+        <price>82</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>6</categoryId>
+        <name>ч/с Чистин 3в1 Санитарно-гигиен. ср-во 750 мл/14</name>
+      </offer>
+      <offer id="102743996" available="true">
+        <price>238</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>6</categoryId>
+        <name>ч/с Туалетный Утенок ЧЕРНЫЙ 900 мл./12</name>
+      </offer>
+      <offer id="102743995" available="true">
+        <price>126</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>6</categoryId>
+        <name>ч/с Санита-Гель Антиржавчина 500 мл/12</name>
+      </offer>
+      <offer id="102743994" available="true">
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>6</categoryId>
+        <name>ч/с Орис Антиржавчина д/санузлов Grass 750мл /8</name>
+      </offer>
+      <offer id="102743993" available="true">
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>6</categoryId>
+        <name>ч/с Орис Все в 1 (д/санузлов) Grass 750мл/12</name>
+      </offer>
+      <offer id="102743992" available="true">
+        <price>188</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>6</categoryId>
+        <name>ч/с Доместос гель 1л/12</name>
+      </offer>
+      <offer id="102743991" available="true">
+        <price>36</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>6</categoryId>
+        <name>ч/с Белизна серая 0,9 л Лотос (Кемерово)/20</name>
+      </offer>
+      <offer id="102743990" available="true">
+        <price>185</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>6</categoryId>
+        <name>ч/с Азелит Антижир Спрей д/кухни 600 мл/8</name>
+      </offer>
+      <offer id="102743989" available="true">
+        <price>300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <name>м/с Диона Прогресс-гель 5 л ПЭТ/4</name>
+      </offer>
+      <offer id="102743988" available="true">
+        <price>350</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <name>ж/м Изабелла 5л</name>
+      </offer>
+      <offer id="102743987" available="true">
+        <price>84</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>6</categoryId>
+        <name>ч/с Пемолюкс 480 гр/16</name>
+      </offer>
+      <offer id="102743986" available="true">
+        <price>147</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <name>м/с Мистер Пропер Ср-во д/мытья пола 500 мл./20</name>
+      </offer>
+      <offer id="102743985" available="true">
+        <price>159</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <name>м/с Арена д/мытья пола Лаванда 1л Grass</name>
+      </offer>
+      <offer id="102743984" available="true">
+        <price>73</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <name>м/с Нитхинол-М Ср-во д/стекол 450 мл/16</name>
+      </offer>
+      <offer id="102743983" available="true">
+        <price>76</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <name>м/с Клер Ср-во д/стекол 500 мл./16</name>
+      </offer>
+      <offer id="102743747" available="true">
+        <price>128</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <name>т/б Папия 3-х сл. (4 шт)/14</name>
+      </offer>
+      <offer id="102743746" available="true">
+        <price>26</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <name>т/б Набережные Челны/48</name>
+      </offer>
+      <offer id="102743745" available="true">
+        <price>228</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <name>т/б Зева Плюс Яблоко 2-х сл (8 шт)/12</name>
+      </offer>
+      <offer id="102743744" available="true">
+        <price>120</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <name>т/б Зева Плюс 2-х сл (4 шт)/24</name>
+      </offer>
+      <offer id="102743743" available="true">
+        <price>235</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <name>т/б Папия 3-х сл. Белая (8 шт) /7</name>
+      </offer>
+      <offer id="102743742" available="true">
+        <price>68</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <name>т/б Вейро 2-х сл (4 шт)/12</name>
+      </offer>
+      <offer id="102743741" available="true">
+        <price>112</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Смарт Эконом Салфетка д/уборки микрофибра 30*30 (4 шт)</name>
+      </offer>
+      <offer id="102743740" available="true">
+        <price>60</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Салфетки д/уборки Бонус вискоза (5 шт)/40</name>
+      </offer>
+      <offer id="102743739" available="true">
+        <price>34</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Салфетки д/уборки Бонус вискоза (3 шт)/65</name>
+      </offer>
+      <offer id="102743738" available="true">
+        <price>83</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Салфетки влажн. Авангард д/всей семьи 120 шт с крыш. Антибак.</name>
+      </offer>
+      <offer id="102743737" available="true">
+        <price>93</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Салфетки влаж.с крыш. д/всей семьи Аура 120 шт. Антибак./12</name>
+      </offer>
+      <offer id="102743736" available="true">
+        <price>14</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Салфетки влаж. Аура 15 шт/110</name>
+      </offer>
+      <offer id="102743735" available="true">
+        <price>26</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Салфетки бум. НИКА 100 л БЕЛЫЕ/50</name>
+      </offer>
+      <offer id="102743734" available="true">
+        <price>110</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Салфетка д/пола Мастер Фреш Микрофибра XL 50*60 см/60</name>
+      </offer>
+      <offer id="102743733" available="true">
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Салфети Влаж. полотенца Универс. с крыш. 21*19 (60 шт)/10</name>
+      </offer>
+      <offer id="102743732" available="true">
+        <price>246</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Полотенца бум Папия 3-х сл. (4 шт.)/7</name>
+      </offer>
+      <offer id="102743731" available="true">
+        <price>132</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Полотенца бум Папия 3-х сл. (2 шт.)/14</name>
+      </offer>
+      <offer id="102743730" available="true">
+        <price>131</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Полотенца Бум. Вейро Classic 2-х сл. (4 шт.)/6</name>
+      </offer>
+      <offer id="102743729" available="true">
+        <price>76</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Полотенца бум. Вейро Classic 2-х сл (2 шт)/12</name>
+      </offer>
+      <offer id="102743728" available="true">
+        <price>210</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Полотенца бум Зева 2-х сл. (4 шт.)/4</name>
+      </offer>
+      <offer id="102743727" available="true">
+        <price>115</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Полотенца бум.Зева 2-х сл (2 шт)/12</name>
+      </offer>
+      <offer id="102743726" available="true">
+        <price>165</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Универсальные Полотенца Рулон (150 шт.)/12</name>
+      </offer>
+      <offer id="102743725" available="true">
+        <price>62</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <name>Хозяюшка Губка д/посуды MIDI (10 шт)/40</name>
+      </offer>
+      <offer id="102743724" available="true">
+        <price>290</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <name>м/с д/посуды Диона Magic 5 л/4</name>
+      </offer>
+      <offer id="102743723" available="true">
+        <price>97</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <name>м/с АОС Ср-во д/мытья посуды 450 мл./20</name>
+      </offer>
+      <offer id="102743722" available="true">
+        <price>200</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <name>м/с АОС Ср-во д/мытья посуды 900 мл/12</name>
+      </offer>
+      <offer id="102743721" available="true">
+        <price>15</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <name>Губка д/посуды металлич. Мастер Фреш (1шт)</name>
+      </offer>
+      <offer id="102743720" available="true">
+        <price>104</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <name>м/с Сарма Гель д/мытья посуды 500 мл/20</name>
+      </offer>
+      <offer id="102743719" available="true">
+        <price>112</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <name>м/с Фэйри Ср-во д/мытья посуды 450 мл /21</name>
+      </offer>
+      <offer id="102743718" available="true">
+        <price>82</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>6</categoryId>
+        <name>ч/с Чистин 3в1 Санитарно-гигиен. ср-во 750 мл/14</name>
+      </offer>
+      <offer id="102743717" available="true">
+        <price>238</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>6</categoryId>
+        <name>ч/с Туалетный Утенок ЧЕРНЫЙ 900 мл./12</name>
+      </offer>
+      <offer id="102743716" available="true">
+        <price>126</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>6</categoryId>
+        <name>ч/с Санита-Гель Антиржавчина 500 мл/12</name>
+      </offer>
+      <offer id="102743715" available="true">
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>6</categoryId>
+        <name>ч/с Орис Антиржавчина д/санузлов Grass 750мл /8</name>
+      </offer>
+      <offer id="102743714" available="true">
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>6</categoryId>
+        <name>ч/с Орис Все в 1 (д/санузлов) Grass 750мл/12</name>
+      </offer>
+      <offer id="102743713" available="true">
+        <price>188</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>6</categoryId>
+        <name>ч/с Доместос гель 1л/12</name>
+      </offer>
+      <offer id="102743712" available="true">
+        <price>36</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>6</categoryId>
+        <name>ч/с Белизна серая 0,9 л Лотос (Кемерово)/20</name>
+      </offer>
+      <offer id="102743711" available="true">
+        <price>185</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>6</categoryId>
+        <name>ч/с Азелит Антижир Спрей д/кухни 600 мл/8</name>
+      </offer>
+      <offer id="102743710" available="true">
+        <price>300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <name>м/с Диона Прогресс-гель 5 л ПЭТ/4</name>
+      </offer>
+      <offer id="102743709" available="true">
+        <price>350</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <name>ж/м Изабелла 5л</name>
+      </offer>
+      <offer id="102743708" available="true">
+        <price>84</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>6</categoryId>
+        <name>ч/с Пемолюкс 480 гр/16</name>
+      </offer>
+      <offer id="102743707" available="true">
+        <price>147</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <name>м/с Мистер Пропер Ср-во д/мытья пола 500 мл./20</name>
+      </offer>
+      <offer id="102743706" available="true">
+        <price>159</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <name>м/с Арена д/мытья пола Лаванда 1л Grass</name>
+      </offer>
+      <offer id="102743705" available="true">
+        <price>73</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <name>м/с Нитхинол-М Ср-во д/стекол 450 мл/16</name>
+      </offer>
+      <offer id="102743704" available="true">
+        <price>76</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <name>м/с Клер Ср-во д/стекол 500 мл./16</name>
+      </offer>
+      <offer id="102612507" available="true">
+        <price>24</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>7</categoryId>
+        <name>Тапочки однораз. Черные</name>
+      </offer>
+      <offer id="102605884" available="true">
+        <price>720</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Листы латексные Dental Formula с ароматом мяты, зеленые. Медиум 36 шт</name>
+      </offer>
+      <offer id="102603974" available="true">
+        <price>720</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Листы латексные Dental Formula без аромата, синие. Медиум 36 шт</name>
+      </offer>
+      <offer id="102603971" available="true">
+        <price>120</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Ретрактор стоматологический 2.0 одноразовый М (7 см),  белый, DENTAL FORMULA</name>
+      </offer>
+      <offer id="102603131" available="true">
+        <price>110</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>&quot; Микроаппликатор DENTAL FORMULA® Fine, цвет фиолетовый, в тубах по 100 шт&quot;</name>
+      </offer>
+      <offer id="102603752" available="true">
+        <price>110</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>&quot;Микроаппликатор DENTAL FORMULA® Ultrafine, цвет голубой, в тубах по 100 шт&quot;</name>
+      </offer>
+      <offer id="102602084" available="true">
+        <price>110</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>&quot;Микроаппликатор DENTAL FORMULA® Regular, цвет зеленый, в тубах по 100 шт&quot;</name>
+      </offer>
+      <offer id="102603973" available="true">
+        <price>120</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Ретрактор стоматологический 2.0 одноразовый S (6 см), M (7 см) белый, DENTAL FORMULA</name>
+      </offer>
+      <offer id="102612517" available="true">
+        <price>120</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Ретрактор стоматологический 2.0 одноразовый S (6 см), M (7 см) белый, DENTAL FORMULA (s)</name>
+      </offer>
+      <offer id="102612518" available="true">
+        <price>120</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Ретрактор стоматологический 2.0 одноразовый S (6 см), M (7 см) белый, DENTAL FORMULA (m)</name>
+      </offer>
+      <offer id="102607407" available="true">
+        <price>760</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Рулоны для стерилизации DENTAL FORMULA 50 мм х 200 м</name>
+      </offer>
+      <offer id="102607414" available="true">
+        <price>1100</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Рулоны для стерилизации DENTAL FORMULA 075 мм х 200 м</name>
+      </offer>
+      <offer id="102607422" available="true">
+        <price>1480</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Рулоны для стерилизации DENTAL FORMULA 100 мм х 200 м</name>
+      </offer>
+      <offer id="102607423" available="true">
+        <price>2200</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Рулоны для стерилизации DENTAL FORMULA 150 мм х 200 м</name>
+      </offer>
+      <offer id="102607425" available="true">
+        <price>3500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Рулоны для стерилизации DENTAL FORMULA 200 мм х 200 м</name>
+      </offer>
+      <offer id="102608041" available="true">
+        <price>3600</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Рулоны для стерилизации DENTAL FORMULA 250 мм х 200 м</name>
+      </offer>
+      <offer id="102608042" available="true">
+        <price>4750</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Рулоны для стерилизации DENTAL FORMULA 300 мм х 200 м</name>
+      </offer>
+      <offer id="102596197" available="true">
+        <price>736</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>13</categoryId>
+        <name>Шприц 1,0мл. с СИНИМ ПОРШНЕМ (3-х) SFM, Германия однораз. стер. с надетой иглой 0,45 х 12 - 26G (блистер)</name>
+      </offer>
+      <offer id="102595625" available="true">
+        <price>736</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>13</categoryId>
+        <name>Шприц 1,0мл. Инсулин. U-100 (3-х) SFM, Германия однораз. стер. с надетой иглой 0,45 х 12 - 26G (блистер)</name>
+      </offer>
+      <offer id="102595448" available="true">
+        <price>170</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>13</categoryId>
+        <name>Шприц 1,0мл. Инсулин. U - 100 (3-х) SFM, Германия однораз. стер. с интегрир. иглой 0,30 х 8,0 - 30G № 10 (полибэг)</name>
+      </offer>
+      <offer id="102595444" available="true">
+        <price>170</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>13</categoryId>
+        <name>Шприц 1,0мл. Инсулин. U - 100 (3-х) SFM, Германия однораз. стер. с интегрир. иглой 0,33 х 12,7 - 29G № 10 (полибэг)</name>
+      </offer>
+      <offer id="102595443" available="true">
+        <price>16</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>12</categoryId>
+        <name>Шприц 20 мл. (3-х) SFM, Германия с 0,80 х 40 - 21G (LUER LOCK) (блистер)</name>
+      </offer>
+      <offer id="102595224" available="true">
+        <price>703</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>12</categoryId>
+        <name>Шприц 2 мл. (3-х) SFM, Германия с 0,6 х 30 - 23G (LUER LOCK) (блистер)</name>
+      </offer>
+      <offer id="102594600" available="true">
+        <price>9</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>12</categoryId>
+        <name>Шприц 3мл. (3-х) SFM, Германия с 0,6 x 30 - 23G, уп. №10 (Без Латекса) (блистер)</name>
+      </offer>
+      <offer id="102594599" available="true">
+        <price>9</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>12</categoryId>
+        <name>Шприц 2мл. (3-х) SFM, Германия с 0,70 x 40 - 22G, уп. №10 (Без Латекса) (блистер)</name>
+      </offer>
+      <offer id="102594598" available="true">
+        <price>10</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>12</categoryId>
+        <name>Шприц 20мл. (3-х) SFM, Германияс 0,80 x 40 - 21G, уп. №5 (Без Латекса) (блистер)</name>
+      </offer>
+      <offer id="102594073" available="true">
+        <price>11</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>14</categoryId>
+        <name>Шприц 5мл. (3-х) SFM, Германия с 0,70 x 40 - 22G, уп. №10 (Без Латекса) (блистер)</name>
+      </offer>
+      <offer id="102593325" available="true">
+        <price>9</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>15</categoryId>
+        <name>Шприц 2мл. (3-х) SFM, Германия с 0,6 x 30 - 23G, уп. №10 (Без Латекса) (блистер)</name>
+      </offer>
+      <offer id="102438475" available="true">
+        <price>8</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>15</categoryId>
+        <name>Шприц 2мл. (3-х) SFM, Германия однораз. стер. с надетой иглой 0,6 x 30 - 23G (блистер)</name>
+      </offer>
+      <offer id="102438472" available="true">
+        <price>20</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>16</categoryId>
+        <name>Шприц 20мл. (3-х) SFM, Германия однораз. стер. с иглой 0,80 х 40 - 21G (LUER LOCK) (блистер)</name>
+      </offer>
+      <offer id="102438458" available="true">
+        <price>14</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>17</categoryId>
+        <name>Шприц 10мл. (3-х) SFM, Германия однораз. стер. с надетой иглой 0,80 х 40 - 21G (блистер)</name>
+      </offer>
+      <offer id="102438455" available="true">
+        <price>8</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>14</categoryId>
+        <name>Шприц 5мл. (3-х) SFM, Германия однораз. стер. с надетой иглой 0,70 х 40 - 22G (LUER LOCK) ( блистер)</name>
+      </offer>
+      <offer id="102438452" available="true">
+        <price>78</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>18</categoryId>
+        <name>Шприц - 3мл. (3-х) SFM, Германия однораз. стер. с надетой иглой 0,6 x 30 - 23G, упаковка №10 (БЕЗ ЛАТЕКСА) ( блистер)</name>
+      </offer>
+      <offer id="102437604" available="true">
+        <price>5</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>17</categoryId>
+        <name>Шприц 10 мл (3-х) луер слип, игла 0,8х40 – 21G фасовка 60/1200 (Wuzhou, Китай)</name>
+      </offer>
+      <offer id="102437581" available="true">
+        <price>3</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>14</categoryId>
+        <name>Шприц 5 мл (3-х) луер слип, игла 0,7х40 – 22G фасовка 100/1800 (Wuzhou, Китай)</name>
+      </offer>
+      <offer id="102436976" available="true">
+        <price>3</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>15</categoryId>
+        <name>Шприц 2 мл (3-х) луер слип, игла 0,6х30 – 23G фасовка 100/2400 (Wuzhou, Китай)</name>
+      </offer>
+      <offer id="102436263" available="true">
+        <price>3</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>13</categoryId>
+        <name>Шприц 1 мл (3-х) луер слип, игла 0,45х12 – 26G фасовка 100/3600 (Wuzhou, Китай)</name>
+      </offer>
+      <offer id="102432943" available="true">
+        <price>923</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Салфетки нагрудные &quot;Кристидент&quot; 500шт. - Стандарт, (2-слой.) 33х45см, Лимонные</name>
+      </offer>
+      <offer id="102433195" available="true">
+        <price>923</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Салфетки нагрудные &quot;Кристидент&quot; 500шт. - Стандарт, (2-слой.) 33х45см, Салатовые</name>
+      </offer>
+      <offer id="102433221" available="true">
+        <price>1189</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Салфетки нагрудные &quot;Кристидент&quot; 500шт. - ПРЕИМУМ , (3-слой.) 33х45см, ГОЛУБЫЕ</name>
+      </offer>
+      <offer id="102428534" available="true">
+        <price>975</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>21</categoryId>
+        <name>Фартук бумажно-полиэтиленовый интенсив ( 81 х 53 см ) х 60 шт., в рулоне</name>
+      </offer>
+      <offer id="102428677" available="true">
+        <price>975</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>21</categoryId>
+        <name>Фартук бумажно-полиэтиленовый интенсив ( 81 х 53 см ) х 60 шт., в рулоне (бордовый)</name>
+      </offer>
+      <offer id="102428678" available="true">
+        <price>975</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>21</categoryId>
+        <name>Фартук бумажно-полиэтиленовый интенсив ( 81 х 53 см ) х 60 шт., в рулоне (лимонный)</name>
+      </offer>
+      <offer id="102428533" available="true">
+        <price>975</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>21</categoryId>
+        <name>Фартук бумажно-полиэтиленовый  интенсив ( 61 х 53 см ) х 80 шт., в рулоне</name>
+      </offer>
+      <offer id="102428537" available="true">
+        <price>975</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>21</categoryId>
+        <name>Фартук бумажно-полиэтиленовый  интенсив ( 61 х 53 см ) х 80 шт., в рулоне (бордовый)</name>
+      </offer>
+      <offer id="102428538" available="true">
+        <price>975</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>21</categoryId>
+        <name>Фартук бумажно-полиэтиленовый  интенсив ( 61 х 53 см ) х 80 шт., в рулоне (лимонный)</name>
+      </offer>
+      <offer id="102428520" available="true">
+        <price>1189</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>21</categoryId>
+        <name>Фартуки полиэтиленовые в рулоне (200 шт) Кристидент, синие</name>
+      </offer>
+      <offer id="102431880" available="true">
+        <price>780</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>22</categoryId>
+        <name>Чехлы защитные для датчика радиовизиографа «КРИСТИДЕНТ» 500 шт</name>
+      </offer>
+      <offer id="102748449" available="true">
+        <price>300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>21</categoryId>
+        <name>Фартук полиэтиленовый 80*120 100 шт</name>
+      </offer>
+      <offer id="102695912" available="true">
+        <price>300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>21</categoryId>
+        <name>Фартук полиэтиленовый 81*125 100 шт</name>
+      </offer>
+      <offer id="102608043" available="true">
+        <price>130</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>23</categoryId>
+        <name>Халат хирургический рр52-54 пл25г/м2 на резинке белый стерильный</name>
+      </offer>
+      <offer id="102608268" available="true">
+        <price>140</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>23</categoryId>
+        <name>Халат хирургический рр52-54 пл42г/м2 на резинке белый стерильный</name>
+      </offer>
+      <offer id="102608280" available="true">
+        <price>70</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>23</categoryId>
+        <name>Простынь хирургическая стерильная 70 х80 см пл 25 г/м2</name>
+      </offer>
+      <offer id="102608499" available="true">
+        <price>70</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>23</categoryId>
+        <name>Простынь хирургическая стерильная 70 х 80см пл 42 г/м2</name>
+      </offer>
+      <offer id="102608273" available="true">
+        <price>100</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>23</categoryId>
+        <name>Простынь хирургическая стерильная 200х160 см пл 25 г/м 2</name>
+      </offer>
+      <offer id="102608269" available="true">
+        <price>100</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>23</categoryId>
+        <name>Простыня хирург. стерильная 160*200 см пл42г/м2</name>
+      </offer>
+      <offer id="102431035" available="true">
+        <price>10</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>24</categoryId>
+        <name>Устройство для вливания в малые вены - игла-бабочка LUER LOCK 22G (0,70х19мм) SFM</name>
+      </offer>
+      <offer id="102431034" available="true">
+        <price>10</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>24</categoryId>
+        <name>Устройство для вливания в малые вены - игла-бабочка LUER LOCK 25G (0,50х19мм) SFM</name>
+      </offer>
+      <offer id="102431033" available="true">
+        <price>45</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>25</categoryId>
+        <name>Катетеры внутривенные (канюли) с портом FEP 24G (0,70х19мм) SFM, Германия</name>
+      </offer>
+      <offer id="102427231" available="true">
+        <price>350</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>26</categoryId>
+        <name>Шапочка берет круглая белая 100 шт</name>
+      </offer>
+      <offer id="102427230" available="true">
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>26</categoryId>
+        <name>Шапочка шарлота черная 100 шт</name>
+      </offer>
+      <offer id="102427229" available="true">
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>26</categoryId>
+        <name>Шапочка шарлота белая 100 шт</name>
+      </offer>
+      <offer id="102610171" available="true">
+        <price>75</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Маска медицинская трехслойная, 50 шт</name>
+      </offer>
+      <offer id="102610390" available="true">
+        <price>100</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Маска медицинская черная 50шт</name>
+      </offer>
+      <offer id="102425120" available="true">
+        <price>1650</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>28</categoryId>
+        <name>Иглы медицинские стерильные одноразовые SFM 0,23мм х 4 мм 32G ETW №50</name>
+      </offer>
+      <offer id="102425118" available="true">
+        <price>995</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>28</categoryId>
+        <name>Иглы медицинские стерильные одноразовые SFM 0,30мм х 13 мм 30G ETW №50</name>
+      </offer>
+      <offer id="102425117" available="true">
+        <price>1650</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>28</categoryId>
+        <name>Иглы медицинские стерильные одноразовые SFM 0,23мм х 8 мм 32G ETW №50</name>
+      </offer>
+      <offer id="102425114" available="true">
+        <price>2250</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>28</categoryId>
+        <name>Иглы медицинские стерильные одноразовые SFM 0,2мм х 4 мм 33G ETW №50</name>
+      </offer>
+      <offer id="102425112" available="true">
+        <price>295</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>28</categoryId>
+        <name>Иглы медицинские инъекционные SFM 0,60 х 25 мм 23G TW №100</name>
+      </offer>
+      <offer id="102425108" available="true">
+        <price>430</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>28</categoryId>
+        <name>Иглы медицинские инъекционные SFM 1,20 х 40 мм 18G TW №100</name>
+      </offer>
+      <offer id="102424276" available="true">
+        <price>295</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>28</categoryId>
+        <name>Иглы медицинские инъекционные SFM 0,50 х 25 мм 25G RW №100</name>
+      </offer>
+      <offer id="102409238" available="true">
+        <price>250</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>29</categoryId>
+        <name>Перчатки ВИНИЛОВЫЕ (SFM,Германия)</name>
+      </offer>
+      <offer id="102409239" available="true">
+        <price>250</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>29</categoryId>
+        <name>Перчатки ВИНИЛОВЫЕ (SFM,Германия) (S)</name>
+      </offer>
+      <offer id="102409240" available="true">
+        <price>250</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>29</categoryId>
+        <name>Перчатки ВИНИЛОВЫЕ (SFM,Германия) (M)</name>
+      </offer>
+      <offer id="102409241" available="true">
+        <price>250</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>29</categoryId>
+        <name>Перчатки ВИНИЛОВЫЕ (SFM,Германия) (L)</name>
+      </offer>
+      <offer id="102409242" available="true">
+        <price>250</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>29</categoryId>
+        <name>Перчатки ВИНИЛОВЫЕ (SFM,Германия) (XL)</name>
+      </offer>
+      <offer id="102403690" available="true">
+        <price>750</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>31</categoryId>
+        <name>Перчатки нитриловые SFM SUPERSOFT VIOLET BLUE 100 пар / ФИОЛЕТОВО-ГОЛУБОЙ (Германия)</name>
+      </offer>
+      <offer id="102405824" available="true">
+        <price>750</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>31</categoryId>
+        <name>Перчатки нитриловые SFM SUPERSOFT VIOLET BLUE 100 пар / ФИОЛЕТОВО-ГОЛУБОЙ (Германия) (XS)</name>
+      </offer>
+      <offer id="102405825" available="true">
+        <price>750</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>31</categoryId>
+        <name>Перчатки нитриловые SFM SUPERSOFT VIOLET BLUE 100 пар / ФИОЛЕТОВО-ГОЛУБОЙ (Германия) (S)</name>
+      </offer>
+      <offer id="102405826" available="true">
+        <price>750</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>31</categoryId>
+        <name>Перчатки нитриловые SFM SUPERSOFT VIOLET BLUE 100 пар / ФИОЛЕТОВО-ГОЛУБОЙ (Германия) (M)</name>
+      </offer>
+      <offer id="102405827" available="true">
+        <price>750</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>31</categoryId>
+        <name>Перчатки нитриловые SFM SUPERSOFT VIOLET BLUE 100 пар / ФИОЛЕТОВО-ГОЛУБОЙ (Германия) (L)</name>
+      </offer>
+      <offer id="102405828" available="true">
+        <price>750</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>31</categoryId>
+        <name>Перчатки нитриловые SFM SUPERSOFT VIOLET BLUE 100 пар / ФИОЛЕТОВО-ГОЛУБОЙ (Германия) (XL)</name>
+      </offer>
+      <offer id="102408258" available="true">
+        <price>420</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>30</categoryId>
+        <name>Перчатки нитриловые BENOVY текстур на пальцах белые</name>
+      </offer>
+      <offer id="102408259" available="true">
+        <price>420</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>30</categoryId>
+        <name>Перчатки нитриловые BENOVY текстур на пальцах белые (XS)</name>
+      </offer>
+      <offer id="102408260" available="true">
+        <price>420</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>30</categoryId>
+        <name>Перчатки нитриловые BENOVY текстур на пальцах белые (S)</name>
+      </offer>
+      <offer id="102408261" available="true">
+        <price>420</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>30</categoryId>
+        <name>Перчатки нитриловые BENOVY текстур на пальцах белые (M)</name>
+      </offer>
+      <offer id="102407164" available="true">
+        <price>480</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>30</categoryId>
+        <name>Перчатки нитриловые BENOVY текстур на пальцах розовые</name>
+      </offer>
+      <offer id="102407165" available="true">
+        <price>480</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>30</categoryId>
+        <name>Перчатки нитриловые BENOVY текстур на пальцах розовые (XS)</name>
+      </offer>
+      <offer id="102407166" available="true">
+        <price>480</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>30</categoryId>
+        <name>Перчатки нитриловые BENOVY текстур на пальцах розовые (S)</name>
+      </offer>
+      <offer id="102407167" available="true">
+        <price>480</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>30</categoryId>
+        <name>Перчатки нитриловые BENOVY текстур на пальцах розовые (M)</name>
+      </offer>
+      <offer id="102407111" available="true">
+        <price>420</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>30</categoryId>
+        <name>Перчатки нитриловые BENOVY текстур на пальцах черные 50 пар</name>
+      </offer>
+      <offer id="102754722" available="true">
+        <price>420</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>30</categoryId>
+        <name>Перчатки нитриловые BENOVY текстур на пальцах черные 50 пар  (XS)</name>
+      </offer>
+      <offer id="102754723" available="true">
+        <price>420</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>30</categoryId>
+        <name>Перчатки нитриловые BENOVY текстур на пальцах черные 50 пар  (S)</name>
+      </offer>
+      <offer id="102754724" available="true">
+        <price>420</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>30</categoryId>
+        <name>Перчатки нитриловые BENOVY текстур на пальцах черные 50 пар  (M)</name>
+      </offer>
+      <offer id="102754725" available="true">
+        <price>420</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>30</categoryId>
+        <name>Перчатки нитриловые BENOVY текстур на пальцах черные 50 пар  (L)</name>
+      </offer>
+      <offer id="102748201" available="true">
+        <price>350</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>30</categoryId>
+        <name>Перчатки Wally Plastic  нитриловые  - чёрные 50 пар</name>
+      </offer>
+      <offer id="102748202" available="true">
+        <price>350</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>30</categoryId>
+        <name>Перчатки Wally Plastic  нитриловые  - чёрные 50 пар  (s)</name>
+      </offer>
+      <offer id="102748203" available="true">
+        <price>350</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>30</categoryId>
+        <name>Перчатки Wally Plastic  нитриловые  - чёрные 50 пар  (m)</name>
+      </offer>
+      <offer id="102748204" available="true">
+        <price>350</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>30</categoryId>
+        <name>Перчатки Wally Plastic  нитриловые  - чёрные 50 пар  (l)</name>
+      </offer>
+      <offer id="102748205" available="true">
+        <price>350</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>30</categoryId>
+        <name>Перчатки Wally Plastic  нитриловые  - чёрные 50 пар  (xl)</name>
+      </offer>
+      <offer id="102403924" available="true">
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>30</categoryId>
+        <name>Перчатки HIGH RISK NX 180 № 25пар SFM MEGA TEX BLACK - Нитриловые.Неопудр.Нестер.Текстур.Хлор.Однокр. /ЧЕРНЫЕ/ (Германия</name>
+      </offer>
+      <offer id="102406204" available="true">
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>30</categoryId>
+        <name>Перчатки HIGH RISK NX 180 № 25пар SFM MEGA TEX BLACK - Нитриловые.Неопудр.Нестер.Текстур.Хлор.Однокр. /ЧЕРНЫЕ/ (Германия</name>
+      </offer>
+      <offer id="102406205" available="true">
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>30</categoryId>
+        <name>Перчатки HIGH RISK NX 180 № 25пар SFM MEGA TEX BLACK - Нитриловые.Неопудр.Нестер.Текстур.Хлор.Однокр. /ЧЕРНЫЕ/ (Германия</name>
+      </offer>
+      <offer id="102406206" available="true">
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>30</categoryId>
+        <name>Перчатки HIGH RISK NX 180 № 25пар SFM MEGA TEX BLACK - Нитриловые.Неопудр.Нестер.Текстур.Хлор.Однокр. /ЧЕРНЫЕ/ (Германия</name>
+      </offer>
+      <offer id="102406207" available="true">
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>30</categoryId>
+        <name>Перчатки HIGH RISK NX 180 № 25пар SFM MEGA TEX BLACK - Нитриловые.Неопудр.Нестер.Текстур.Хлор.Однокр. /ЧЕРНЫЕ/ (Германия</name>
+      </offer>
+      <offer id="102404141" available="true">
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>30</categoryId>
+        <name>Перчатки HIGH RISK NX 180 № 25пар SFM MEGA TEX ORANGE - Нитриловые.Неопудр.Нестер.Текстур.Хлор.Однокр. (Германия)</name>
+      </offer>
+      <offer id="102406199" available="true">
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>30</categoryId>
+        <name>Перчатки HIGH RISK NX 180 № 25пар SFM MEGA TEX ORANGE - Нитриловые.Неопудр.Нестер.Текстур.Хлор.Однокр. (Германия) (S)</name>
+      </offer>
+      <offer id="102406200" available="true">
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>30</categoryId>
+        <name>Перчатки HIGH RISK NX 180 № 25пар SFM MEGA TEX ORANGE - Нитриловые.Неопудр.Нестер.Текстур.Хлор.Однокр. (Германия) (M)</name>
+      </offer>
+      <offer id="102406201" available="true">
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>30</categoryId>
+        <name>Перчатки HIGH RISK NX 180 № 25пар SFM MEGA TEX ORANGE - Нитриловые.Неопудр.Нестер.Текстур.Хлор.Однокр. (Германия) (L)</name>
+      </offer>
+      <offer id="102406202" available="true">
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>30</categoryId>
+        <name>Перчатки HIGH RISK NX 180 № 25пар SFM MEGA TEX ORANGE - Нитриловые.Неопудр.Нестер.Текстур.Хлор.Однокр. (Германия) (XL)</name>
+      </offer>
+      <offer id="102403909" available="true">
+        <price>475</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>32</categoryId>
+        <name>Перчатки смотр. н/стер. ЛАТЕКСНЫЕ НЕОПУДР. LC 250 SC текстур. ХЛОР. однокр. НАТУРАЛЬНЫЙ (SFM, Германия), XS</name>
+      </offer>
+      <offer id="102408678" available="true">
+        <price>475</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>32</categoryId>
+        <name>Перчатки смотр. н/стер. ЛАТЕКСНЫЕ НЕОПУДР. LC 250 SC текстур. ХЛОР. однокр. НАТУРАЛЬНЫЙ (SFM, Германия), XS (XS)</name>
+      </offer>
+      <offer id="102408679" available="true">
+        <price>475</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>32</categoryId>
+        <name>Перчатки смотр. н/стер. ЛАТЕКСНЫЕ НЕОПУДР. LC 250 SC текстур. ХЛОР. однокр. НАТУРАЛЬНЫЙ (SFM, Германия), XS (S)</name>
+      </offer>
+      <offer id="102408680" available="true">
+        <price>475</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>32</categoryId>
+        <name>Перчатки смотр. н/стер. ЛАТЕКСНЫЕ НЕОПУДР. LC 250 SC текстур. ХЛОР. однокр. НАТУРАЛЬНЫЙ (SFM, Германия), XS (M)</name>
+      </offer>
+      <offer id="102408681" available="true">
+        <price>475</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>32</categoryId>
+        <name>Перчатки смотр. н/стер. ЛАТЕКСНЫЕ НЕОПУДР. LC 250 SC текстур. ХЛОР. однокр. НАТУРАЛЬНЫЙ (SFM, Германия), XS (L)</name>
+      </offer>
+      <offer id="102403910" available="true">
+        <price>725</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>32</categoryId>
+        <name>Перчатки СТОМАТОЛОГИЧЕСКИЕ SFM DENTAL LATEX L 265 DC нестер. неопудр. текстур. (SFM,Германия)</name>
+      </offer>
+      <offer id="102408682" available="true">
+        <price>725</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>32</categoryId>
+        <name>Перчатки СТОМАТОЛОГИЧЕСКИЕ SFM DENTAL LATEX L 265 DC нестер. неопудр. текстур. (SFM,Германия) (XS)</name>
+      </offer>
+      <offer id="102408683" available="true">
+        <price>725</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>32</categoryId>
+        <name>Перчатки СТОМАТОЛОГИЧЕСКИЕ SFM DENTAL LATEX L 265 DC нестер. неопудр. текстур. (SFM,Германия) (S)</name>
+      </offer>
+      <offer id="102408684" available="true">
+        <price>725</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>32</categoryId>
+        <name>Перчатки СТОМАТОЛОГИЧЕСКИЕ SFM DENTAL LATEX L 265 DC нестер. неопудр. текстур. (SFM,Германия) (M)</name>
+      </offer>
+      <offer id="102408685" available="true">
+        <price>725</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>32</categoryId>
+        <name>Перчатки СТОМАТОЛОГИЧЕСКИЕ SFM DENTAL LATEX L 265 DC нестер. неопудр. текстур. (SFM,Германия) (L)</name>
+      </offer>
+      <offer id="102408686" available="true">
+        <price>725</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>32</categoryId>
+        <name>Перчатки СТОМАТОЛОГИЧЕСКИЕ SFM DENTAL LATEX L 265 DC нестер. неопудр. текстур. (SFM,Германия) (XL)</name>
+      </offer>
+      <offer id="102403923" available="true">
+        <price>1400</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>33</categoryId>
+        <name>Перчатки хирургические СТЕРИЛЬНЫЕ латексные неопудренные (SFM, Германия)</name>
+      </offer>
+      <offer id="102408691" available="true">
+        <price>1400</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>33</categoryId>
+        <name>Перчатки хирургические СТЕРИЛЬНЫЕ латексные неопудренные (SFM, Германия) (6.0)</name>
+      </offer>
+      <offer id="102408692" available="true">
+        <price>1400</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>33</categoryId>
+        <name>Перчатки хирургические СТЕРИЛЬНЫЕ латексные неопудренные (SFM, Германия) (6.5)</name>
+      </offer>
+      <offer id="102408693" available="true">
+        <price>1400</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>33</categoryId>
+        <name>Перчатки хирургические СТЕРИЛЬНЫЕ латексные неопудренные (SFM, Германия) (7,0)</name>
+      </offer>
+      <offer id="102408694" available="true">
+        <price>1400</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>33</categoryId>
+        <name>Перчатки хирургические СТЕРИЛЬНЫЕ латексные неопудренные (SFM, Германия) (7,5)</name>
+      </offer>
+      <offer id="102408695" available="true">
+        <price>1400</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>33</categoryId>
+        <name>Перчатки хирургические СТЕРИЛЬНЫЕ латексные неопудренные (SFM, Германия) (8,0)</name>
+      </offer>
+      <offer id="102408696" available="true">
+        <price>1400</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>33</categoryId>
+        <name>Перчатки хирургические СТЕРИЛЬНЫЕ латексные неопудренные (SFM, Германия) (8,5)</name>
+      </offer>
+      <offer id="102408697" available="true">
+        <price>1400</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>33</categoryId>
+        <name>Перчатки хирургические СТЕРИЛЬНЫЕ латексные неопудренные (SFM, Германия) (9,0)</name>
+      </offer>
+      <offer id="102403921" available="true">
+        <price>475</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>32</categoryId>
+        <name>Перчатки HIGH RISK CHLORINATED L 213 латекс н/стер.неоп. текстур. (SFM,Германия) / СИНИЕ, S</name>
+      </offer>
+      <offer id="102408687" available="true">
+        <price>475</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>32</categoryId>
+        <name>Перчатки HIGH RISK CHLORINATED L 213 латекс н/стер.неоп. текстур. (SFM,Германия) / СИНИЕ, S (S)</name>
+      </offer>
+      <offer id="102408688" available="true">
+        <price>475</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>32</categoryId>
+        <name>Перчатки HIGH RISK CHLORINATED L 213 латекс н/стер.неоп. текстур. (SFM,Германия) / СИНИЕ, S (M)</name>
+      </offer>
+      <offer id="102408689" available="true">
+        <price>475</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>32</categoryId>
+        <name>Перчатки HIGH RISK CHLORINATED L 213 латекс н/стер.неоп. текстур. (SFM,Германия) / СИНИЕ, S (L)</name>
+      </offer>
+      <offer id="102408690" available="true">
+        <price>475</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>32</categoryId>
+        <name>Перчатки HIGH RISK CHLORINATED L 213 латекс н/стер.неоп. текстур. (SFM,Германия) / СИНИЕ, S (XL)</name>
+      </offer>
+      <offer id="102402571" available="true">
+        <price>14</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>24</categoryId>
+        <name>Система ИНФУЗИОННАЯ с пласт. шипом, дл. 150 см, Луер Слип, игла 0,80 х 40 - 21G фасовка 45/720 (Huaian City, Китай)</name>
+      </offer>
+      <offer id="102402569" available="true">
+        <price>46</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>24</categoryId>
+        <name>Система Трансфузионная SFM ПК 23-02 для переливания крови (пластик. шип), игла 1,20 х 40 - 18G, LUER LOCK (Германия)</name>
+      </offer>
+      <offer id="102401940" available="true">
+        <price>41</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>24</categoryId>
+        <name>Система Трансфузионная для переливания крови (пластик. шип), игла 1,20 х 40 - 18G, SFM, Германия</name>
+      </offer>
+      <offer id="102401722" available="true">
+        <price>41</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>24</categoryId>
+        <name>Система ИНФУЗИОННАЯ для переливания растворов (пластик. шип), игла 0,80 х 40 - 21G, SFM, Германия</name>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
