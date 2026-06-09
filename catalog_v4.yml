@@ -1,0 +1,1656 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2024-01-01">
+<shop>
+<name>Нитрил Томск</name>
+<company>Нитрил Томск</company>
+<url>https://vk.com/nitril_tomsk</url>
+<currencies>
+<currency id="RUR" rate="1"/>
+</currencies>
+<categories>
+<category id="1">Бахилы</category>
+<category id="2">Мешки для мусора</category>
+<category id="3">Туалетная бумага</category>
+<category id="4">Салфетки</category>
+<category id="5">Моющие средства</category>
+<category id="6">Чистящие средства</category>
+<category id="7">Тапочки одн.</category>
+<category id="8">Латексные листы для коффердама</category>
+<category id="9">Стоматологические</category>
+<category id="10">Микроаппликаторы и Ретракторы</category>
+<category id="11">Рулоны для стерилизации инструментов</category>
+<category id="12">Шприцы</category>
+<category id="13">Шприцы 1мл</category>
+<category id="14">Шприцы 5мл</category>
+<category id="15">Шприцы 2мл</category>
+<category id="16">Шприцы 20мл</category>
+<category id="17">Шприцы 10мл</category>
+<category id="18">Шприцы 3мл</category>
+<category id="19">Колющие</category>
+<category id="20">Нагрудники стоматология</category>
+<category id="21">Фартуки стоматология</category>
+<category id="22">Чехлы защитные стоматология</category>
+<category id="23">Халат хирург</category>
+<category id="24">Системы</category>
+<category id="25">Катетеры</category>
+<category id="26">Шапочка</category>
+<category id="27">Маска защитная</category>
+<category id="28">Иглы</category>
+<category id="29">Виниловые</category>
+<category id="30">Нитриловые</category>
+<category id="31">Перчатки</category>
+<category id="32">Латекс</category>
+<category id="33">Хирургические</category>
+</categories>
+<offers>
+<offer id="102761701" available="true">
+<name>бахилы 60 мкм чернык (1000 пар)</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>2900</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/f/9/0/f905cc2caecab68b76f0765a53de864f.jpeg</picture>
+</offer>
+<offer id="102761700" available="true">
+<name>Бахилы 40 мкм черные (1000пар)</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>2200</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/f/9/0/f905cc2caecab68b76f0765a53de864f.jpeg</picture>
+</offer>
+<offer id="102761699" available="true">
+<name>Бахилы 20 мкм черные (1000 пар)</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>1600</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/f/9/0/f905cc2caecab68b76f0765a53de864f.jpeg</picture>
+</offer>
+<offer id="102744054" available="true">
+<name>Мешки д/мусора Пакеты 120л (30шт)</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>200</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/a/5/c/a5cca9ad307074ba8ac73e0e6c96bee8.jpeg</picture>
+</offer>
+<offer id="102744053" available="true">
+<name>Мешки д/мусора 60л Бонус (10шт) синий с завязками</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>59</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/a/5/c/a5cca9ad307074ba8ac73e0e6c96bee8.jpeg</picture>
+</offer>
+<offer id="102744052" available="true">
+<name>Мешки д/мусора 35л Мастер Фрэш (15 шт) с завяз черн</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>50</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/2/b/8/2b808905e258354970f3f9857c3364c4.webp</picture>
+</offer>
+<offer id="102744051" available="true">
+<name>Мешки д/мусора 30л Мастер Фрэш (20шт) черн Суперпроч</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>55</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/2/b/8/2b808905e258354970f3f9857c3364c4.webp</picture>
+</offer>
+<offer id="102744050" available="true">
+<name>Мешки д/мусора 160л Мастер Фрэш (10шт)</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>132</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/a/5/c/a5cca9ad307074ba8ac73e0e6c96bee8.jpeg</picture>
+</offer>
+<offer id="102744049" available="true">
+<name>Мешки д/мусора 10л /25шт</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>30</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/a/5/c/a5cca9ad307074ba8ac73e0e6c96bee8.jpeg</picture>
+</offer>
+<offer id="102744048" available="true">
+<name>Парло Мешки д/мусора 120 л (10 шт) черные</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>55</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/2/b/8/2b808905e258354970f3f9857c3364c4.webp</picture>
+</offer>
+<offer id="102744047" available="true">
+<name>Мешки д/мусора 20л (50шт) в рулоне</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>45</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/a/5/c/a5cca9ad307074ba8ac73e0e6c96bee8.jpeg</picture>
+</offer>
+<offer id="102744046" available="true">
+<name>Мешки д/мусора 20л (25шт) 8мк в рулоне Люкс</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>30</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/a/5/c/a5cca9ad307074ba8ac73e0e6c96bee8.jpeg</picture>
+</offer>
+<offer id="102744045" available="true">
+<name>Мешки д/мусора 160 л Мастер Фрэш (10шт)</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>163</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/2/b/8/2b808905e258354970f3f9857c3364c4.webp</picture>
+</offer>
+<offer id="102744044" available="true">
+<name>Парло Мешки д/мусора 60 л (20 шт) черные</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>42</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/2/b/8/2b808905e258354970f3f9857c3364c4.webp</picture>
+</offer>
+<offer id="102744043" available="true">
+<name>Мешки д/мусора Бонус 60л (20шт) синий</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>60</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/a/5/c/a5cca9ad307074ba8ac73e0e6c96bee8.jpeg</picture>
+</offer>
+<offer id="102744042" available="true">
+<name>Мешки д/мусора Биг Сити синие 60л (20шт)</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>75</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/a/5/c/a5cca9ad307074ba8ac73e0e6c96bee8.jpeg</picture>
+</offer>
+<offer id="102744041" available="true">
+<name>Мешки д/мусора 60 л Мастер Фрэш (20 шт)</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>68</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/2/b/8/2b808905e258354970f3f9857c3364c4.webp</picture>
+</offer>
+<offer id="102744040" available="true">
+<name>Мешки д/мусора 60 л Мастер Фрэш (15 шт) с завяз зелен</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>82</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/2/5/b/25b7d999b1b4f4eb9e1590704d21dab9.jpeg</picture>
+</offer>
+<offer id="102744039" available="true">
+<name>Биг Сити Мешки д/мусора с ручками 60 л (20 шт) синие</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>130</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/a/5/c/a5cca9ad307074ba8ac73e0e6c96bee8.jpeg</picture>
+</offer>
+<offer id="102744038" available="true">
+<name>Биг Сити Мешки д/мусора с затяж. 60 л (10 шт) лиловые</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>68</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/9/f/9/9f9d5b8b1024c0d604db446bf86c7cf4.jpeg</picture>
+</offer>
+<offer id="102744036" available="true">
+<name>Мешки д/мусора Бонус Эконом 30л (20шт)</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>29</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/a/5/c/a5cca9ad307074ba8ac73e0e6c96bee8.jpeg</picture>
+</offer>
+<offer id="102744035" available="true">
+<name>Мешки д/мусора Биг Сити синие 35л (30шт)</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>63</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/a/5/c/a5cca9ad307074ba8ac73e0e6c96bee8.jpeg</picture>
+</offer>
+<offer id="102744034" available="true">
+<name>Мешки д/мусора 30 л Мастер Фрэш (30 шт)черные</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>44</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/2/b/8/2b808905e258354970f3f9857c3364c4.webp</picture>
+</offer>
+<offer id="102744032" available="true">
+<name>Мешки д/мусора 240 л Мастер Фрэш (5 шт) суперпрочн.</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>141</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/2/b/8/2b808905e258354970f3f9857c3364c4.webp</picture>
+</offer>
+<offer id="102744030" available="true">
+<name>Хозяюшка Мешки д/мусора ПРОФИ 120 л. (10 шт)</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>127</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/2/b/8/2b808905e258354970f3f9857c3364c4.webp</picture>
+</offer>
+<offer id="102744029" available="true">
+<name>Мешки д/мусора  120л (10шт) черный</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>109</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/2/b/8/2b808905e258354970f3f9857c3364c4.webp</picture>
+</offer>
+<offer id="102744028" available="true">
+<name>Мешки д/мусора 120л Мастер Фрэш (10шт)</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>127</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/a/5/c/a5cca9ad307074ba8ac73e0e6c96bee8.jpeg</picture>
+</offer>
+<offer id="102744026" available="true">
+<name>т/б Папия 3-х сл. (4 шт)/14</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>128</price>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/f/4/c/f4c7c1a5919d4e28bc0537c2d9203d06.png</picture>
+</offer>
+<offer id="102744025" available="true">
+<name>т/б Набережные Челны/48</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>26</price>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/d/2/0/d20892e645bc38dd43c93e6af119077c.jpeg</picture>
+</offer>
+<offer id="102744024" available="true">
+<name>т/б Зева Плюс Яблоко 2-х сл (8 шт)/12</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>228</price>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/5/8/5/58514bb2fd569ecac2ed7eaf7fd00f0a.jpeg</picture>
+</offer>
+<offer id="102744023" available="true">
+<name>т/б Зева Плюс 2-х сл (4 шт)/24</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>120</price>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/e/c/4/ec4c7ad285fbe4a7717ceb28e278b37e.jpeg</picture>
+</offer>
+<offer id="102744022" available="true">
+<name>т/б Папия 3-х сл. Белая (8 шт) /7</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>235</price>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/f/5/2/f52d2f674213f021e167746c3121ef7f.jpeg</picture>
+</offer>
+<offer id="102744021" available="true">
+<name>т/б Вейро 2-х сл (4 шт)/12</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>68</price>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/f/3/f/f3f045002c39243b2def813de4f0c6fd.jpeg</picture>
+</offer>
+<offer id="102744020" available="true">
+<name>Смарт Эконом Салфетка д/уборки микрофибра 30*30 (4 шт)</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>112</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/2/5/7/2571a54eb958aaddf978e9f8c407a9a1.jpeg</picture>
+</offer>
+<offer id="102744019" available="true">
+<name>Салфетки д/уборки Бонус вискоза (5 шт)/40</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>60</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/6/5/9/659f953f1fdc1a00d0517903d8a147d8.png</picture>
+</offer>
+<offer id="102744018" available="true">
+<name>Салфетки д/уборки Бонус вискоза (3 шт)/65</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>34</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/6/5/9/659f953f1fdc1a00d0517903d8a147d8.png</picture>
+</offer>
+<offer id="102744017" available="true">
+<name>Салфетки влажн. Авангард д/всей семьи 120 шт с крыш. Антибак.</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>83</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/6/9/9/699e36f4167688ad33d7b58ed5bb0b81.jpeg</picture>
+</offer>
+<offer id="102744016" available="true">
+<name>Салфетки влаж.с крыш. д/всей семьи Аура 120 шт. Антибак./12</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>93</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/a/b/e/abeb8894269c1c2c8f5b6948c31bb2e2.jpeg</picture>
+</offer>
+<offer id="102744015" available="true">
+<name>Салфетки влаж. Аура 15 шт/110</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>14</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/3/2/d/32df926762cb5b9465168c81557cf9da.jpeg</picture>
+</offer>
+<offer id="102744014" available="true">
+<name>Салфетки бум. НИКА 100 л БЕЛЫЕ/50</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>26</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/5/7/e/57e23b237dc021a4f1568825fc6d63d9.png</picture>
+</offer>
+<offer id="102744013" available="true">
+<name>Салфетка д/пола Мастер Фреш Микрофибра XL 50*60 см/60</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>110</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/0/f/9/0f95a8f0f65fb66dd78371944fa3023a.jpeg</picture>
+</offer>
+<offer id="102744012" available="true">
+<name>Салфети Влаж. полотенца Универс. с крыш. 21*19 (60 шт)/10</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>150</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/0/a/1/0a10408a3d8d17faa6f8e5b0c59b9f50.webp</picture>
+</offer>
+<offer id="102744011" available="true">
+<name>Полотенца бум Папия 3-х сл. (4 шт.)/7</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>246</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/1/b/b/1bbd485eeeb53539ac2c9f3b4015108b.jpeg</picture>
+</offer>
+<offer id="102744010" available="true">
+<name>Полотенца бум Папия 3-х сл. (2 шт.)/14</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>132</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/1/d/2/1d2d269f065e7d6e466b8de1670dd2a3.jpeg</picture>
+</offer>
+<offer id="102744009" available="true">
+<name>Полотенца Бум. Вейро Classic 2-х сл. (4 шт.)/6</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>131</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/8/6/2/862f920e790ab2942dace2c7714e4533.jpeg</picture>
+</offer>
+<offer id="102744008" available="true">
+<name>Полотенца бум. Вейро Classic 2-х сл (2 шт)/12</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>76</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/1/f/3/1f35153e97cd33ee9dfe28f26785f798.jpeg</picture>
+</offer>
+<offer id="102744007" available="true">
+<name>Полотенца бум Зева 2-х сл. (4 шт.)/4</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>210</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/e/4/8/e481925eb8fc036d84f5d0bde288a02d.webp</picture>
+</offer>
+<offer id="102744006" available="true">
+<name>Полотенца бум.Зева 2-х сл (2 шт)/12</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>115</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/3/b/6/3b600db7c9e9d5919c11e2d253c86631.jpeg</picture>
+</offer>
+<offer id="102744005" available="true">
+<name>Универсальные Полотенца Рулон (150 шт.)/12</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>165</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/e/f/6/ef657df46ef80b7942423c5f9c734c28.webp</picture>
+</offer>
+<offer id="102744004" available="true">
+<name>Хозяюшка Губка д/посуды MIDI (10 шт)/40</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>62</price>
+<currencyId>RUR</currencyId>
+<categoryId>5</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/3/e/4/3e48ec6b445c466d38c12042850febb3.webp</picture>
+</offer>
+<offer id="102744003" available="true">
+<name>м/с д/посуды Диона Magic 5 л/4</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>290</price>
+<currencyId>RUR</currencyId>
+<categoryId>5</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/6/0/4/604c2ccd115ee84143dc98566fd35025.jpeg</picture>
+</offer>
+<offer id="102744002" available="true">
+<name>м/с АОС Ср-во д/мытья посуды 450 мл./20</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>97</price>
+<currencyId>RUR</currencyId>
+<categoryId>5</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/2/3/9/2396389985312464437ee23fd7e009b0.jpeg</picture>
+</offer>
+<offer id="102744001" available="true">
+<name>м/с АОС Ср-во д/мытья посуды 900 мл/12</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>200</price>
+<currencyId>RUR</currencyId>
+<categoryId>5</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/2/1/5/215f4be00b4c25e92f2bf85f459090f2.webp</picture>
+</offer>
+<offer id="102744000" available="true">
+<name>Губка д/посуды металлич. Мастер Фреш (1шт)</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>15</price>
+<currencyId>RUR</currencyId>
+<categoryId>5</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/a/0/c/a0c7a01f04d8f13e0b817de1eb06b998.jpeg</picture>
+</offer>
+<offer id="102743999" available="true">
+<name>м/с Сарма Гель д/мытья посуды 500 мл/20</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>104</price>
+<currencyId>RUR</currencyId>
+<categoryId>5</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/7/2/3/723a5bac9211dbfbc766b6ccf58fad22.jpeg</picture>
+</offer>
+<offer id="102743998" available="true">
+<name>м/с Фэйри Ср-во д/мытья посуды 450 мл /21</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>112</price>
+<currencyId>RUR</currencyId>
+<categoryId>5</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/0/e/1/0e168258587559f00edaf5d0784e410e.webp</picture>
+</offer>
+<offer id="102743997" available="true">
+<name>ч/с Чистин 3в1 Санитарно-гигиен. ср-во 750 мл/14</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>82</price>
+<currencyId>RUR</currencyId>
+<categoryId>6</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/0/0/d/00d632495b20f3496ea903f4fa29c670.jpeg</picture>
+</offer>
+<offer id="102743996" available="true">
+<name>ч/с Туалетный Утенок ЧЕРНЫЙ 900 мл./12</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>238</price>
+<currencyId>RUR</currencyId>
+<categoryId>6</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/0/2/9/029d46f367806e2e1885a26197d56273.jpeg</picture>
+</offer>
+<offer id="102743995" available="true">
+<name>ч/с Санита-Гель Антиржавчина 500 мл/12</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>126</price>
+<currencyId>RUR</currencyId>
+<categoryId>6</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/3/4/c/34ccf80e9384e0e063835c997828cd41.jpeg</picture>
+</offer>
+<offer id="102743994" available="true">
+<name>ч/с Орис Антиржавчина д/санузлов Grass 750мл /8</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>150</price>
+<currencyId>RUR</currencyId>
+<categoryId>6</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/c/3/1/c313dad251f1b0d75f0b8de746572c96.jpeg</picture>
+</offer>
+<offer id="102743993" available="true">
+<name>ч/с Орис Все в 1 (д/санузлов) Grass 750мл/12</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>150</price>
+<currencyId>RUR</currencyId>
+<categoryId>6</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/5/f/6/5f6d84a4e7466a8835eaa7d05a188d92.jpeg</picture>
+</offer>
+<offer id="102743992" available="true">
+<name>ч/с Доместос гель 1л/12</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>188</price>
+<currencyId>RUR</currencyId>
+<categoryId>6</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/e/d/1/ed1bc5b445d83496dfb8c470195a915a.webp</picture>
+</offer>
+<offer id="102743991" available="true">
+<name>ч/с Белизна серая 0,9 л Лотос (Кемерово)/20</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>36</price>
+<currencyId>RUR</currencyId>
+<categoryId>6</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/7/8/4/7845891182e6d2d7b4a9e15b5080779f.webp</picture>
+</offer>
+<offer id="102743990" available="true">
+<name>ч/с Азелит Антижир Спрей д/кухни 600 мл/8</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>185</price>
+<currencyId>RUR</currencyId>
+<categoryId>6</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/c/b/f/cbf57dc8db8af5f20c8cc36630dcda30.jpeg</picture>
+</offer>
+<offer id="102743989" available="true">
+<name>м/с Диона Прогресс-гель 5 л ПЭТ/4</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>300</price>
+<currencyId>RUR</currencyId>
+<categoryId>5</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/5/c/6/5c6174b61347515a1586a999918b1bab.jpeg</picture>
+</offer>
+<offer id="102743988" available="true">
+<name>ж/м Изабелла 5л</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>350</price>
+<currencyId>RUR</currencyId>
+<categoryId>5</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/8/4/e/84ed8da363a67161e90826a288fb47b6.jpeg</picture>
+</offer>
+<offer id="102743987" available="true">
+<name>ч/с Пемолюкс 480 гр/16</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>84</price>
+<currencyId>RUR</currencyId>
+<categoryId>6</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/6/e/6/6e67cec83d36fe22550a87fb531f1167.jpeg</picture>
+</offer>
+<offer id="102743986" available="true">
+<name>м/с Мистер Пропер Ср-во д/мытья пола 500 мл./20</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>147</price>
+<currencyId>RUR</currencyId>
+<categoryId>5</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/7/8/c/78cc281ba933211f70872bff3fa2bef1.jpeg</picture>
+</offer>
+<offer id="102743985" available="true">
+<name>м/с Арена д/мытья пола Лаванда 1л Grass</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>159</price>
+<currencyId>RUR</currencyId>
+<categoryId>5</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/8/e/2/8e23c439abc8db44487ff681ed087ecc.jpeg</picture>
+</offer>
+<offer id="102743984" available="true">
+<name>м/с Нитхинол-М Ср-во д/стекол 450 мл/16</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>73</price>
+<currencyId>RUR</currencyId>
+<categoryId>5</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/9/0/e/90eebcd4000ffd0c1b3fd8aac9191392.jpeg</picture>
+</offer>
+<offer id="102743983" available="true">
+<name>м/с Клер Ср-во д/стекол 500 мл./16</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>76</price>
+<currencyId>RUR</currencyId>
+<categoryId>5</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/8/4/9/8496d1dfe58c8281048ed43c5451728b.jpeg</picture>
+</offer>
+<offer id="102743747" available="true">
+<name>т/б Папия 3-х сл. (4 шт)/14</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>128</price>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/d/6/c/d6cc01716b38cba7ddb222ed0c004882.png</picture>
+</offer>
+<offer id="102743746" available="true">
+<name>т/б Набережные Челны/48</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>26</price>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/d/2/0/d20892e645bc38dd43c93e6af119077c.jpeg</picture>
+</offer>
+<offer id="102743745" available="true">
+<name>т/б Зева Плюс Яблоко 2-х сл (8 шт)/12</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>228</price>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/5/8/5/58514bb2fd569ecac2ed7eaf7fd00f0a.jpeg</picture>
+</offer>
+<offer id="102743744" available="true">
+<name>т/б Зева Плюс 2-х сл (4 шт)/24</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>120</price>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/e/c/4/ec4c7ad285fbe4a7717ceb28e278b37e.jpeg</picture>
+</offer>
+<offer id="102743743" available="true">
+<name>т/б Папия 3-х сл. Белая (8 шт) /7</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>235</price>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/f/5/2/f52d2f674213f021e167746c3121ef7f.jpeg</picture>
+</offer>
+<offer id="102743742" available="true">
+<name>т/б Вейро 2-х сл (4 шт)/12</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>68</price>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/f/3/f/f3f045002c39243b2def813de4f0c6fd.jpeg</picture>
+</offer>
+<offer id="102743741" available="true">
+<name>Смарт Эконом Салфетка д/уборки микрофибра 30*30 (4 шт)</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>112</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/2/5/7/2571a54eb958aaddf978e9f8c407a9a1.jpeg</picture>
+</offer>
+<offer id="102743740" available="true">
+<name>Салфетки д/уборки Бонус вискоза (5 шт)/40</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>60</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/a/6/d/a6db105d91a0a9d2a8b1410331c312bc.png</picture>
+</offer>
+<offer id="102743739" available="true">
+<name>Салфетки д/уборки Бонус вискоза (3 шт)/65</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>34</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/a/6/d/a6db105d91a0a9d2a8b1410331c312bc.png</picture>
+</offer>
+<offer id="102743738" available="true">
+<name>Салфетки влажн. Авангард д/всей семьи 120 шт с крыш. Антибак.</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>83</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/6/9/9/699e36f4167688ad33d7b58ed5bb0b81.jpeg</picture>
+</offer>
+<offer id="102743737" available="true">
+<name>Салфетки влаж.с крыш. д/всей семьи Аура 120 шт. Антибак./12</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>93</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/a/b/e/abeb8894269c1c2c8f5b6948c31bb2e2.jpeg</picture>
+</offer>
+<offer id="102743736" available="true">
+<name>Салфетки влаж. Аура 15 шт/110</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>14</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/3/2/d/32df926762cb5b9465168c81557cf9da.jpeg</picture>
+</offer>
+<offer id="102743735" available="true">
+<name>Салфетки бум. НИКА 100 л БЕЛЫЕ/50</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>26</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/8/6/f/86f4db1ee7a8476b9fc25b13d5e1fb21.png</picture>
+</offer>
+<offer id="102743734" available="true">
+<name>Салфетка д/пола Мастер Фреш Микрофибра XL 50*60 см/60</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>110</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/0/f/9/0f95a8f0f65fb66dd78371944fa3023a.jpeg</picture>
+</offer>
+<offer id="102743733" available="true">
+<name>Салфети Влаж. полотенца Универс. с крыш. 21*19 (60 шт)/10</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>150</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/0/a/1/0a10408a3d8d17faa6f8e5b0c59b9f50.webp</picture>
+</offer>
+<offer id="102743732" available="true">
+<name>Полотенца бум Папия 3-х сл. (4 шт.)/7</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>246</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/1/b/b/1bbd485eeeb53539ac2c9f3b4015108b.jpeg</picture>
+</offer>
+<offer id="102743731" available="true">
+<name>Полотенца бум Папия 3-х сл. (2 шт.)/14</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>132</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/1/d/2/1d2d269f065e7d6e466b8de1670dd2a3.jpeg</picture>
+</offer>
+<offer id="102743730" available="true">
+<name>Полотенца Бум. Вейро Classic 2-х сл. (4 шт.)/6</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>131</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/8/6/2/862f920e790ab2942dace2c7714e4533.jpeg</picture>
+</offer>
+<offer id="102743729" available="true">
+<name>Полотенца бум. Вейро Classic 2-х сл (2 шт)/12</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>76</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/1/f/3/1f35153e97cd33ee9dfe28f26785f798.jpeg</picture>
+</offer>
+<offer id="102743728" available="true">
+<name>Полотенца бум Зева 2-х сл. (4 шт.)/4</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>210</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/e/4/8/e481925eb8fc036d84f5d0bde288a02d.webp</picture>
+</offer>
+<offer id="102743727" available="true">
+<name>Полотенца бум.Зева 2-х сл (2 шт)/12</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>115</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/3/b/6/3b600db7c9e9d5919c11e2d253c86631.jpeg</picture>
+</offer>
+<offer id="102743726" available="true">
+<name>Универсальные Полотенца Рулон (150 шт.)/12</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>165</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/e/f/6/ef657df46ef80b7942423c5f9c734c28.webp</picture>
+</offer>
+<offer id="102743725" available="true">
+<name>Хозяюшка Губка д/посуды MIDI (10 шт)/40</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>62</price>
+<currencyId>RUR</currencyId>
+<categoryId>5</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/3/e/4/3e48ec6b445c466d38c12042850febb3.webp</picture>
+</offer>
+<offer id="102743724" available="true">
+<name>м/с д/посуды Диона Magic 5 л/4</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>290</price>
+<currencyId>RUR</currencyId>
+<categoryId>5</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/6/0/4/604c2ccd115ee84143dc98566fd35025.jpeg</picture>
+</offer>
+<offer id="102743723" available="true">
+<name>м/с АОС Ср-во д/мытья посуды 450 мл./20</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>97</price>
+<currencyId>RUR</currencyId>
+<categoryId>5</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/2/3/9/2396389985312464437ee23fd7e009b0.jpeg</picture>
+</offer>
+<offer id="102743722" available="true">
+<name>м/с АОС Ср-во д/мытья посуды 900 мл/12</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>200</price>
+<currencyId>RUR</currencyId>
+<categoryId>5</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/2/1/5/215f4be00b4c25e92f2bf85f459090f2.webp</picture>
+</offer>
+<offer id="102743721" available="true">
+<name>Губка д/посуды металлич. Мастер Фреш (1шт)</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>15</price>
+<currencyId>RUR</currencyId>
+<categoryId>5</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/a/0/c/a0c7a01f04d8f13e0b817de1eb06b998.jpeg</picture>
+</offer>
+<offer id="102743720" available="true">
+<name>м/с Сарма Гель д/мытья посуды 500 мл/20</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>104</price>
+<currencyId>RUR</currencyId>
+<categoryId>5</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/7/2/3/723a5bac9211dbfbc766b6ccf58fad22.jpeg</picture>
+</offer>
+<offer id="102743719" available="true">
+<name>м/с Фэйри Ср-во д/мытья посуды 450 мл /21</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>112</price>
+<currencyId>RUR</currencyId>
+<categoryId>5</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/0/e/1/0e168258587559f00edaf5d0784e410e.webp</picture>
+</offer>
+<offer id="102743718" available="true">
+<name>ч/с Чистин 3в1 Санитарно-гигиен. ср-во 750 мл/14</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>82</price>
+<currencyId>RUR</currencyId>
+<categoryId>6</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/0/0/d/00d632495b20f3496ea903f4fa29c670.jpeg</picture>
+</offer>
+<offer id="102743717" available="true">
+<name>ч/с Туалетный Утенок ЧЕРНЫЙ 900 мл./12</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>238</price>
+<currencyId>RUR</currencyId>
+<categoryId>6</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/0/2/9/029d46f367806e2e1885a26197d56273.jpeg</picture>
+</offer>
+<offer id="102743716" available="true">
+<name>ч/с Санита-Гель Антиржавчина 500 мл/12</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>126</price>
+<currencyId>RUR</currencyId>
+<categoryId>6</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/3/4/c/34ccf80e9384e0e063835c997828cd41.jpeg</picture>
+</offer>
+<offer id="102743715" available="true">
+<name>ч/с Орис Антиржавчина д/санузлов Grass 750мл /8</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>150</price>
+<currencyId>RUR</currencyId>
+<categoryId>6</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/c/3/1/c313dad251f1b0d75f0b8de746572c96.jpeg</picture>
+</offer>
+<offer id="102743714" available="true">
+<name>ч/с Орис Все в 1 (д/санузлов) Grass 750мл/12</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>150</price>
+<currencyId>RUR</currencyId>
+<categoryId>6</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/5/f/6/5f6d84a4e7466a8835eaa7d05a188d92.jpeg</picture>
+</offer>
+<offer id="102743713" available="true">
+<name>ч/с Доместос гель 1л/12</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>188</price>
+<currencyId>RUR</currencyId>
+<categoryId>6</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/e/d/1/ed1bc5b445d83496dfb8c470195a915a.webp</picture>
+</offer>
+<offer id="102743712" available="true">
+<name>ч/с Белизна серая 0,9 л Лотос (Кемерово)/20</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>36</price>
+<currencyId>RUR</currencyId>
+<categoryId>6</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/7/8/4/7845891182e6d2d7b4a9e15b5080779f.webp</picture>
+</offer>
+<offer id="102743711" available="true">
+<name>ч/с Азелит Антижир Спрей д/кухни 600 мл/8</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>185</price>
+<currencyId>RUR</currencyId>
+<categoryId>6</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/c/b/f/cbf57dc8db8af5f20c8cc36630dcda30.jpeg</picture>
+</offer>
+<offer id="102743710" available="true">
+<name>м/с Диона Прогресс-гель 5 л ПЭТ/4</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>300</price>
+<currencyId>RUR</currencyId>
+<categoryId>5</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/5/c/6/5c6174b61347515a1586a999918b1bab.jpeg</picture>
+</offer>
+<offer id="102743709" available="true">
+<name>ж/м Изабелла 5л</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>350</price>
+<currencyId>RUR</currencyId>
+<categoryId>5</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/8/4/e/84ed8da363a67161e90826a288fb47b6.jpeg</picture>
+</offer>
+<offer id="102743708" available="true">
+<name>ч/с Пемолюкс 480 гр/16</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>84</price>
+<currencyId>RUR</currencyId>
+<categoryId>6</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/6/e/6/6e67cec83d36fe22550a87fb531f1167.jpeg</picture>
+</offer>
+<offer id="102743707" available="true">
+<name>м/с Мистер Пропер Ср-во д/мытья пола 500 мл./20</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>147</price>
+<currencyId>RUR</currencyId>
+<categoryId>5</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/7/8/c/78cc281ba933211f70872bff3fa2bef1.jpeg</picture>
+</offer>
+<offer id="102743706" available="true">
+<name>м/с Арена д/мытья пола Лаванда 1л Grass</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>159</price>
+<currencyId>RUR</currencyId>
+<categoryId>5</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/8/e/2/8e23c439abc8db44487ff681ed087ecc.jpeg</picture>
+</offer>
+<offer id="102743705" available="true">
+<name>м/с Нитхинол-М Ср-во д/стекол 450 мл/16</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>73</price>
+<currencyId>RUR</currencyId>
+<categoryId>5</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/9/0/e/90eebcd4000ffd0c1b3fd8aac9191392.jpeg</picture>
+</offer>
+<offer id="102743704" available="true">
+<name>м/с Клер Ср-во д/стекол 500 мл./16</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>76</price>
+<currencyId>RUR</currencyId>
+<categoryId>5</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/8/4/9/8496d1dfe58c8281048ed43c5451728b.jpeg</picture>
+</offer>
+<offer id="102612507" available="true">
+<name>Тапочки однораз. Черные</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>24</price>
+<currencyId>RUR</currencyId>
+<categoryId>7</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/9/5/0/950240be319959ed3c5b9df0b541957d.jpeg</picture>
+</offer>
+<offer id="102605884" available="true">
+<name>Листы латексные Dental Formula с ароматом мяты, зеленые. Медиум 36 шт</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>720</price>
+<currencyId>RUR</currencyId>
+<categoryId>9</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/e/b/1/eb19b88d14221979b5070ce388f03d12.jpeg</picture>
+</offer>
+<offer id="102603974" available="true">
+<name>Листы латексные Dental Formula без аромата, синие. Медиум 36 шт</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>720</price>
+<currencyId>RUR</currencyId>
+<categoryId>9</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/3/f/9/3f933b378ca7647fc240281ee42c824d.webp</picture>
+</offer>
+<offer id="102603971" available="true">
+<name>Ретрактор стоматологический 2.0 одноразовый М (7 см),  белый, DENTAL FORMULA</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>120</price>
+<currencyId>RUR</currencyId>
+<categoryId>9</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/f/5/e/f5e1453dc9ebbceab2322b5e0bc16d21.jpeg</picture>
+</offer>
+<offer id="102603131" available="true">
+<name>" Микроаппликатор DENTAL FORMULA® Fine, цвет фиолетовый, в тубах по 100 шт"</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>110</price>
+<currencyId>RUR</currencyId>
+<categoryId>9</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/d/4/b/d4b08dab017a0396f34a631c2b7efe97.webp</picture>
+</offer>
+<offer id="102603752" available="true">
+<name>"Микроаппликатор DENTAL FORMULA® Ultrafine, цвет голубой, в тубах по 100 шт"</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>110</price>
+<currencyId>RUR</currencyId>
+<categoryId>9</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/b/d/9/bd94f3ef953d65136541dab516f4e8d7.webp</picture>
+</offer>
+<offer id="102602084" available="true">
+<name>"Микроаппликатор DENTAL FORMULA® Regular, цвет зеленый, в тубах по 100 шт"</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>110</price>
+<currencyId>RUR</currencyId>
+<categoryId>9</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/4/5/6/4562b9e16b2681d5d3bc08e7f8393636.webp</picture>
+</offer>
+<offer id="102603973" available="true">
+<name>Ретрактор стоматологический 2.0 одноразовый S (6 см), M (7 см) белый, DENTAL FORMULA</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>120</price>
+<currencyId>RUR</currencyId>
+<categoryId>9</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/f/5/e/f5e1453dc9ebbceab2322b5e0bc16d21.jpeg</picture>
+</offer>
+<offer id="102607407" available="true">
+<name>Рулоны для стерилизации DENTAL FORMULA 50 мм х 200 м</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>760</price>
+<currencyId>RUR</currencyId>
+<categoryId>9</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/8/b/2/8b294510d15d26cd3dc5cad85c9aca2d.jpeg</picture>
+</offer>
+<offer id="102607414" available="true">
+<name>Рулоны для стерилизации DENTAL FORMULA 075 мм х 200 м</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>1100</price>
+<currencyId>RUR</currencyId>
+<categoryId>9</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/8/b/2/8b294510d15d26cd3dc5cad85c9aca2d.jpeg</picture>
+</offer>
+<offer id="102607422" available="true">
+<name>Рулоны для стерилизации DENTAL FORMULA 100 мм х 200 м</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>1480</price>
+<currencyId>RUR</currencyId>
+<categoryId>9</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/8/b/2/8b294510d15d26cd3dc5cad85c9aca2d.jpeg</picture>
+</offer>
+<offer id="102607423" available="true">
+<name>Рулоны для стерилизации DENTAL FORMULA 150 мм х 200 м</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>2200</price>
+<currencyId>RUR</currencyId>
+<categoryId>9</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/8/b/2/8b294510d15d26cd3dc5cad85c9aca2d.jpeg</picture>
+</offer>
+<offer id="102607425" available="true">
+<name>Рулоны для стерилизации DENTAL FORMULA 200 мм х 200 м</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>3500</price>
+<currencyId>RUR</currencyId>
+<categoryId>9</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/8/b/2/8b294510d15d26cd3dc5cad85c9aca2d.jpeg</picture>
+</offer>
+<offer id="102608041" available="true">
+<name>Рулоны для стерилизации DENTAL FORMULA 250 мм х 200 м</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>3600</price>
+<currencyId>RUR</currencyId>
+<categoryId>9</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/8/b/2/8b294510d15d26cd3dc5cad85c9aca2d.jpeg</picture>
+</offer>
+<offer id="102608042" available="true">
+<name>Рулоны для стерилизации DENTAL FORMULA 300 мм х 200 м</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>4750</price>
+<currencyId>RUR</currencyId>
+<categoryId>9</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/8/b/2/8b294510d15d26cd3dc5cad85c9aca2d.jpeg</picture>
+</offer>
+<offer id="102596197" available="true">
+<name>Шприц 1,0мл. с СИНИМ ПОРШНЕМ (3-х) SFM, Германия однораз. стер. с надетой иглой 0,45 х 12 - 26G (блистер)</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>736</price>
+<currencyId>RUR</currencyId>
+<categoryId>13</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/8/c/e/8cebf903fa244ca91fb18e4faaf0a4da.jpeg</picture>
+</offer>
+<offer id="102595625" available="true">
+<name>Шприц 1,0мл. Инсулин. U-100 (3-х) SFM, Германия однораз. стер. с надетой иглой 0,45 х 12 - 26G (блистер)</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>736</price>
+<currencyId>RUR</currencyId>
+<categoryId>13</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/6/5/9/65964f43803a320faf22180ca29845ff.jpeg</picture>
+</offer>
+<offer id="102595448" available="true">
+<name>Шприц 1,0мл. Инсулин. U - 100 (3-х) SFM, Германия однораз. стер. с интегрир. иглой 0,30 х 8,0 - 30G № 10 (полибэг)</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>170</price>
+<currencyId>RUR</currencyId>
+<categoryId>13</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/0/c/6/0c6bdf2477e290e480e619f6c595caca.jpeg</picture>
+</offer>
+<offer id="102595444" available="true">
+<name>Шприц 1,0мл. Инсулин. U - 100 (3-х) SFM, Германия однораз. стер. с интегрир. иглой 0,33 х 12,7 - 29G № 10 (полибэг)</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>170</price>
+<currencyId>RUR</currencyId>
+<categoryId>13</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/c/b/3/cb36f00e1bc4f27d11e1e7cba8b601d3.jpeg</picture>
+</offer>
+<offer id="102595443" available="true">
+<name>Шприц 20 мл. (3-х) SFM, Германия с 0,80 х 40 - 21G (LUER LOCK) (блистер)</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>16</price>
+<currencyId>RUR</currencyId>
+<categoryId>12</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/c/0/d/c0d057f7150d440cffab89eb046d93cd.jpeg</picture>
+</offer>
+<offer id="102595224" available="true">
+<name>Шприц 2 мл. (3-х) SFM, Германия с 0,6 х 30 - 23G (LUER LOCK) (блистер)</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>703</price>
+<currencyId>RUR</currencyId>
+<categoryId>12</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/3/e/b/3ebc85443a0ea7079729404258263649.jpeg</picture>
+</offer>
+<offer id="102594600" available="true">
+<name>Шприц 3мл. (3-х) SFM, Германия с 0,6 x 30 - 23G, уп. №10 (Без Латекса) (блистер)</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>9</price>
+<currencyId>RUR</currencyId>
+<categoryId>12</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/a/7/1/a71da4d1605f1a09d375f19c67591ff3.jpeg</picture>
+</offer>
+<offer id="102594599" available="true">
+<name>Шприц 2мл. (3-х) SFM, Германия с 0,70 x 40 - 22G, уп. №10 (Без Латекса) (блистер)</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>9</price>
+<currencyId>RUR</currencyId>
+<categoryId>12</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/e/a/b/eaba487141f4284b74bf1061d9736e91.jpeg</picture>
+</offer>
+<offer id="102594598" available="true">
+<name>Шприц 20мл. (3-х) SFM, Германияс 0,80 x 40 - 21G, уп. №5 (Без Латекса) (блистер)</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>10</price>
+<currencyId>RUR</currencyId>
+<categoryId>12</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/f/2/9/f29d69ab5c5b11f4cb3d1966eeccd46a.jpeg</picture>
+</offer>
+<offer id="102594073" available="true">
+<name>Шприц 5мл. (3-х) SFM, Германия с 0,70 x 40 - 22G, уп. №10 (Без Латекса) (блистер)</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>11</price>
+<currencyId>RUR</currencyId>
+<categoryId>14</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/e/e/d/eede7153da329008dc320dc06757d0e9.jpeg</picture>
+</offer>
+<offer id="102593325" available="true">
+<name>Шприц 2мл. (3-х) SFM, Германия с 0,6 x 30 - 23G, уп. №10 (Без Латекса) (блистер)</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>9</price>
+<currencyId>RUR</currencyId>
+<categoryId>15</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/1/1/8/118203174799de259c8aabaa7950a61d.jpeg</picture>
+</offer>
+<offer id="102438475" available="true">
+<name>Шприц 2мл. (3-х) SFM, Германия однораз. стер. с надетой иглой 0,6 x 30 - 23G (блистер)</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>8</price>
+<currencyId>RUR</currencyId>
+<categoryId>15</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/8/d/f/8df5ca3d2d5a05d62eef140e5cfe02af.jpeg</picture>
+</offer>
+<offer id="102438472" available="true">
+<name>Шприц 20мл. (3-х) SFM, Германия однораз. стер. с иглой 0,80 х 40 - 21G (LUER LOCK) (блистер)</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>20</price>
+<currencyId>RUR</currencyId>
+<categoryId>16</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/6/1/2/61276c64dc6a55136d06cd8c776e4089.jpeg</picture>
+</offer>
+<offer id="102438458" available="true">
+<name>Шприц 10мл. (3-х) SFM, Германия однораз. стер. с надетой иглой 0,80 х 40 - 21G (блистер)</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>14</price>
+<currencyId>RUR</currencyId>
+<categoryId>17</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/6/c/a/6cacae376cbe19994955a1863d4ee340.jpeg</picture>
+</offer>
+<offer id="102438455" available="true">
+<name>Шприц 5мл. (3-х) SFM, Германия однораз. стер. с надетой иглой 0,70 х 40 - 22G (LUER LOCK) ( блистер)</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>8</price>
+<currencyId>RUR</currencyId>
+<categoryId>14</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/6/a/7/6a7ede8c97f633ca13e234952ba395d6.jpeg</picture>
+</offer>
+<offer id="102438452" available="true">
+<name>Шприц - 3мл. (3-х) SFM, Германия однораз. стер. с надетой иглой 0,6 x 30 - 23G, упаковка №10 (БЕЗ ЛАТЕКСА) ( блистер)</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>78</price>
+<currencyId>RUR</currencyId>
+<categoryId>18</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/b/5/4/b54c5c01e00fc25c599f6693f7a7cf2e.jpeg</picture>
+</offer>
+<offer id="102437604" available="true">
+<name>Шприц 10 мл (3-х) луер слип, игла 0,8х40 – 21G фасовка 60/1200 (Wuzhou, Китай)</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>5</price>
+<currencyId>RUR</currencyId>
+<categoryId>17</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/f/4/3/f436442eef850f577b55291f0b18662a.png</picture>
+</offer>
+<offer id="102437581" available="true">
+<name>Шприц 5 мл (3-х) луер слип, игла 0,7х40 – 22G фасовка 100/1800 (Wuzhou, Китай)</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>3</price>
+<currencyId>RUR</currencyId>
+<categoryId>14</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/3/1/2/312cc98d0fb18bc4d3bd088dcf083938.png</picture>
+</offer>
+<offer id="102436976" available="true">
+<name>Шприц 2 мл (3-х) луер слип, игла 0,6х30 – 23G фасовка 100/2400 (Wuzhou, Китай)</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>3</price>
+<currencyId>RUR</currencyId>
+<categoryId>15</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/1/7/6/1761e7b9fe9aa6eadd0bf38412236680.png</picture>
+</offer>
+<offer id="102436263" available="true">
+<name>Шприц 1 мл (3-х) луер слип, игла 0,45х12 – 26G фасовка 100/3600 (Wuzhou, Китай)</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>3</price>
+<currencyId>RUR</currencyId>
+<categoryId>13</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/9/a/6/9a6600e35ead2e8fc8e77125128db342.png</picture>
+</offer>
+<offer id="102432943" available="true">
+<name>Салфетки нагрудные "Кристидент" 500шт. - Стандарт, (2-слой.) 33х45см, Лимонные</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>923</price>
+<currencyId>RUR</currencyId>
+<categoryId>9</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/4/d/7/4d74300239ffac79c207072d4a4f7bd5.jpeg</picture>
+</offer>
+<offer id="102433195" available="true">
+<name>Салфетки нагрудные "Кристидент" 500шт. - Стандарт, (2-слой.) 33х45см, Салатовые</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>923</price>
+<currencyId>RUR</currencyId>
+<categoryId>9</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/d/0/e/d0e51a1251e7f9d4dd9e0b8a2b865f64.jpeg</picture>
+</offer>
+<offer id="102433221" available="true">
+<name>Салфетки нагрудные "Кристидент" 500шт. - ПРЕИМУМ , (3-слой.) 33х45см, ГОЛУБЫЕ</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>1189</price>
+<currencyId>RUR</currencyId>
+<categoryId>9</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/7/f/3/7f3da0ad73763d6d6b2d8836ee9a7873.jpeg</picture>
+</offer>
+<offer id="102428534" available="true">
+<name>Фартук бумажно-полиэтиленовый интенсив ( 81 х 53 см ) х 60 шт., в рулоне</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>975</price>
+<currencyId>RUR</currencyId>
+<categoryId>21</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/b/c/0/bc00659ffbc149204034b3d80959cb0d.png</picture>
+</offer>
+<offer id="102428533" available="true">
+<name>Фартук бумажно-полиэтиленовый  интенсив ( 61 х 53 см ) х 80 шт., в рулоне</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>975</price>
+<currencyId>RUR</currencyId>
+<categoryId>21</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/a/4/b/a4bb33cad2945afc8718aada55bf12a1.png</picture>
+</offer>
+<offer id="102428520" available="true">
+<name>Фартуки полиэтиленовые в рулоне (200 шт) Кристидент, синие</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>1189</price>
+<currencyId>RUR</currencyId>
+<categoryId>21</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/a/c/5/ac5578c5746e15394d4cf442fbbfc001.png</picture>
+</offer>
+<offer id="102431880" available="true">
+<name>Чехлы защитные для датчика радиовизиографа «КРИСТИДЕНТ» 500 шт</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>780</price>
+<currencyId>RUR</currencyId>
+<categoryId>22</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/6/4/9/649f4a82db5d3f5341fe8a9897509901.jpeg</picture>
+</offer>
+<offer id="102748449" available="true">
+<name>Фартук полиэтиленовый 80*120 100 шт</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>300</price>
+<currencyId>RUR</currencyId>
+<categoryId>21</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/9/2/6/926fe19e7204ca7da92fc6e65cc54d94.jpeg</picture>
+</offer>
+<offer id="102695912" available="true">
+<name>Фартук полиэтиленовый 81*125 100 шт</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>300</price>
+<currencyId>RUR</currencyId>
+<categoryId>21</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/b/9/e/b9e5d0a5db69540370d35c30353f69c0.jpeg</picture>
+</offer>
+<offer id="102608043" available="true">
+<name>Халат хирургический рр52-54 пл25г/м2 на резинке белый стерильный</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>130</price>
+<currencyId>RUR</currencyId>
+<categoryId>23</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/e/8/8/e8822ef033e51b02c9965f30b210abc2.jpeg</picture>
+</offer>
+<offer id="102608268" available="true">
+<name>Халат хирургический рр52-54 пл42г/м2 на резинке белый стерильный</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>140</price>
+<currencyId>RUR</currencyId>
+<categoryId>23</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/e/8/8/e8822ef033e51b02c9965f30b210abc2.jpeg</picture>
+</offer>
+<offer id="102608280" available="true">
+<name>Простынь хирургическая стерильная 70 х80 см пл 25 г/м2</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>70</price>
+<currencyId>RUR</currencyId>
+<categoryId>23</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/d/8/e/d8e2a9c774255a38dce6046a1badfa8b.jpeg</picture>
+</offer>
+<offer id="102608499" available="true">
+<name>Простынь хирургическая стерильная 70 х 80см пл 42 г/м2</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>70</price>
+<currencyId>RUR</currencyId>
+<categoryId>23</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/d/8/e/d8e2a9c774255a38dce6046a1badfa8b.jpeg</picture>
+</offer>
+<offer id="102608273" available="true">
+<name>Простынь хирургическая стерильная 200х160 см пл 25 г/м 2</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>100</price>
+<currencyId>RUR</currencyId>
+<categoryId>23</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/d/8/e/d8e2a9c774255a38dce6046a1badfa8b.jpeg</picture>
+</offer>
+<offer id="102608269" available="true">
+<name>Простыня хирург. стерильная 160*200 см пл42г/м2</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>100</price>
+<currencyId>RUR</currencyId>
+<categoryId>23</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/d/8/e/d8e2a9c774255a38dce6046a1badfa8b.jpeg</picture>
+</offer>
+<offer id="102431035" available="true">
+<name>Устройство для вливания в малые вены - игла-бабочка LUER LOCK 22G (0,70х19мм) SFM</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>10</price>
+<currencyId>RUR</currencyId>
+<categoryId>24</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/2/a/4/2a478e63540d5bf5dc6989d198893178.jpeg</picture>
+</offer>
+<offer id="102431034" available="true">
+<name>Устройство для вливания в малые вены - игла-бабочка LUER LOCK 25G (0,50х19мм) SFM</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>10</price>
+<currencyId>RUR</currencyId>
+<categoryId>24</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/2/9/d/29d1755d3802621df06507b4c56d32fb.jpeg</picture>
+</offer>
+<offer id="102431033" available="true">
+<name>Катетеры внутривенные (канюли) с портом FEP 24G (0,70х19мм) SFM, Германия</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>45</price>
+<currencyId>RUR</currencyId>
+<categoryId>25</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/9/f/f/9ff12d1008f37d014a5fc8b1fecb323d.jpeg</picture>
+</offer>
+<offer id="102427231" available="true">
+<name>Шапочка берет круглая белая 100 шт</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>350</price>
+<currencyId>RUR</currencyId>
+<categoryId>26</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/7/3/5/7350b348bde4270e6f6fc55955dd764e.jpeg</picture>
+</offer>
+<offer id="102427230" available="true">
+<name>Шапочка шарлота черная 100 шт</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>150</price>
+<currencyId>RUR</currencyId>
+<categoryId>26</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/8/e/1/8e1680f08121847e4853d16312ae37c2.jpeg</picture>
+</offer>
+<offer id="102427229" available="true">
+<name>Шапочка шарлота белая 100 шт</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>150</price>
+<currencyId>RUR</currencyId>
+<categoryId>26</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/9/f/9/9f95a02a7fea4deb7c6c576543d55f88.jpeg</picture>
+</offer>
+<offer id="102610171" available="true">
+<name>Маска медицинская трехслойная, 50 шт</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>75</price>
+<currencyId>RUR</currencyId>
+<categoryId>9</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/e/0/7/e07bc03e1486b1bc438d18de181e2339.png</picture>
+</offer>
+<offer id="102610390" available="true">
+<name>Маска медицинская черная 50шт</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>100</price>
+<currencyId>RUR</currencyId>
+<categoryId>9</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/d/b/b/dbb783099c6cfe7c68560f0efd635be0.jpeg</picture>
+</offer>
+<offer id="102425120" available="true">
+<name>Иглы медицинские стерильные одноразовые SFM 0,23мм х 4 мм 32G ETW №50</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>1650</price>
+<currencyId>RUR</currencyId>
+<categoryId>28</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/d/9/6/d96a497713f91bfc79e4128864cd631d.jpeg</picture>
+</offer>
+<offer id="102425118" available="true">
+<name>Иглы медицинские стерильные одноразовые SFM 0,30мм х 13 мм 30G ETW №50</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>995</price>
+<currencyId>RUR</currencyId>
+<categoryId>28</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/0/7/9/07942f142e1894f9eee344551d535f57.jpeg</picture>
+</offer>
+<offer id="102425117" available="true">
+<name>Иглы медицинские стерильные одноразовые SFM 0,23мм х 8 мм 32G ETW №50</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>1650</price>
+<currencyId>RUR</currencyId>
+<categoryId>28</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/9/1/d/91d67dea996917fcd024ca73ed9a9f71.jpeg</picture>
+</offer>
+<offer id="102425114" available="true">
+<name>Иглы медицинские стерильные одноразовые SFM 0,2мм х 4 мм 33G ETW №50</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>2250</price>
+<currencyId>RUR</currencyId>
+<categoryId>28</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/3/2/5/325011b9e9355efa316d97aa8b797af6.jpeg</picture>
+</offer>
+<offer id="102425112" available="true">
+<name>Иглы медицинские инъекционные SFM 0,60 х 25 мм 23G TW №100</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>295</price>
+<currencyId>RUR</currencyId>
+<categoryId>28</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/7/e/7/7e7bee00c381b9646ea674fb8aa89b90.jpeg</picture>
+</offer>
+<offer id="102425108" available="true">
+<name>Иглы медицинские инъекционные SFM 1,20 х 40 мм 18G TW №100</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>430</price>
+<currencyId>RUR</currencyId>
+<categoryId>28</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/3/2/4/324d6ec1987fbbd6f0af097e7cb852f9.jpeg</picture>
+</offer>
+<offer id="102424276" available="true">
+<name>Иглы медицинские инъекционные SFM 0,50 х 25 мм 25G RW №100</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>295</price>
+<currencyId>RUR</currencyId>
+<categoryId>28</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/8/7/c/87c9037181b0fce3a79e3920e1a26acc.jpeg</picture>
+</offer>
+<offer id="102409238" available="true">
+<name>Перчатки ВИНИЛОВЫЕ (SFM,Германия)</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>250</price>
+<currencyId>RUR</currencyId>
+<categoryId>29</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/9/9/d/99dc9ab038574cdd4f0b930430cc4d21.png</picture>
+</offer>
+<offer id="102403690" available="true">
+<name>Перчатки нитриловые SFM SUPERSOFT VIOLET BLUE 100 пар / ФИОЛЕТОВО-ГОЛУБОЙ (Германия)</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>750</price>
+<currencyId>RUR</currencyId>
+<categoryId>31</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/6/1/7/61733d58e7ed50e736f4ecca143967dd.png</picture>
+</offer>
+<offer id="102405824" available="true">
+<name>Перчатки нитриловые SFM SUPERSOFT VIOLET BLUE 100 пар / ФИОЛЕТОВО-ГОЛУБОЙ (Германия) (XS)</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>750</price>
+<currencyId>RUR</currencyId>
+<categoryId>31</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/f/e/b/feb6d438628d7a1cbc4c4d267736ffb0.png</picture>
+</offer>
+<offer id="102405825" available="true">
+<name>Перчатки нитриловые SFM SUPERSOFT VIOLET BLUE 100 пар / ФИОЛЕТОВО-ГОЛУБОЙ (Германия) (S)</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>750</price>
+<currencyId>RUR</currencyId>
+<categoryId>31</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/b/1/7/b17d768bceb37a4e0c554509238e6565.png</picture>
+</offer>
+<offer id="102405826" available="true">
+<name>Перчатки нитриловые SFM SUPERSOFT VIOLET BLUE 100 пар / ФИОЛЕТОВО-ГОЛУБОЙ (Германия) (M)</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>750</price>
+<currencyId>RUR</currencyId>
+<categoryId>31</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/1/f/a/1fa29e8dbcf60a51e6c90f306b436e7b.png</picture>
+</offer>
+<offer id="102405827" available="true">
+<name>Перчатки нитриловые SFM SUPERSOFT VIOLET BLUE 100 пар / ФИОЛЕТОВО-ГОЛУБОЙ (Германия) (L)</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>750</price>
+<currencyId>RUR</currencyId>
+<categoryId>31</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/e/e/8/ee82d23205099e899a4553d0f6e6af09.png</picture>
+</offer>
+<offer id="102405828" available="true">
+<name>Перчатки нитриловые SFM SUPERSOFT VIOLET BLUE 100 пар / ФИОЛЕТОВО-ГОЛУБОЙ (Германия) (XL)</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>750</price>
+<currencyId>RUR</currencyId>
+<categoryId>31</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/1/e/6/1e62de3a53d7a8b19cf43459392dd560.png</picture>
+</offer>
+<offer id="102408258" available="true">
+<name>Перчатки нитриловые BENOVY текстур на пальцах белые</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>420</price>
+<currencyId>RUR</currencyId>
+<categoryId>30</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/1/8/8/1889c2e22ba3a01a50876a8941ccefa6.jpeg</picture>
+</offer>
+<offer id="102407164" available="true">
+<name>Перчатки нитриловые BENOVY текстур на пальцах розовые</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>480</price>
+<currencyId>RUR</currencyId>
+<categoryId>30</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/0/0/8/0082ac8becb45ea8d3d049c268a77b7b.jpeg</picture>
+</offer>
+<offer id="102407111" available="true">
+<name>Перчатки нитриловые BENOVY текстур на пальцах черные 50 пар</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>420</price>
+<currencyId>RUR</currencyId>
+<categoryId>30</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/6/b/e/6be22b771c68653e00076e75556f3fc9.jpeg</picture>
+</offer>
+<offer id="102748201" available="true">
+<name>Перчатки Wally Plastic  нитриловые  - чёрные 50 пар</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>350</price>
+<currencyId>RUR</currencyId>
+<categoryId>30</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/b/1/6/b16487f7bec6574e4356ad7265b98273.jpeg</picture>
+</offer>
+<offer id="102403924" available="true">
+<name>Перчатки HIGH RISK NX 180 № 25пар SFM MEGA TEX BLACK - Нитриловые.Неопудр.Нестер.Текстур.Хлор.Однокр. /ЧЕРНЫЕ/ (Германия</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>500</price>
+<currencyId>RUR</currencyId>
+<categoryId>30</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/d/0/4/d04931dde7f26ebcf22bf261bc5f7713.png</picture>
+</offer>
+<offer id="102404141" available="true">
+<name>Перчатки HIGH RISK NX 180 № 25пар SFM MEGA TEX ORANGE - Нитриловые.Неопудр.Нестер.Текстур.Хлор.Однокр. (Германия)</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>500</price>
+<currencyId>RUR</currencyId>
+<categoryId>30</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/6/f/9/6f9a9e35ea38bce6a13ae79a6dd83fd4.png</picture>
+</offer>
+<offer id="102403909" available="true">
+<name>Перчатки смотр. н/стер. ЛАТЕКСНЫЕ НЕОПУДР. LC 250 SC текстур. ХЛОР. однокр. НАТУРАЛЬНЫЙ (SFM, Германия), XS</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>475</price>
+<currencyId>RUR</currencyId>
+<categoryId>32</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/9/d/d/9dd18760c53dc274081521ef520a2e25.png</picture>
+</offer>
+<offer id="102403910" available="true">
+<name>Перчатки СТОМАТОЛОГИЧЕСКИЕ SFM DENTAL LATEX L 265 DC нестер. неопудр. текстур. (SFM,Германия)</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>725</price>
+<currencyId>RUR</currencyId>
+<categoryId>32</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/9/b/5/9b5ee223f14fd4f588d0b1c0cad3ed5d.png</picture>
+</offer>
+<offer id="102403923" available="true">
+<name>Перчатки хирургические СТЕРИЛЬНЫЕ латексные неопудренные (SFM, Германия)</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>1400</price>
+<currencyId>RUR</currencyId>
+<categoryId>33</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/9/4/8/94859c0c465be922551170a8ee3a8c08.png</picture>
+</offer>
+<offer id="102403921" available="true">
+<name>Перчатки HIGH RISK CHLORINATED L 213 латекс н/стер.неоп. текстур. (SFM,Германия) / СИНИЕ, S</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>475</price>
+<currencyId>RUR</currencyId>
+<categoryId>32</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/b/e/1/be1b533acbfe05d1b2c1a66fb64535b6.png</picture>
+</offer>
+<offer id="102402571" available="true">
+<name>Система ИНФУЗИОННАЯ с пласт. шипом, дл. 150 см, Луер Слип, игла 0,80 х 40 - 21G фасовка 45/720 (Huaian City, Китай)</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>14</price>
+<currencyId>RUR</currencyId>
+<categoryId>24</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/c/1/2/c12d1670e0328ae22a98b399cd480ef2.jpeg</picture>
+</offer>
+<offer id="102402569" available="true">
+<name>Система Трансфузионная SFM ПК 23-02 для переливания крови (пластик. шип), игла 1,20 х 40 - 18G, LUER LOCK (Германия)</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>46</price>
+<currencyId>RUR</currencyId>
+<categoryId>24</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/f/0/a/f0a9d1ebcb7f0fd1a15ed0bf0a3589a1.jpeg</picture>
+</offer>
+<offer id="102401940" available="true">
+<name>Система Трансфузионная для переливания крови (пластик. шип), игла 1,20 х 40 - 18G, SFM, Германия</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>41</price>
+<currencyId>RUR</currencyId>
+<categoryId>24</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/2/2/f/22f24c7ed5dec25535f7de1a20e6645f.jpeg</picture>
+</offer>
+<offer id="102401722" available="true">
+<name>Система ИНФУЗИОННАЯ для переливания растворов (пластик. шип), игла 0,80 х 40 - 21G, SFM, Германия</name>
+<url>https://vk.com/nitril_tomsk</url>
+<price>41</price>
+<currencyId>RUR</currencyId>
+<categoryId>24</categoryId>
+<picture>http://m-files.cdn1.cc/lpfile/6/2/9/62903c06de8f6d5dfee1407141d7af08.jpeg</picture>
+</offer>
+</offers>
+</shop>
+</yml_catalog>
