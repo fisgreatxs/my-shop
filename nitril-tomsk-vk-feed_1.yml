@@ -1,0 +1,2346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2026-06-10 12:00">
+  <shop>
+    <name>Нитрил Томск</name>
+    <company>Нитрил Томск</company>
+    <url>https://nitril-tomsk.ru</url>
+    <currencies>
+      <currency id="RUR" rate="1" />
+    </currencies>
+    <categories>
+      <category id="1">Перчатки</category>
+      <category id="11" parentId="1">Нитриловые перчатки</category>
+      <category id="12" parentId="1">Латексные перчатки</category>
+      <category id="13" parentId="1">Виниловые перчатки</category>
+      <category id="14" parentId="1">Хирургические перчатки</category>
+      <category id="2">Бахилы</category>
+      <category id="3">Колющие</category>
+      <category id="31" parentId="3">Иглы</category>
+      <category id="32" parentId="3">Шприцы</category>
+      <category id="33" parentId="3">Системы для вливания</category>
+      <category id="34" parentId="3">Катетеры</category>
+      <category id="4">Мешки для мусора</category>
+      <category id="5">Стоматология</category>
+      <category id="51" parentId="5">Латексные листы для коффердама</category>
+      <category id="52" parentId="5">Микроаппликаторы и ретракторы</category>
+      <category id="53" parentId="5">Салфетки нагрудные и фартуки</category>
+      <category id="54" parentId="5">Чехлы защитные для датчика</category>
+      <category id="55" parentId="5">Рулоны для стерилизации</category>
+      <category id="56" parentId="5">Халаты медицинские</category>
+      <category id="57" parentId="5">Шапочки и маски</category>
+      <category id="6">Бытовые принадлежности</category>
+      <category id="61" parentId="6">Салфетки и полотенца</category>
+      <category id="62" parentId="6">Моющие средства</category>
+      <category id="63" parentId="6">Чистящие средства</category>
+      <category id="64" parentId="6">Туалетная бумага</category>
+      <category id="65" parentId="6">Тапочки одноразовые</category>
+    </categories>
+    <offers>
+      <offer id="1000" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Перчатки нитриловые голубые XS, 100 шт/уп</name>
+        <description>Нитриловые смотровые перчатки голубые, неопудренные, нестерильные. Размер XS. 100 шт (50 пар). Без латекса, гипоаллергенные. Для медицины, стоматологии, бьюти.</description>
+        <price>530</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>11</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Blue_Latex_Gloves.jpg/640px-Blue_Latex_Gloves.jpg</picture>
+      </offer>
+      <offer id="1001" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Перчатки нитриловые голубые S, 100 шт/уп</name>
+        <description>Нитриловые смотровые перчатки голубые, неопудренные, нестерильные. Размер S. 100 шт (50 пар). Без латекса, гипоаллергенные. Для медицины, стоматологии, бьюти.</description>
+        <price>550</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>11</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Blue_Latex_Gloves.jpg/640px-Blue_Latex_Gloves.jpg</picture>
+      </offer>
+      <offer id="1002" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Перчатки нитриловые голубые M, 100 шт/уп</name>
+        <description>Нитриловые смотровые перчатки голубые, неопудренные, нестерильные. Размер M. 100 шт (50 пар). Без латекса, гипоаллергенные. Для медицины, стоматологии, бьюти.</description>
+        <price>550</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>11</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Blue_Latex_Gloves.jpg/640px-Blue_Latex_Gloves.jpg</picture>
+      </offer>
+      <offer id="1003" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Перчатки нитриловые голубые L, 100 шт/уп</name>
+        <description>Нитриловые смотровые перчатки голубые, неопудренные, нестерильные. Размер L. 100 шт (50 пар). Без латекса, гипоаллергенные. Для медицины, стоматологии, бьюти.</description>
+        <price>550</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>11</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Blue_Latex_Gloves.jpg/640px-Blue_Latex_Gloves.jpg</picture>
+      </offer>
+      <offer id="1004" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Перчатки нитриловые голубые XL, 100 шт/уп</name>
+        <description>Нитриловые смотровые перчатки голубые, неопудренные, нестерильные. Размер XL. 100 шт (50 пар). Без латекса, гипоаллергенные. Для медицины, стоматологии, бьюти.</description>
+        <price>560</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>11</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Blue_Latex_Gloves.jpg/640px-Blue_Latex_Gloves.jpg</picture>
+      </offer>
+      <offer id="1005" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Перчатки нитриловые голубые S, 200 шт/уп</name>
+        <description>Нитриловые смотровые перчатки голубые. Размер S. 200 шт (100 пар) — оптовая фасовка. Неопудренные, нестерильные.</description>
+        <price>980</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>11</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Blue_Latex_Gloves.jpg/640px-Blue_Latex_Gloves.jpg</picture>
+      </offer>
+      <offer id="1006" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Перчатки нитриловые голубые M, 200 шт/уп</name>
+        <description>Нитриловые смотровые перчатки голубые. Размер M. 200 шт (100 пар) — оптовая фасовка. Неопудренные, нестерильные.</description>
+        <price>980</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>11</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Blue_Latex_Gloves.jpg/640px-Blue_Latex_Gloves.jpg</picture>
+      </offer>
+      <offer id="1007" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Перчатки нитриловые голубые L, 200 шт/уп</name>
+        <description>Нитриловые смотровые перчатки голубые. Размер L. 200 шт (100 пар) — оптовая фасовка. Неопудренные, нестерильные.</description>
+        <price>980</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>11</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Blue_Latex_Gloves.jpg/640px-Blue_Latex_Gloves.jpg</picture>
+      </offer>
+      <offer id="1008" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Перчатки нитриловые голубые XL, 200 шт/уп</name>
+        <description>Нитриловые смотровые перчатки голубые. Размер XL. 200 шт (100 пар) — оптовая фасовка. Неопудренные, нестерильные.</description>
+        <price>1000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>11</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Blue_Latex_Gloves.jpg/640px-Blue_Latex_Gloves.jpg</picture>
+      </offer>
+      <offer id="1009" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Перчатки нитриловые чёрные XS, 100 шт/уп</name>
+        <description>Нитриловые перчатки чёрные, неопудренные, нестерильные. Размер XS. 100 шт. Для тату, маникюра, косметологии. Повышенная прочность.</description>
+        <price>620</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>11</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Nitrile_gloves_2009.jpg/640px-Nitrile_gloves_2009.jpg</picture>
+      </offer>
+      <offer id="1010" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Перчатки нитриловые чёрные S, 100 шт/уп</name>
+        <description>Нитриловые перчатки чёрные, неопудренные, нестерильные. Размер S. 100 шт. Для тату, маникюра, косметологии. Повышенная прочность.</description>
+        <price>620</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>11</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Nitrile_gloves_2009.jpg/640px-Nitrile_gloves_2009.jpg</picture>
+      </offer>
+      <offer id="1011" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Перчатки нитриловые чёрные M, 100 шт/уп</name>
+        <description>Нитриловые перчатки чёрные, неопудренные, нестерильные. Размер M. 100 шт. Для тату, маникюра, косметологии. Повышенная прочность.</description>
+        <price>620</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>11</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Nitrile_gloves_2009.jpg/640px-Nitrile_gloves_2009.jpg</picture>
+      </offer>
+      <offer id="1012" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Перчатки нитриловые чёрные L, 100 шт/уп</name>
+        <description>Нитриловые перчатки чёрные, неопудренные, нестерильные. Размер L. 100 шт. Для тату, маникюра, косметологии. Повышенная прочность.</description>
+        <price>620</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>11</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Nitrile_gloves_2009.jpg/640px-Nitrile_gloves_2009.jpg</picture>
+      </offer>
+      <offer id="1013" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Перчатки нитриловые чёрные XL, 100 шт/уп</name>
+        <description>Нитриловые перчатки чёрные, неопудренные, нестерильные. Размер XL. 100 шт. Для тату, маникюра, косметологии. Повышенная прочность.</description>
+        <price>640</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>11</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Nitrile_gloves_2009.jpg/640px-Nitrile_gloves_2009.jpg</picture>
+      </offer>
+      <offer id="1014" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Перчатки нитриловые чёрные S, 200 шт/уп</name>
+        <description>Нитриловые перчатки чёрные. Размер S. 200 шт — оптовая фасовка. Для бьюти-салонов и медицины.</description>
+        <price>1100</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>11</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Nitrile_gloves_2009.jpg/640px-Nitrile_gloves_2009.jpg</picture>
+      </offer>
+      <offer id="1015" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Перчатки нитриловые чёрные M, 200 шт/уп</name>
+        <description>Нитриловые перчатки чёрные. Размер M. 200 шт — оптовая фасовка. Для бьюти-салонов и медицины.</description>
+        <price>1100</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>11</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Nitrile_gloves_2009.jpg/640px-Nitrile_gloves_2009.jpg</picture>
+      </offer>
+      <offer id="1016" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Перчатки нитриловые чёрные L, 200 шт/уп</name>
+        <description>Нитриловые перчатки чёрные. Размер L. 200 шт — оптовая фасовка. Для бьюти-салонов и медицины.</description>
+        <price>1100</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>11</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Nitrile_gloves_2009.jpg/640px-Nitrile_gloves_2009.jpg</picture>
+      </offer>
+      <offer id="1017" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Перчатки нитриловые фиолетовые XS, 100 шт/уп</name>
+        <description>Нитриловые перчатки фиолетовые, неопудренные. Размер XS. 100 шт. Для стоматологии и косметологии. Высокая тактильная чувствительность.</description>
+        <price>580</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>11</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Gloves_one.jpg/640px-Gloves_one.jpg</picture>
+      </offer>
+      <offer id="1018" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Перчатки нитриловые фиолетовые S, 100 шт/уп</name>
+        <description>Нитриловые перчатки фиолетовые, неопудренные. Размер S. 100 шт. Для стоматологии и косметологии. Высокая тактильная чувствительность.</description>
+        <price>580</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>11</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Gloves_one.jpg/640px-Gloves_one.jpg</picture>
+      </offer>
+      <offer id="1019" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Перчатки нитриловые фиолетовые M, 100 шт/уп</name>
+        <description>Нитриловые перчатки фиолетовые, неопудренные. Размер M. 100 шт. Для стоматологии и косметологии. Высокая тактильная чувствительность.</description>
+        <price>580</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>11</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Gloves_one.jpg/640px-Gloves_one.jpg</picture>
+      </offer>
+      <offer id="1020" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Перчатки нитриловые фиолетовые L, 100 шт/уп</name>
+        <description>Нитриловые перчатки фиолетовые, неопудренные. Размер L. 100 шт. Для стоматологии и косметологии. Высокая тактильная чувствительность.</description>
+        <price>580</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>11</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Gloves_one.jpg/640px-Gloves_one.jpg</picture>
+      </offer>
+      <offer id="1021" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Перчатки нитриловые фиолетовые XL, 100 шт/уп</name>
+        <description>Нитриловые перчатки фиолетовые, неопудренные. Размер XL. 100 шт. Для стоматологии и косметологии. Высокая тактильная чувствительность.</description>
+        <price>600</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>11</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Gloves_one.jpg/640px-Gloves_one.jpg</picture>
+      </offer>
+      <offer id="1022" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Перчатки нитриловые белые S, 100 шт/уп</name>
+        <description>Нитриловые перчатки белые, неопудренные, нестерильные. Размер S. 100 шт. Для фармацевтики, медицины.</description>
+        <price>560</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>11</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Nitrile-gloves-3.jpg/640px-Nitrile-gloves-3.jpg</picture>
+      </offer>
+      <offer id="1023" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Перчатки нитриловые белые M, 100 шт/уп</name>
+        <description>Нитриловые перчатки белые, неопудренные, нестерильные. Размер M. 100 шт. Для фармацевтики, медицины.</description>
+        <price>560</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>11</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Nitrile-gloves-3.jpg/640px-Nitrile-gloves-3.jpg</picture>
+      </offer>
+      <offer id="1024" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Перчатки нитриловые белые L, 100 шт/уп</name>
+        <description>Нитриловые перчатки белые, неопудренные, нестерильные. Размер L. 100 шт. Для фармацевтики, медицины.</description>
+        <price>560</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>11</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Nitrile-gloves-3.jpg/640px-Nitrile-gloves-3.jpg</picture>
+      </offer>
+      <offer id="1025" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Перчатки нитриловые белые XL, 100 шт/уп</name>
+        <description>Нитриловые перчатки белые, неопудренные, нестерильные. Размер XL. 100 шт. Для фармацевтики, медицины.</description>
+        <price>570</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>11</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Nitrile-gloves-3.jpg/640px-Nitrile-gloves-3.jpg</picture>
+      </offer>
+      <offer id="1026" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Перчатки нитриловые розовые S, 100 шт/уп</name>
+        <description>Нитриловые перчатки розовые, неопудренные. Размер S. 100 шт. Популярны в бьюти-сфере: маникюр, косметология.</description>
+        <price>590</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>11</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Gloves_one.jpg/640px-Gloves_one.jpg</picture>
+      </offer>
+      <offer id="1027" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Перчатки нитриловые розовые M, 100 шт/уп</name>
+        <description>Нитриловые перчатки розовые, неопудренные. Размер M. 100 шт. Популярны в бьюти-сфере: маникюр, косметология.</description>
+        <price>590</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>11</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Gloves_one.jpg/640px-Gloves_one.jpg</picture>
+      </offer>
+      <offer id="1028" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Перчатки нитриловые розовые L, 100 шт/уп</name>
+        <description>Нитриловые перчатки розовые, неопудренные. Размер L. 100 шт. Популярны в бьюти-сфере: маникюр, косметология.</description>
+        <price>590</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>11</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Gloves_one.jpg/640px-Gloves_one.jpg</picture>
+      </offer>
+      <offer id="1029" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Перчатки латексные неопудренные XS, 100 шт/уп</name>
+        <description>Латексные смотровые перчатки, неопудренные. Размер XS. 100 шт. Высокая эластичность и тактильность. Для стоматологов и хирургов.</description>
+        <price>480</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>12</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Latex_glove_2.jpg/640px-Latex_glove_2.jpg</picture>
+      </offer>
+      <offer id="1030" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Перчатки латексные неопудренные S, 100 шт/уп</name>
+        <description>Латексные смотровые перчатки, неопудренные. Размер S. 100 шт. Высокая эластичность и тактильность. Для стоматологов и хирургов.</description>
+        <price>480</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>12</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Latex_glove_2.jpg/640px-Latex_glove_2.jpg</picture>
+      </offer>
+      <offer id="1031" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Перчатки латексные неопудренные M, 100 шт/уп</name>
+        <description>Латексные смотровые перчатки, неопудренные. Размер M. 100 шт. Высокая эластичность и тактильность. Для стоматологов и хирургов.</description>
+        <price>480</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>12</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Latex_glove_2.jpg/640px-Latex_glove_2.jpg</picture>
+      </offer>
+      <offer id="1032" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Перчатки латексные неопудренные L, 100 шт/уп</name>
+        <description>Латексные смотровые перчатки, неопудренные. Размер L. 100 шт. Высокая эластичность и тактильность. Для стоматологов и хирургов.</description>
+        <price>480</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>12</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Latex_glove_2.jpg/640px-Latex_glove_2.jpg</picture>
+      </offer>
+      <offer id="1033" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Перчатки латексные неопудренные XL, 100 шт/уп</name>
+        <description>Латексные смотровые перчатки, неопудренные. Размер XL. 100 шт. Высокая эластичность и тактильность. Для стоматологов и хирургов.</description>
+        <price>490</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>12</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Latex_glove_2.jpg/640px-Latex_glove_2.jpg</picture>
+      </offer>
+      <offer id="1034" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Перчатки латексные опудренные XS, 100 шт/уп</name>
+        <description>Латексные смотровые перчатки с тальком. Размер XS. 100 шт. Облегчённое надевание. Для медицинских процедур.</description>
+        <price>420</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>12</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Latex_glove_2.jpg/640px-Latex_glove_2.jpg</picture>
+      </offer>
+      <offer id="1035" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Перчатки латексные опудренные S, 100 шт/уп</name>
+        <description>Латексные смотровые перчатки с тальком. Размер S. 100 шт. Облегчённое надевание. Для медицинских процедур.</description>
+        <price>420</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>12</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Latex_glove_2.jpg/640px-Latex_glove_2.jpg</picture>
+      </offer>
+      <offer id="1036" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Перчатки латексные опудренные M, 100 шт/уп</name>
+        <description>Латексные смотровые перчатки с тальком. Размер M. 100 шт. Облегчённое надевание. Для медицинских процедур.</description>
+        <price>420</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>12</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Latex_glove_2.jpg/640px-Latex_glove_2.jpg</picture>
+      </offer>
+      <offer id="1037" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Перчатки латексные опудренные L, 100 шт/уп</name>
+        <description>Латексные смотровые перчатки с тальком. Размер L. 100 шт. Облегчённое надевание. Для медицинских процедур.</description>
+        <price>420</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>12</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Latex_glove_2.jpg/640px-Latex_glove_2.jpg</picture>
+      </offer>
+      <offer id="1038" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Перчатки латексные опудренные XL, 100 шт/уп</name>
+        <description>Латексные смотровые перчатки с тальком. Размер XL. 100 шт. Облегчённое надевание. Для медицинских процедур.</description>
+        <price>430</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>12</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Latex_glove_2.jpg/640px-Latex_glove_2.jpg</picture>
+      </offer>
+      <offer id="1039" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Перчатки латексные High Risk S, 50 шт/уп</name>
+        <description>Латексные перчатки повышенной прочности High Risk. Размер S. 50 шт. Увеличенная толщина. Для работы с агрессивными средами.</description>
+        <price>680</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>12</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Latex_glove_2.jpg/640px-Latex_glove_2.jpg</picture>
+      </offer>
+      <offer id="1040" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Перчатки латексные High Risk M, 50 шт/уп</name>
+        <description>Латексные перчатки повышенной прочности High Risk. Размер M. 50 шт. Увеличенная толщина. Для работы с агрессивными средами.</description>
+        <price>680</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>12</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Latex_glove_2.jpg/640px-Latex_glove_2.jpg</picture>
+      </offer>
+      <offer id="1041" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Перчатки латексные High Risk L, 50 шт/уп</name>
+        <description>Латексные перчатки повышенной прочности High Risk. Размер L. 50 шт. Увеличенная толщина. Для работы с агрессивными средами.</description>
+        <price>680</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>12</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Latex_glove_2.jpg/640px-Latex_glove_2.jpg</picture>
+      </offer>
+      <offer id="1042" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Перчатки латексные High Risk XL, 50 шт/уп</name>
+        <description>Латексные перчатки повышенной прочности High Risk. Размер XL. 50 шт. Увеличенная толщина. Для работы с агрессивными средами.</description>
+        <price>690</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>12</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Latex_glove_2.jpg/640px-Latex_glove_2.jpg</picture>
+      </offer>
+      <offer id="1043" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Перчатки виниловые прозрачные XS, 100 шт/уп</name>
+        <description>Одноразовые виниловые перчатки. Размер XS. 100 шт. Без латекса, гипоаллергенные. Для пищевой промышленности, медицины, косметологии.</description>
+        <price>380</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>13</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Vinyl-gloves.jpg/640px-Vinyl-gloves.jpg</picture>
+      </offer>
+      <offer id="1044" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Перчатки виниловые прозрачные S, 100 шт/уп</name>
+        <description>Одноразовые виниловые перчатки. Размер S. 100 шт. Без латекса, гипоаллергенные. Для пищевой промышленности, медицины, косметологии.</description>
+        <price>390</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>13</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Vinyl-gloves.jpg/640px-Vinyl-gloves.jpg</picture>
+      </offer>
+      <offer id="1045" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Перчатки виниловые прозрачные M, 100 шт/уп</name>
+        <description>Одноразовые виниловые перчатки. Размер M. 100 шт. Без латекса, гипоаллергенные. Для пищевой промышленности, медицины, косметологии.</description>
+        <price>390</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>13</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Vinyl-gloves.jpg/640px-Vinyl-gloves.jpg</picture>
+      </offer>
+      <offer id="1046" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Перчатки виниловые прозрачные L, 100 шт/уп</name>
+        <description>Одноразовые виниловые перчатки. Размер L. 100 шт. Без латекса, гипоаллергенные. Для пищевой промышленности, медицины, косметологии.</description>
+        <price>390</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>13</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Vinyl-gloves.jpg/640px-Vinyl-gloves.jpg</picture>
+      </offer>
+      <offer id="1047" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Перчатки виниловые прозрачные XL, 100 шт/уп</name>
+        <description>Одноразовые виниловые перчатки. Размер XL. 100 шт. Без латекса, гипоаллергенные. Для пищевой промышленности, медицины, косметологии.</description>
+        <price>400</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>13</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Vinyl-gloves.jpg/640px-Vinyl-gloves.jpg</picture>
+      </offer>
+      <offer id="1048" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Перчатки виниловые прозрачные S, 200 шт/уп</name>
+        <description>Одноразовые виниловые перчатки. Размер S. 200 шт — оптовая фасовка. Гипоаллергенные.</description>
+        <price>720</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>13</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Vinyl-gloves.jpg/640px-Vinyl-gloves.jpg</picture>
+      </offer>
+      <offer id="1049" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Перчатки виниловые прозрачные M, 200 шт/уп</name>
+        <description>Одноразовые виниловые перчатки. Размер M. 200 шт — оптовая фасовка. Гипоаллергенные.</description>
+        <price>720</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>13</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Vinyl-gloves.jpg/640px-Vinyl-gloves.jpg</picture>
+      </offer>
+      <offer id="1050" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Перчатки виниловые прозрачные L, 200 шт/уп</name>
+        <description>Одноразовые виниловые перчатки. Размер L. 200 шт — оптовая фасовка. Гипоаллергенные.</description>
+        <price>720</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>13</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Vinyl-gloves.jpg/640px-Vinyl-gloves.jpg</picture>
+      </offer>
+      <offer id="1051" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Перчатки хирургические латексные стерильные р.6.0 (пара)</name>
+        <description>Стерильные хирургические перчатки латексные, анатомические. Размер 6.0. Индивидуальная упаковка. С тальком. Для хирургии.</description>
+        <price>95</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>14</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Sterile_gloves.jpg/640px-Sterile_gloves.jpg</picture>
+      </offer>
+      <offer id="1052" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Перчатки хирургические латексные стерильные р.6.5 (пара)</name>
+        <description>Стерильные хирургические перчатки латексные, анатомические. Размер 6.5. Индивидуальная упаковка. С тальком. Для хирургии.</description>
+        <price>95</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>14</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Sterile_gloves.jpg/640px-Sterile_gloves.jpg</picture>
+      </offer>
+      <offer id="1053" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Перчатки хирургические латексные стерильные р.7.0 (пара)</name>
+        <description>Стерильные хирургические перчатки латексные, анатомические. Размер 7.0. Индивидуальная упаковка. С тальком. Для хирургии.</description>
+        <price>95</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>14</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Sterile_gloves.jpg/640px-Sterile_gloves.jpg</picture>
+      </offer>
+      <offer id="1054" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Перчатки хирургические латексные стерильные р.7.5 (пара)</name>
+        <description>Стерильные хирургические перчатки латексные, анатомические. Размер 7.5. Индивидуальная упаковка. С тальком. Для хирургии.</description>
+        <price>95</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>14</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Sterile_gloves.jpg/640px-Sterile_gloves.jpg</picture>
+      </offer>
+      <offer id="1055" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Перчатки хирургические латексные стерильные р.8.0 (пара)</name>
+        <description>Стерильные хирургические перчатки латексные, анатомические. Размер 8.0. Индивидуальная упаковка. С тальком. Для хирургии.</description>
+        <price>100</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>14</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Sterile_gloves.jpg/640px-Sterile_gloves.jpg</picture>
+      </offer>
+      <offer id="1056" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Перчатки хирургические латексные стерильные р.8.5 (пара)</name>
+        <description>Стерильные хирургические перчатки латексные, анатомические. Размер 8.5. Индивидуальная упаковка. С тальком. Для хирургии.</description>
+        <price>100</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>14</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Sterile_gloves.jpg/640px-Sterile_gloves.jpg</picture>
+      </offer>
+      <offer id="1057" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Перчатки хирургические нитриловые стерильные р.6.5 (пара)</name>
+        <description>Стерильные хирургические перчатки нитриловые (без латекса). Размер 6.5. Для аллергиков. Одноразовые, стерильные.</description>
+        <price>130</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>14</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Sterile_gloves.jpg/640px-Sterile_gloves.jpg</picture>
+      </offer>
+      <offer id="1058" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Перчатки хирургические нитриловые стерильные р.7.0 (пара)</name>
+        <description>Стерильные хирургические перчатки нитриловые (без латекса). Размер 7.0. Для аллергиков. Одноразовые, стерильные.</description>
+        <price>130</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>14</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Sterile_gloves.jpg/640px-Sterile_gloves.jpg</picture>
+      </offer>
+      <offer id="1059" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Перчатки хирургические нитриловые стерильные р.7.5 (пара)</name>
+        <description>Стерильные хирургические перчатки нитриловые (без латекса). Размер 7.5. Для аллергиков. Одноразовые, стерильные.</description>
+        <price>130</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>14</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Sterile_gloves.jpg/640px-Sterile_gloves.jpg</picture>
+      </offer>
+      <offer id="1060" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Перчатки хирургические нитриловые стерильные р.8.0 (пара)</name>
+        <description>Стерильные хирургические перчатки нитриловые (без латекса). Размер 8.0. Для аллергиков. Одноразовые, стерильные.</description>
+        <price>135</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>14</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Sterile_gloves.jpg/640px-Sterile_gloves.jpg</picture>
+      </offer>
+      <offer id="1061" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Бахилы медицинские стандарт синие, 100 шт/уп</name>
+        <description>Одноразовые медицинские бахилы из полиэтилена. 100 шт (50 пар). Стандарт. Цвет синий. Для клиник, лабораторий, МРТ.</description>
+        <price>120</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Disposable_shoe_covers.jpg/640px-Disposable_shoe_covers.jpg</picture>
+      </offer>
+      <offer id="1062" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Бахилы медицинские стандарт голубые, 100 шт/уп</name>
+        <description>Одноразовые медицинские бахилы из полиэтилена. 100 шт (50 пар). Стандарт. Цвет голубой. Для клиник и медицинских учреждений.</description>
+        <price>120</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Disposable_shoe_covers.jpg/640px-Disposable_shoe_covers.jpg</picture>
+      </offer>
+      <offer id="1063" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Бахилы медицинские усиленные, 100 шт/уп</name>
+        <description>Одноразовые бахилы повышенной прочности. 100 шт (50 пар). Двойной шов. Для хирургических блоков. Синие.</description>
+        <price>220</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Disposable_shoe_covers.jpg/640px-Disposable_shoe_covers.jpg</picture>
+      </offer>
+      <offer id="1064" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Бахилы высокие до колена, 50 шт/уп</name>
+        <description>Высокие одноразовые бахилы-сапожки до колена. 50 шт (25 пар). Плотный полиэтилен. Для операционных. Синие.</description>
+        <price>350</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Disposable_shoe_covers.jpg/640px-Disposable_shoe_covers.jpg</picture>
+      </offer>
+      <offer id="1065" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Бахилы нетканые SMS белые, 100 шт/уп</name>
+        <description>Одноразовые бахилы из нетканого SMS. 100 шт. Дышащие. Для чистых помещений. Белые.</description>
+        <price>380</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Disposable_shoe_covers.jpg/640px-Disposable_shoe_covers.jpg</picture>
+      </offer>
+      <offer id="1066" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Бахилы нетканые SMS синие, 100 шт/уп</name>
+        <description>Одноразовые бахилы из нетканого SMS. 100 шт. Дышащие. Синие. Для чистых помещений и медицины.</description>
+        <price>380</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Disposable_shoe_covers.jpg/640px-Disposable_shoe_covers.jpg</picture>
+      </offer>
+      <offer id="1067" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Бахилы с резинкой усиленной, 50 шт/уп</name>
+        <description>Бахилы с усиленной резинкой по голени. 50 шт. Плотный ПЭ. Надёжная фиксация. Для стоматологий и мед.учреждений.</description>
+        <price>280</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Disposable_shoe_covers.jpg/640px-Disposable_shoe_covers.jpg</picture>
+      </offer>
+      <offer id="1068" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Иглы SFM ETW 0,20x4мм 33G стерильные №50</name>
+        <description>Иглы медицинские стерильные одноразовые SFM 33G 0.20х4мм ETW №50. Для мезотерапии и микроинъекций. Тройная лазерная заточка, силиконовое покрытие. SFM Hospital Products GmbH, Германия.</description>
+        <price>2250</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>31</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Hypodermic_needle_4_-_Jaredkj.jpg/640px-Hypodermic_needle_4_-_Jaredkj.jpg</picture>
+      </offer>
+      <offer id="1069" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Иглы SFM ETW 0,20x6мм 33G стерильные №50</name>
+        <description>Иглы медицинские стерильные одноразовые SFM 33G 0.20х6мм ETW №50. Для мезотерапии и микроинъекций. Тройная лазерная заточка, силиконовое покрытие. SFM Hospital Products GmbH, Германия.</description>
+        <price>2400</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>31</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Hypodermic_needle_4_-_Jaredkj.jpg/640px-Hypodermic_needle_4_-_Jaredkj.jpg</picture>
+      </offer>
+      <offer id="1070" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Иглы SFM ETW 0,20x8мм 33G стерильные №50</name>
+        <description>Иглы медицинские стерильные одноразовые SFM 33G 0.20х8мм ETW №50. Для мезотерапии и микроинъекций. Тройная лазерная заточка, силиконовое покрытие. SFM Hospital Products GmbH, Германия.</description>
+        <price>2400</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>31</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Hypodermic_needle_4_-_Jaredkj.jpg/640px-Hypodermic_needle_4_-_Jaredkj.jpg</picture>
+      </offer>
+      <offer id="1071" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Иглы SFM ETW 0,23x4мм 32G стерильные №50</name>
+        <description>Иглы медицинские стерильные одноразовые SFM 32G 0.23х4мм ETW №50. Для мезотерапии и микроинъекций. Тройная лазерная заточка, силиконовое покрытие. SFM Hospital Products GmbH, Германия.</description>
+        <price>1650</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>31</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Hypodermic_needle_4_-_Jaredkj.jpg/640px-Hypodermic_needle_4_-_Jaredkj.jpg</picture>
+      </offer>
+      <offer id="1072" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Иглы SFM ETW 0,23x6мм 32G стерильные №50</name>
+        <description>Иглы медицинские стерильные одноразовые SFM 32G 0.23х6мм ETW №50. Для мезотерапии и микроинъекций. Тройная лазерная заточка, силиконовое покрытие. SFM Hospital Products GmbH, Германия.</description>
+        <price>1650</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>31</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Hypodermic_needle_4_-_Jaredkj.jpg/640px-Hypodermic_needle_4_-_Jaredkj.jpg</picture>
+      </offer>
+      <offer id="1073" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Иглы SFM ETW 0,23x8мм 32G стерильные №50</name>
+        <description>Иглы медицинские стерильные одноразовые SFM 32G 0.23х8мм ETW №50. Для мезотерапии и микроинъекций. Тройная лазерная заточка, силиконовое покрытие. SFM Hospital Products GmbH, Германия.</description>
+        <price>1650</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>31</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Hypodermic_needle_4_-_Jaredkj.jpg/640px-Hypodermic_needle_4_-_Jaredkj.jpg</picture>
+      </offer>
+      <offer id="1074" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Иглы SFM ETW 0,25x6мм 31G стерильные №50</name>
+        <description>Иглы медицинские стерильные одноразовые SFM 31G 0.25х6мм ETW №50. Для мезотерапии и микроинъекций. Тройная лазерная заточка, силиконовое покрытие. SFM Hospital Products GmbH, Германия.</description>
+        <price>1750</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>31</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Hypodermic_needle_4_-_Jaredkj.jpg/640px-Hypodermic_needle_4_-_Jaredkj.jpg</picture>
+      </offer>
+      <offer id="1075" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Иглы SFM ETW 0,25x8мм 31G стерильные №50</name>
+        <description>Иглы медицинские стерильные одноразовые SFM 31G 0.25х8мм ETW №50. Для мезотерапии и микроинъекций. Тройная лазерная заточка, силиконовое покрытие. SFM Hospital Products GmbH, Германия.</description>
+        <price>1800</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>31</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Hypodermic_needle_4_-_Jaredkj.jpg/640px-Hypodermic_needle_4_-_Jaredkj.jpg</picture>
+      </offer>
+      <offer id="1076" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Иглы SFM ETW 0,25x13мм 31G стерильные №50</name>
+        <description>Иглы медицинские стерильные одноразовые SFM 31G 0.25х13мм ETW №50. Для мезотерапии и микроинъекций. Тройная лазерная заточка, силиконовое покрытие. SFM Hospital Products GmbH, Германия.</description>
+        <price>1850</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>31</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Hypodermic_needle_4_-_Jaredkj.jpg/640px-Hypodermic_needle_4_-_Jaredkj.jpg</picture>
+      </offer>
+      <offer id="1077" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Иглы SFM ETW 0,30x4мм 30G стерильные №50</name>
+        <description>Иглы медицинские стерильные одноразовые SFM 30G 0.30х4мм ETW №50. Для мезотерапии и микроинъекций. Тройная лазерная заточка, силиконовое покрытие. SFM Hospital Products GmbH, Германия.</description>
+        <price>1050</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>31</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Hypodermic_needle_4_-_Jaredkj.jpg/640px-Hypodermic_needle_4_-_Jaredkj.jpg</picture>
+      </offer>
+      <offer id="1078" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Иглы SFM ETW 0,30x6мм 30G стерильные №50</name>
+        <description>Иглы медицинские стерильные одноразовые SFM 30G 0.30х6мм ETW №50. Для мезотерапии и микроинъекций. Тройная лазерная заточка, силиконовое покрытие. SFM Hospital Products GmbH, Германия.</description>
+        <price>1100</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>31</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Hypodermic_needle_4_-_Jaredkj.jpg/640px-Hypodermic_needle_4_-_Jaredkj.jpg</picture>
+      </offer>
+      <offer id="1079" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Иглы SFM ETW 0,30x8мм 30G стерильные №50</name>
+        <description>Иглы медицинские стерильные одноразовые SFM 30G 0.30х8мм ETW №50. Для мезотерапии и микроинъекций. Тройная лазерная заточка, силиконовое покрытие. SFM Hospital Products GmbH, Германия.</description>
+        <price>1100</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>31</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Hypodermic_needle_4_-_Jaredkj.jpg/640px-Hypodermic_needle_4_-_Jaredkj.jpg</picture>
+      </offer>
+      <offer id="1080" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Иглы SFM ETW 0,30x13мм 30G стерильные №50</name>
+        <description>Иглы медицинские стерильные одноразовые SFM 30G 0.30х13мм ETW №50. Для мезотерапии и микроинъекций. Тройная лазерная заточка, силиконовое покрытие. SFM Hospital Products GmbH, Германия.</description>
+        <price>995</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>31</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Hypodermic_needle_4_-_Jaredkj.jpg/640px-Hypodermic_needle_4_-_Jaredkj.jpg</picture>
+      </offer>
+      <offer id="1081" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Иглы SFM инъекционные 0,45x12мм 26G TW №100</name>
+        <description>Иглы медицинские инъекционные одноразовые SFM 0,45x12мм 26G TW №100. Хромо-никелевая сталь. Стерильные. Для в/м, п/к, в/в инъекций. SFM Hospital Products GmbH.</description>
+        <price>320</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>31</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Needles.jpg/640px-Needles.jpg</picture>
+      </offer>
+      <offer id="1082" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Иглы SFM инъекционные 0,45x16мм 26G TW №100</name>
+        <description>Иглы медицинские инъекционные одноразовые SFM 0,45x16мм 26G TW №100. Хромо-никелевая сталь. Стерильные. Для в/м, п/к, в/в инъекций. SFM Hospital Products GmbH.</description>
+        <price>295</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>31</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Needles.jpg/640px-Needles.jpg</picture>
+      </offer>
+      <offer id="1083" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Иглы SFM инъекционные 0,50x16мм 25G TW №100</name>
+        <description>Иглы медицинские инъекционные одноразовые SFM 0,50x16мм 25G TW №100. Хромо-никелевая сталь. Стерильные. Для в/м, п/к, в/в инъекций. SFM Hospital Products GmbH.</description>
+        <price>290</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>31</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Needles.jpg/640px-Needles.jpg</picture>
+      </offer>
+      <offer id="1084" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Иглы SFM инъекционные 0,55x25мм 24G TW №100</name>
+        <description>Иглы медицинские инъекционные одноразовые SFM 0,55x25мм 24G TW №100. Хромо-никелевая сталь. Стерильные. Для в/м, п/к, в/в инъекций. SFM Hospital Products GmbH.</description>
+        <price>285</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>31</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Needles.jpg/640px-Needles.jpg</picture>
+      </offer>
+      <offer id="1085" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Иглы SFM инъекционные 0,60x25мм 23G TW №100</name>
+        <description>Иглы медицинские инъекционные одноразовые SFM 0,60x25мм 23G TW №100. Хромо-никелевая сталь. Стерильные. Для в/м, п/к, в/в инъекций. SFM Hospital Products GmbH.</description>
+        <price>295</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>31</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Needles.jpg/640px-Needles.jpg</picture>
+      </offer>
+      <offer id="1086" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Иглы SFM инъекционные 0,60x30мм 23G TW №100</name>
+        <description>Иглы медицинские инъекционные одноразовые SFM 0,60x30мм 23G TW №100. Хромо-никелевая сталь. Стерильные. Для в/м, п/к, в/в инъекций. SFM Hospital Products GmbH.</description>
+        <price>295</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>31</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Needles.jpg/640px-Needles.jpg</picture>
+      </offer>
+      <offer id="1087" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Иглы SFM инъекционные 0,70x30мм 22G TW №100</name>
+        <description>Иглы медицинские инъекционные одноразовые SFM 0,70x30мм 22G TW №100. Хромо-никелевая сталь. Стерильные. Для в/м, п/к, в/в инъекций. SFM Hospital Products GmbH.</description>
+        <price>285</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>31</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Needles.jpg/640px-Needles.jpg</picture>
+      </offer>
+      <offer id="1088" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Иглы SFM инъекционные 0,70x38мм 22G TW №100</name>
+        <description>Иглы медицинские инъекционные одноразовые SFM 0,70x38мм 22G TW №100. Хромо-никелевая сталь. Стерильные. Для в/м, п/к, в/в инъекций. SFM Hospital Products GmbH.</description>
+        <price>290</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>31</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Needles.jpg/640px-Needles.jpg</picture>
+      </offer>
+      <offer id="1089" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Иглы SFM инъекционные 0,80x38мм 21G TW №100</name>
+        <description>Иглы медицинские инъекционные одноразовые SFM 0,80x38мм 21G TW №100. Хромо-никелевая сталь. Стерильные. Для в/м, п/к, в/в инъекций. SFM Hospital Products GmbH.</description>
+        <price>310</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>31</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Needles.jpg/640px-Needles.jpg</picture>
+      </offer>
+      <offer id="1090" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Иглы SFM инъекционные 0,80x40мм 21G TW №100</name>
+        <description>Иглы медицинские инъекционные одноразовые SFM 0,80x40мм 21G TW №100. Хромо-никелевая сталь. Стерильные. Для в/м, п/к, в/в инъекций. SFM Hospital Products GmbH.</description>
+        <price>310</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>31</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Needles.jpg/640px-Needles.jpg</picture>
+      </offer>
+      <offer id="1091" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Иглы SFM инъекционные 0,90x38мм 20G TW №100</name>
+        <description>Иглы медицинские инъекционные одноразовые SFM 0,90x38мм 20G TW №100. Хромо-никелевая сталь. Стерильные. Для в/м, п/к, в/в инъекций. SFM Hospital Products GmbH.</description>
+        <price>335</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>31</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Needles.jpg/640px-Needles.jpg</picture>
+      </offer>
+      <offer id="1092" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Иглы SFM инъекционные 0,90x40мм 20G TW №100</name>
+        <description>Иглы медицинские инъекционные одноразовые SFM 0,90x40мм 20G TW №100. Хромо-никелевая сталь. Стерильные. Для в/м, п/к, в/в инъекций. SFM Hospital Products GmbH.</description>
+        <price>340</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>31</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Needles.jpg/640px-Needles.jpg</picture>
+      </offer>
+      <offer id="1093" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Иглы SFM инъекционные 1,20x38мм 18G TW №100</name>
+        <description>Иглы медицинские инъекционные одноразовые SFM 1,20x38мм 18G TW №100. Хромо-никелевая сталь. Стерильные. Для в/м, п/к, в/в инъекций. SFM Hospital Products GmbH.</description>
+        <price>420</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>31</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Needles.jpg/640px-Needles.jpg</picture>
+      </offer>
+      <offer id="1094" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Иглы SFM инъекционные 1,20x40мм 18G TW №100</name>
+        <description>Иглы медицинские инъекционные одноразовые SFM 1,20x40мм 18G TW №100. Хромо-никелевая сталь. Стерильные. Для в/м, п/к, в/в инъекций. SFM Hospital Products GmbH.</description>
+        <price>430</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>31</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Needles.jpg/640px-Needles.jpg</picture>
+      </offer>
+      <offer id="1095" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Иглы SFM инъекционные 1,60x40мм 16G TW №100</name>
+        <description>Иглы медицинские инъекционные одноразовые SFM 1,60x40мм 16G TW №100. Хромо-никелевая сталь. Стерильные. Для в/м, п/к, в/в инъекций. SFM Hospital Products GmbH.</description>
+        <price>480</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>31</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Needles.jpg/640px-Needles.jpg</picture>
+      </offer>
+      <offer id="1096" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Иглы SFM инъекционные 1,80x40мм 15G TW №100</name>
+        <description>Иглы медицинские инъекционные одноразовые SFM 1,80x40мм 15G TW №100. Хромо-никелевая сталь. Стерильные. Для в/м, п/к, в/в инъекций. SFM Hospital Products GmbH.</description>
+        <price>520</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>31</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Needles.jpg/640px-Needles.jpg</picture>
+      </offer>
+      <offer id="1097" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Контейнер для острых предметов 1л (шт)</name>
+        <description>Контейнер для сбора использованных игл, скальпелей, острых предметов. 1 литр. Желтый. Класс опасности Б. Одноразовый.</description>
+        <price>55</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>31</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Sharps_container.jpg/640px-Sharps_container.jpg</picture>
+      </offer>
+      <offer id="1098" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Контейнер для острых предметов 3л (шт)</name>
+        <description>Контейнер для сбора использованных игл и острых предметов. 3 литра. Класс опасности Б. Одноразовый.</description>
+        <price>95</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>31</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Sharps_container.jpg/640px-Sharps_container.jpg</picture>
+      </offer>
+      <offer id="1099" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Контейнер для острых предметов 5л (шт)</name>
+        <description>Контейнер для сбора использованных игл и острых предметов. 5 литров. Жёлтый. Класс опасности Б. Одноразовый.</description>
+        <price>140</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>31</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Sharps_container.jpg/640px-Sharps_container.jpg</picture>
+      </offer>
+      <offer id="1100" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Контейнер для острых предметов 10л (шт)</name>
+        <description>Контейнер для сбора использованных игл и острых предметов. 10 литров. Жёлтый. Класс опасности Б.</description>
+        <price>220</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>31</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Sharps_container.jpg/640px-Sharps_container.jpg</picture>
+      </offer>
+      <offer id="1101" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Шприц 3-компонентный SFM 1 мл с иглой 27G, 100 шт/уп</name>
+        <description>Одноразовый трёхкомпонентный шприц SFM 1 мл с иглой 27G. 100 шт. Стерильный, апирогенный. Плавный ход поршня. Луер-лок.</description>
+        <price>380</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>32</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Syringe_5ml.jpg/640px-Syringe_5ml.jpg</picture>
+      </offer>
+      <offer id="1102" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Шприц 3-компонентный SFM 2 мл с иглой 23G, 100 шт/уп</name>
+        <description>Одноразовый трёхкомпонентный шприц SFM 2 мл с иглой 23G. 100 шт. Стерильный, апирогенный. Плавный ход поршня. Луер-лок.</description>
+        <price>350</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>32</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Syringe_5ml.jpg/640px-Syringe_5ml.jpg</picture>
+      </offer>
+      <offer id="1103" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Шприц 3-компонентный SFM 5 мл с иглой 22G, 100 шт/уп</name>
+        <description>Одноразовый трёхкомпонентный шприц SFM 5 мл с иглой 22G. 100 шт. Стерильный, апирогенный. Плавный ход поршня. Луер-лок.</description>
+        <price>390</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>32</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Syringe_5ml.jpg/640px-Syringe_5ml.jpg</picture>
+      </offer>
+      <offer id="1104" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Шприц 3-компонентный SFM 10 мл с иглой 21G, 100 шт/уп</name>
+        <description>Одноразовый трёхкомпонентный шприц SFM 10 мл с иглой 21G. 100 шт. Стерильный, апирогенный. Плавный ход поршня. Луер-лок.</description>
+        <price>450</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>32</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Syringe_5ml.jpg/640px-Syringe_5ml.jpg</picture>
+      </offer>
+      <offer id="1105" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Шприц 3-компонентный SFM 20 мл с иглой 21G, 100 шт/уп</name>
+        <description>Одноразовый трёхкомпонентный шприц SFM 20 мл с иглой 21G. 100 шт. Стерильный, апирогенный. Плавный ход поршня. Луер-лок.</description>
+        <price>550</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>32</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Syringe_5ml.jpg/640px-Syringe_5ml.jpg</picture>
+      </offer>
+      <offer id="1106" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Шприц 3-компонентный SFM 10 мл без иглы, 100 шт/уп</name>
+        <description>Одноразовый трёхкомпонентный шприц SFM 10 мл без иглы. 100 шт. Для вливаний, аспирации, промывания. Стерильный.</description>
+        <price>400</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>32</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Syringe_5ml.jpg/640px-Syringe_5ml.jpg</picture>
+      </offer>
+      <offer id="1107" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Шприц 3-компонентный SFM 20 мл без иглы, 100 шт/уп</name>
+        <description>Одноразовый трёхкомпонентный шприц SFM 20 мл без иглы. 100 шт. Для вливаний, аспирации, промывания. Стерильный.</description>
+        <price>480</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>32</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Syringe_5ml.jpg/640px-Syringe_5ml.jpg</picture>
+      </offer>
+      <offer id="1108" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Шприц 3-компонентный SFM 50 мл без иглы, 100 шт/уп</name>
+        <description>Одноразовый трёхкомпонентный шприц SFM 50 мл без иглы. 100 шт. Для вливаний, аспирации, промывания. Стерильный.</description>
+        <price>520</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>32</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Syringe_5ml.jpg/640px-Syringe_5ml.jpg</picture>
+      </offer>
+      <offer id="1109" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Шприц 3-компонентный SFM 60 мл без иглы, 100 шт/уп</name>
+        <description>Одноразовый трёхкомпонентный шприц SFM 60 мл без иглы. 100 шт. Для вливаний, аспирации, промывания. Стерильный.</description>
+        <price>580</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>32</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Syringe_5ml.jpg/640px-Syringe_5ml.jpg</picture>
+      </offer>
+      <offer id="1110" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Шприц инсулиновый SFM 1 мл U-100 с иглой 27G, 100 шт/уп</name>
+        <description>Одноразовый инсулиновый шприц SFM 1 мл U-100, игла 27G 0,45х12мм несъёмная. 100 шт. Для введения инсулина.</description>
+        <price>420</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>32</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Insulin_syringe.jpg/640px-Insulin_syringe.jpg</picture>
+      </offer>
+      <offer id="1111" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Шприц инсулиновый SFM 1 мл U-40 с иглой 27G, 100 шт/уп</name>
+        <description>Одноразовый инсулиновый шприц SFM 1 мл U-40. Игла 27G несъёмная. 100 шт. Шкала 40 ед/мл.</description>
+        <price>420</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>32</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Insulin_syringe.jpg/640px-Insulin_syringe.jpg</picture>
+      </offer>
+      <offer id="1112" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Шприц инсулиновый SFM 0,5 мл U-100 с иглой 29G, 100 шт/уп</name>
+        <description>Одноразовый инсулиновый шприц SFM 0,5 мл U-100. Игла 29G (0,33х12мм) несъёмная. 100 шт. Сверхтонкая игла.</description>
+        <price>450</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>32</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Insulin_syringe.jpg/640px-Insulin_syringe.jpg</picture>
+      </offer>
+      <offer id="1113" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Шприц 2-компонентный 2 мл с иглой, 100 шт/уп</name>
+        <description>Одноразовый двухкомпонентный шприц 2 мл с иглой. 100 шт. Стерильный. Экономичный вариант.</description>
+        <price>280</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>32</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Syringe_5ml.jpg/640px-Syringe_5ml.jpg</picture>
+      </offer>
+      <offer id="1114" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Шприц 2-компонентный 5 мл с иглой, 100 шт/уп</name>
+        <description>Одноразовый двухкомпонентный шприц 5 мл с иглой. 100 шт. Стерильный. Экономичный вариант.</description>
+        <price>320</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>32</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Syringe_5ml.jpg/640px-Syringe_5ml.jpg</picture>
+      </offer>
+      <offer id="1115" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Шприц 2-компонентный 10 мл с иглой, 100 шт/уп</name>
+        <description>Одноразовый двухкомпонентный шприц 10 мл с иглой. 100 шт. Стерильный. Экономичный вариант.</description>
+        <price>370</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>32</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Syringe_5ml.jpg/640px-Syringe_5ml.jpg</picture>
+      </offer>
+      <offer id="1116" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Шприц карпульный одноразовый стоматологический (шт)</name>
+        <description>Одноразовый карпульный шприц для анестезии в стоматологии. Луер-лок. Для работы с карпулами 1,7 мл и 2,2 мл. Стерильный.</description>
+        <price>45</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>32</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Syringe_5ml.jpg/640px-Syringe_5ml.jpg</picture>
+      </offer>
+      <offer id="1117" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Система для в/в вливания с иглой ПВХ (шт)</name>
+        <description>Одноразовая система для в/в вливания. Трубка ПВХ 150 см. Капельница с фильтром 15 мкм. Игла для флакона + игла для вены. Стерильная.</description>
+        <price>22</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>33</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Infusion_set.jpg/640px-Infusion_set.jpg</picture>
+      </offer>
+      <offer id="1118" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Система для в/в вливания без иглы ПВХ (шт)</name>
+        <description>Одноразовая система для в/в вливания без иглы. Трубка 150 см, капельница с фильтром. Стерильная.</description>
+        <price>20</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>33</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Infusion_set.jpg/640px-Infusion_set.jpg</picture>
+      </offer>
+      <offer id="1119" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Система для в/в вливания с инфузионным фильтром 0,2 мкм (шт)</name>
+        <description>Система для в/в вливания с дополнительным 0,2 мкм бактериальным фильтром. 150 см. Стерильная.</description>
+        <price>42</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>33</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Infusion_set.jpg/640px-Infusion_set.jpg</picture>
+      </offer>
+      <offer id="1120" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Система для в/в вливания педиатрическая микродрип 60 кап/мл (шт)</name>
+        <description>Педиатрическая капельная система для в/в вливания. Микродрип (60 кап/мл). 150 см. Стерильная.</description>
+        <price>38</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>33</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Infusion_set.jpg/640px-Infusion_set.jpg</picture>
+      </offer>
+      <offer id="1121" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Система для переливания крови (шт)</name>
+        <description>Одноразовая система для переливания крови и её компонентов. Фильтр 170 мкм. Трубка 150 см. Стерильная, апирогенная.</description>
+        <price>48</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>33</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Infusion_set.jpg/640px-Infusion_set.jpg</picture>
+      </offer>
+      <offer id="1122" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Система для энтерального питания (шт)</name>
+        <description>Система для энтерального питания через зонд. 150 см. Регулятор скорости. Стерильная. Для гастростом и назогастральных зондов.</description>
+        <price>65</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>33</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Infusion_set.jpg/640px-Infusion_set.jpg</picture>
+      </offer>
+      <offer id="1123" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Катетер внутривенный G14 (оранжевый), 50 шт/уп</name>
+        <description>Одноразовый внутривенный катетер G14, цвет маркировки: оранжевый. 50 шт. PTFE-покрытие. Клапан-заглушка. Для инфузионной терапии.</description>
+        <price>950</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>34</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/IV_catheter.jpg/640px-IV_catheter.jpg</picture>
+      </offer>
+      <offer id="1124" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Катетер внутривенный G16 (серый), 50 шт/уп</name>
+        <description>Одноразовый внутривенный катетер G16, цвет маркировки: серый. 50 шт. PTFE-покрытие. Клапан-заглушка. Для инфузионной терапии.</description>
+        <price>950</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>34</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/IV_catheter.jpg/640px-IV_catheter.jpg</picture>
+      </offer>
+      <offer id="1125" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Катетер внутривенный G18 (зелёный), 50 шт/уп</name>
+        <description>Одноразовый внутривенный катетер G18, цвет маркировки: зелёный. 50 шт. PTFE-покрытие. Клапан-заглушка. Для инфузионной терапии.</description>
+        <price>950</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>34</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/IV_catheter.jpg/640px-IV_catheter.jpg</picture>
+      </offer>
+      <offer id="1126" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Катетер внутривенный G20 (розовый), 50 шт/уп</name>
+        <description>Одноразовый внутривенный катетер G20, цвет маркировки: розовый. 50 шт. PTFE-покрытие. Клапан-заглушка. Для инфузионной терапии.</description>
+        <price>950</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>34</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/IV_catheter.jpg/640px-IV_catheter.jpg</picture>
+      </offer>
+      <offer id="1127" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Катетер внутривенный G22 (синий), 50 шт/уп</name>
+        <description>Одноразовый внутривенный катетер G22, цвет маркировки: синий. 50 шт. PTFE-покрытие. Клапан-заглушка. Для инфузионной терапии.</description>
+        <price>920</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>34</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/IV_catheter.jpg/640px-IV_catheter.jpg</picture>
+      </offer>
+      <offer id="1128" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Катетер внутривенный G24 (жёлтый), 50 шт/уп</name>
+        <description>Одноразовый внутривенный катетер G24, цвет маркировки: жёлтый. 50 шт. PTFE-покрытие. Клапан-заглушка. Для инфузионной терапии.</description>
+        <price>920</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>34</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/IV_catheter.jpg/640px-IV_catheter.jpg</picture>
+      </offer>
+      <offer id="1129" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Катетер внутривенный G18 с доп. портом (зелёный), 50 шт/уп</name>
+        <description>Внутривенный катетер G18 с дополнительным инъекционным портом. 50 шт. PTFE-покрытие. Для длительной инфузии.</description>
+        <price>1150</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>34</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/IV_catheter.jpg/640px-IV_catheter.jpg</picture>
+      </offer>
+      <offer id="1130" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Катетер внутривенный G20 с доп. портом (розовый), 50 шт/уп</name>
+        <description>Внутривенный катетер G20 с дополнительным инъекционным портом. 50 шт. PTFE-покрытие. Для длительной инфузии.</description>
+        <price>1150</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>34</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/IV_catheter.jpg/640px-IV_catheter.jpg</picture>
+      </offer>
+      <offer id="1131" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Катетер внутривенный G22 с доп. портом (синий), 50 шт/уп</name>
+        <description>Внутривенный катетер G22 с дополнительным инъекционным портом. 50 шт. PTFE-покрытие. Для длительной инфузии.</description>
+        <price>1100</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>34</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/IV_catheter.jpg/640px-IV_catheter.jpg</picture>
+      </offer>
+      <offer id="1132" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Мешки медицинские класс А белые 30л, 50 шт/уп</name>
+        <description>Мешки для медицинских отходов класса А (белые). 30л. 50 шт. По СанПиН для медицинских учреждений.</description>
+        <price>180</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Medical_waste_bag.jpg/640px-Medical_waste_bag.jpg</picture>
+      </offer>
+      <offer id="1133" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Мешки медицинские класс А белые 60л, 50 шт/уп</name>
+        <description>Мешки для медицинских отходов класса А (белые). 60л. 50 шт. По СанПиН для медицинских учреждений.</description>
+        <price>240</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Medical_waste_bag.jpg/640px-Medical_waste_bag.jpg</picture>
+      </offer>
+      <offer id="1134" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Мешки медицинские класс А белые 120л, 50 шт/уп</name>
+        <description>Мешки для медицинских отходов класса А (белые). 120л. 50 шт. По СанПиН для медицинских учреждений.</description>
+        <price>340</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Medical_waste_bag.jpg/640px-Medical_waste_bag.jpg</picture>
+      </offer>
+      <offer id="1135" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Мешки медицинские класс Б жёлтые 30л, 50 шт/уп</name>
+        <description>Мешки для медицинских отходов класса Б (жёлтые). 30л. 50 шт. По СанПиН для медицинских учреждений.</description>
+        <price>240</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Yellow_medical_waste.jpg/640px-Yellow_medical_waste.jpg</picture>
+      </offer>
+      <offer id="1136" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Мешки медицинские класс Б жёлтые 60л, 50 шт/уп</name>
+        <description>Мешки для медицинских отходов класса Б (жёлтые). 60л. 50 шт. По СанПиН для медицинских учреждений.</description>
+        <price>320</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Yellow_medical_waste.jpg/640px-Yellow_medical_waste.jpg</picture>
+      </offer>
+      <offer id="1137" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Мешки медицинские класс Б жёлтые 120л, 50 шт/уп</name>
+        <description>Мешки для медицинских отходов класса Б (жёлтые). 120л. 50 шт. По СанПиН для медицинских учреждений.</description>
+        <price>440</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Yellow_medical_waste.jpg/640px-Yellow_medical_waste.jpg</picture>
+      </offer>
+      <offer id="1138" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Мешки медицинские класс В красные 30л, 50 шт/уп</name>
+        <description>Мешки для медицинских отходов класса В (красные). 30л. 50 шт. По СанПиН для медицинских учреждений.</description>
+        <price>320</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Yellow_medical_waste.jpg/640px-Yellow_medical_waste.jpg</picture>
+      </offer>
+      <offer id="1139" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Мешки медицинские класс В красные 60л, 50 шт/уп</name>
+        <description>Мешки для медицинских отходов класса В (красные). 60л. 50 шт. По СанПиН для медицинских учреждений.</description>
+        <price>420</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Yellow_medical_waste.jpg/640px-Yellow_medical_waste.jpg</picture>
+      </offer>
+      <offer id="1140" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Мешки медицинские класс В красные 120л, 50 шт/уп</name>
+        <description>Мешки для медицинских отходов класса В (красные). 120л. 50 шт. По СанПиН для медицинских учреждений.</description>
+        <price>560</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Yellow_medical_waste.jpg/640px-Yellow_medical_waste.jpg</picture>
+      </offer>
+      <offer id="1141" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Пакеты мусорные чёрные 60л, 50 шт/уп</name>
+        <description>Мусорные пакеты чёрные 60л. 50 шт. Плотный полиэтилен. Для офисов, медучреждений, уборки.</description>
+        <price>120</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Medical_waste_bag.jpg/640px-Medical_waste_bag.jpg</picture>
+      </offer>
+      <offer id="1142" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Пакеты мусорные чёрные 120л, 50 шт/уп</name>
+        <description>Мусорные пакеты чёрные 120л. 50 шт. Плотный полиэтилен. Для офисов, медучреждений, уборки.</description>
+        <price>185</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Medical_waste_bag.jpg/640px-Medical_waste_bag.jpg</picture>
+      </offer>
+      <offer id="1143" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Пакеты мусорные чёрные 200л, 50 шт/уп</name>
+        <description>Мусорные пакеты чёрные 200л. 50 шт. Плотный полиэтилен. Для офисов, медучреждений, уборки.</description>
+        <price>260</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Medical_waste_bag.jpg/640px-Medical_waste_bag.jpg</picture>
+      </offer>
+      <offer id="1144" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Листы для коффердама тонкие (Thin), 36 шт/уп</name>
+        <description>Латексные листы для изоляции рабочего поля (коффердам). Тонкие (Thin). 15х15 см. 36 листов. Зелёные. Для стоматологий.</description>
+        <price>480</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>51</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Kofferdam_Anwendung.jpg/640px-Kofferdam_Anwendung.jpg</picture>
+      </offer>
+      <offer id="1145" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Листы для коффердама средние (Medium), 36 шт/уп</name>
+        <description>Латексные листы для изоляции рабочего поля (коффердам). Средние (Medium). 15х15 см. 36 листов. Зелёные. Для стоматологий.</description>
+        <price>520</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>51</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Kofferdam_Anwendung.jpg/640px-Kofferdam_Anwendung.jpg</picture>
+      </offer>
+      <offer id="1146" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Листы для коффердама плотные (Heavy), 36 шт/уп</name>
+        <description>Латексные листы для изоляции рабочего поля (коффердам). Плотные (Heavy). 15х15 см. 36 листов. Зелёные. Для стоматологий.</description>
+        <price>580</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>51</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Kofferdam_Anwendung.jpg/640px-Kofferdam_Anwendung.jpg</picture>
+      </offer>
+      <offer id="1147" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Листы для коффердама экстраплотные (Extra Heavy), 36 шт/уп</name>
+        <description>Латексные листы для изоляции рабочего поля (коффердам). Экстраплотные (Extra Heavy). 15х15 см. 36 листов. Зелёные. Для стоматологий.</description>
+        <price>640</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>51</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Kofferdam_Anwendung.jpg/640px-Kofferdam_Anwendung.jpg</picture>
+      </offer>
+      <offer id="1148" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Листы для коффердама нелатексные (Medium), 36 шт/уп</name>
+        <description>Нелатексные листы для коффердама. Для пациентов с аллергией на латекс. 15х15 см. 36 листов. Medium.</description>
+        <price>680</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>51</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Kofferdam_Anwendung.jpg/640px-Kofferdam_Anwendung.jpg</picture>
+      </offer>
+      <offer id="1149" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Зажимы для коффердама ассорти (6 шт/уп)</name>
+        <description>Набор зажимов для фиксации коффердама на зубах. 6 шт. Хирургическая нержавеющая сталь. Многоразовые. Для стоматологии.</description>
+        <price>850</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>51</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Kofferdam_Anwendung.jpg/640px-Kofferdam_Anwendung.jpg</picture>
+      </offer>
+      <offer id="1150" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Микроаппликаторы Super Fine (белый), 100 шт/уп</name>
+        <description>Одноразовые микроаппликаторы Super Fine. Белый цвет. 100 шт. Для нанесения адгезивов, бондингов, медикаментов в стоматологии.</description>
+        <price>250</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>52</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Microbrushes.jpg/640px-Microbrushes.jpg</picture>
+      </offer>
+      <offer id="1151" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Микроаппликаторы Fine (жёлтый), 100 шт/уп</name>
+        <description>Одноразовые микроаппликаторы Fine. Жёлтый цвет. 100 шт. Для нанесения адгезивов, бондингов, медикаментов в стоматологии.</description>
+        <price>220</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>52</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Microbrushes.jpg/640px-Microbrushes.jpg</picture>
+      </offer>
+      <offer id="1152" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Микроаппликаторы Regular (розовый), 100 шт/уп</name>
+        <description>Одноразовые микроаппликаторы Regular. Розовый цвет. 100 шт. Для нанесения адгезивов, бондингов, медикаментов в стоматологии.</description>
+        <price>220</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>52</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Microbrushes.jpg/640px-Microbrushes.jpg</picture>
+      </offer>
+      <offer id="1153" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Микроаппликаторы Large (синий), 100 шт/уп</name>
+        <description>Одноразовые микроаппликаторы Large. Синий цвет. 100 шт. Для нанесения адгезивов, бондингов, медикаментов в стоматологии.</description>
+        <price>220</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>52</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Microbrushes.jpg/640px-Microbrushes.jpg</picture>
+      </offer>
+      <offer id="1154" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Ретракторы для щёк S/M, 10 шт/уп</name>
+        <description>Одноразовые ретракторы для щёк и губ S/M. 10 шт. Широкий доступ к ротовой полости. Для отбеливания, ортодонтии.</description>
+        <price>350</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>52</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Microbrushes.jpg/640px-Microbrushes.jpg</picture>
+      </offer>
+      <offer id="1155" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Ретракторы для щёк L/XL, 10 шт/уп</name>
+        <description>Одноразовые ретракторы для щёк и губ L/XL. 10 шт. Широкий доступ к ротовой полости. Для ортодонтии, профессионального отбеливания.</description>
+        <price>350</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>52</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Microbrushes.jpg/640px-Microbrushes.jpg</picture>
+      </offer>
+      <offer id="1156" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Ретракторы для губ одноразовые, 10 шт/уп</name>
+        <description>Одноразовые ретракторы для губ. 10 шт. Удерживают губы при работе с зубными рядами. Для фотосъёмки и клинической работы.</description>
+        <price>320</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>52</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Microbrushes.jpg/640px-Microbrushes.jpg</picture>
+      </offer>
+      <offer id="1157" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Слюноотсосы одноразовые с клапаном, 100 шт/уп</name>
+        <description>Одноразовые слюноотсосы с клапаном-заглушкой. 100 шт. Для стоматологических установок. Мягкий наконечник.</description>
+        <price>280</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>52</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Microbrushes.jpg/640px-Microbrushes.jpg</picture>
+      </offer>
+      <offer id="1158" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Слюноотсосы одноразовые без клапана, 100 шт/уп</name>
+        <description>Одноразовые слюноотсосы без клапана. 100 шт. Для стоматологических установок. Прозрачные.</description>
+        <price>220</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>52</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Microbrushes.jpg/640px-Microbrushes.jpg</picture>
+      </offer>
+      <offer id="1159" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Нагрудники стоматологические 3-слойные ламинированные, 500 шт/уп</name>
+        <description>Одноразовые нагрудники для пациентов. 3 слоя с ламинированием. 33х45 см. 500 шт. Влагозащитный слой. Для стоматологий.</description>
+        <price>650</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>53</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Dental_bib.jpg/640px-Dental_bib.jpg</picture>
+      </offer>
+      <offer id="1160" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Нагрудники стоматологические 2-слойные, 500 шт/уп</name>
+        <description>Одноразовые нагрудники для пациентов. 2 слоя. 33х45 см. 500 шт. Для стоматологических клиник.</description>
+        <price>480</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>53</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Dental_bib.jpg/640px-Dental_bib.jpg</picture>
+      </offer>
+      <offer id="1161" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Нагрудники процедурные 2-слойные, 100 шт/уп</name>
+        <description>Одноразовые процедурные нагрудники. 2 слоя. 45х32 см. 100 шт. Для различных медицинских манипуляций.</description>
+        <price>130</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>53</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Dental_bib.jpg/640px-Dental_bib.jpg</picture>
+      </offer>
+      <offer id="1162" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Фартуки защитные одноразовые SMS, 50 шт/уп</name>
+        <description>Одноразовые защитные фартуки SMS. 50 шт. Завязки на шее и поясе. Защита от брызг и контаминации.</description>
+        <price>420</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>53</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Dental_bib.jpg/640px-Dental_bib.jpg</picture>
+      </offer>
+      <offer id="1163" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Фартуки ПВХ водонепроницаемые одноразовые, 50 шт/уп</name>
+        <description>Одноразовые фартуки ПВХ-плёнки. 50 шт. Усиленная влагозащита. Для стоматологии и лабораторий.</description>
+        <price>380</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>53</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Dental_bib.jpg/640px-Dental_bib.jpg</picture>
+      </offer>
+      <offer id="1164" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Пелёнки медицинские одноразовые 60х90см, 50 шт/уп</name>
+        <description>Одноразовые медицинские пелёнки впитывающие. 60х90 см. 50 шт. 3-слойные. Для процедурных кабинетов, смотровых.</description>
+        <price>520</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>53</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Dental_bib.jpg/640px-Dental_bib.jpg</picture>
+      </offer>
+      <offer id="1165" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Пелёнки медицинские одноразовые 60х40см, 100 шт/уп</name>
+        <description>Одноразовые медицинские пелёнки впитывающие. 60х40 см. 100 шт. Для стоматологических и косметологических процедур.</description>
+        <price>480</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>53</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Dental_bib.jpg/640px-Dental_bib.jpg</picture>
+      </offer>
+      <offer id="1166" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Чехлы для датчика радиовизиографа, 100 шт/уп</name>
+        <description>Одноразовые защитные чехлы для датчиков радиовизиографа. 100 шт. Прозрачная ПЭ плёнка. Инфекционный контроль.</description>
+        <price>380</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>54</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Dental_barrier.jpg/640px-Dental_barrier.jpg</picture>
+      </offer>
+      <offer id="1167" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Чехлы для наконечника стоматологического, 250 шт/уп</name>
+        <description>Защитные чехлы для стоматологических наконечников. 250 шт. Прозрачные. Инфекционный контроль.</description>
+        <price>420</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>54</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Dental_barrier.jpg/640px-Dental_barrier.jpg</picture>
+      </offer>
+      <offer id="1168" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Чехлы для рукоятки стоматологического светильника, 250 шт/уп</name>
+        <description>Защитные чехлы для рукояток светильников. 250 шт. Одноразовые, прозрачные. Барьерная защита.</description>
+        <price>350</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>54</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Dental_barrier.jpg/640px-Dental_barrier.jpg</picture>
+      </offer>
+      <offer id="1169" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Чехлы для 3D-сканера полости рта, 100 шт/уп</name>
+        <description>Одноразовые защитные чехлы для интраоральных 3D-сканеров. 100 шт. Прозрачные. Инфекционный контроль в стоматологии.</description>
+        <price>650</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>54</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Dental_barrier.jpg/640px-Dental_barrier.jpg</picture>
+      </offer>
+      <offer id="1170" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Чехлы для прибора Апекслокатор, 100 шт/уп</name>
+        <description>Защитные чехлы для файл-держателей апекслокаторов. 100 шт. Одноразовые. Стерильный барьер.</description>
+        <price>280</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>54</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Dental_barrier.jpg/640px-Dental_barrier.jpg</picture>
+      </offer>
+      <offer id="1171" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Рулон для стерилизации 50мм x 200м</name>
+        <description>Рулон для паровой и газовой стерилизации. Ширина 50мм, длина 200 м. Крафт-бумага + полипропилен. Индикатор стерилизации.</description>
+        <price>420</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>55</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Sterilization_pouch.jpg/640px-Sterilization_pouch.jpg</picture>
+      </offer>
+      <offer id="1172" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Рулон для стерилизации 75мм x 200м</name>
+        <description>Рулон для паровой и газовой стерилизации. Ширина 75мм, длина 200 м. Крафт-бумага + полипропилен. Индикатор стерилизации.</description>
+        <price>580</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>55</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Sterilization_pouch.jpg/640px-Sterilization_pouch.jpg</picture>
+      </offer>
+      <offer id="1173" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Рулон для стерилизации 100мм x 200м</name>
+        <description>Рулон для паровой и газовой стерилизации. Ширина 100мм, длина 200 м. Крафт-бумага + полипропилен. Индикатор стерилизации.</description>
+        <price>720</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>55</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Sterilization_pouch.jpg/640px-Sterilization_pouch.jpg</picture>
+      </offer>
+      <offer id="1174" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Рулон для стерилизации 150мм x 200м</name>
+        <description>Рулон для паровой и газовой стерилизации. Ширина 150мм, длина 200 м. Крафт-бумага + полипропилен. Индикатор стерилизации.</description>
+        <price>980</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>55</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Sterilization_pouch.jpg/640px-Sterilization_pouch.jpg</picture>
+      </offer>
+      <offer id="1175" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Рулон для стерилизации 200мм x 200м</name>
+        <description>Рулон для паровой и газовой стерилизации. Ширина 200мм, длина 200 м. Крафт-бумага + полипропилен. Индикатор стерилизации.</description>
+        <price>1250</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>55</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Sterilization_pouch.jpg/640px-Sterilization_pouch.jpg</picture>
+      </offer>
+      <offer id="1176" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Пакеты для стерилизации самозапечатывающиеся 60x100мм, 200 шт/уп</name>
+        <description>Самозапечатывающиеся пакеты для паровой и газовой стерилизации. 60x100мм. 200 шт. Индикатор стерилизации.</description>
+        <price>380</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>55</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Sterilization_pouch.jpg/640px-Sterilization_pouch.jpg</picture>
+      </offer>
+      <offer id="1177" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Пакеты для стерилизации самозапечатывающиеся 90x230мм, 200 шт/уп</name>
+        <description>Самозапечатывающиеся пакеты для паровой и газовой стерилизации. 90x230мм. 200 шт. Индикатор стерилизации.</description>
+        <price>480</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>55</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Sterilization_pouch.jpg/640px-Sterilization_pouch.jpg</picture>
+      </offer>
+      <offer id="1178" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Пакеты для стерилизации самозапечатывающиеся 130x250мм, 200 шт/уп</name>
+        <description>Самозапечатывающиеся пакеты для паровой и газовой стерилизации. 130x250мм. 200 шт. Индикатор стерилизации.</description>
+        <price>520</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>55</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Sterilization_pouch.jpg/640px-Sterilization_pouch.jpg</picture>
+      </offer>
+      <offer id="1179" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Пакеты для стерилизации самозапечатывающиеся 190x330мм, 200 шт/уп</name>
+        <description>Самозапечатывающиеся пакеты для паровой и газовой стерилизации. 190x330мм. 200 шт. Индикатор стерилизации.</description>
+        <price>540</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>55</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Sterilization_pouch.jpg/640px-Sterilization_pouch.jpg</picture>
+      </offer>
+      <offer id="1180" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Пакеты для стерилизации самозапечатывающиеся 250x350мм, 200 шт/уп</name>
+        <description>Самозапечатывающиеся пакеты для паровой и газовой стерилизации. 250x350мм. 200 шт. Индикатор стерилизации.</description>
+        <price>620</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>55</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Sterilization_pouch.jpg/640px-Sterilization_pouch.jpg</picture>
+      </offer>
+      <offer id="1181" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Индикаторы стерилизации паровые (ИС-120), 500 шт/уп</name>
+        <description>Химические индикаторы паровой стерилизации ИС-120 (120°С). 500 шт. 1-й класс. Контроль пароавтоклавной стерилизации.</description>
+        <price>280</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>55</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Sterilization_pouch.jpg/640px-Sterilization_pouch.jpg</picture>
+      </offer>
+      <offer id="1182" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Индикаторы стерилизации паровые (ИС-134), 500 шт/уп</name>
+        <description>Химические индикаторы паровой стерилизации ИС-134 (134°С). 500 шт. 1-й класс. Для экспресс-стерилизации.</description>
+        <price>280</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>55</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Sterilization_pouch.jpg/640px-Sterilization_pouch.jpg</picture>
+      </offer>
+      <offer id="1183" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Халат медицинский одноразовый SMS S, 10 шт/уп</name>
+        <description>Одноразовый нестерильный медицинский халат SMS. Размер S. 10 шт. Завязки на поясе и шее. Для врачей, стоматологов, бьюти.</description>
+        <price>380</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>56</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Disposable_gown.jpg/640px-Disposable_gown.jpg</picture>
+      </offer>
+      <offer id="1184" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Халат медицинский одноразовый SMS M, 10 шт/уп</name>
+        <description>Одноразовый нестерильный медицинский халат SMS. Размер M. 10 шт. Завязки на поясе и шее. Для врачей, стоматологов, бьюти.</description>
+        <price>380</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>56</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Disposable_gown.jpg/640px-Disposable_gown.jpg</picture>
+      </offer>
+      <offer id="1185" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Халат медицинский одноразовый SMS L, 10 шт/уп</name>
+        <description>Одноразовый нестерильный медицинский халат SMS. Размер L. 10 шт. Завязки на поясе и шее. Для врачей, стоматологов, бьюти.</description>
+        <price>380</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>56</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Disposable_gown.jpg/640px-Disposable_gown.jpg</picture>
+      </offer>
+      <offer id="1186" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Халат медицинский одноразовый SMS XL, 10 шт/уп</name>
+        <description>Одноразовый нестерильный медицинский халат SMS. Размер XL. 10 шт. Завязки на поясе и шее. Для врачей, стоматологов, бьюти.</description>
+        <price>400</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>56</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Disposable_gown.jpg/640px-Disposable_gown.jpg</picture>
+      </offer>
+      <offer id="1187" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Халат медицинский одноразовый SMS XXL, 10 шт/уп</name>
+        <description>Одноразовый нестерильный медицинский халат SMS. Размер XXL. 10 шт. Завязки на поясе и шее. Для врачей, стоматологов, бьюти.</description>
+        <price>400</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>56</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Disposable_gown.jpg/640px-Disposable_gown.jpg</picture>
+      </offer>
+      <offer id="1188" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Халат медицинский усиленный SMS XL, 10 шт/уп</name>
+        <description>Усиленный одноразовый халат SMS XL. 10 шт. Прочный. Для хирургических процедур. Повышенная защита.</description>
+        <price>560</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>56</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Disposable_gown.jpg/640px-Disposable_gown.jpg</picture>
+      </offer>
+      <offer id="1189" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Халат медицинский на кнопках белый M, 10 шт/уп</name>
+        <description>Одноразовый медицинский халат на кнопках. Белый. Размер M. 10 шт. SMS. Для стоматологий и клиник.</description>
+        <price>420</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>56</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Disposable_gown.jpg/640px-Disposable_gown.jpg</picture>
+      </offer>
+      <offer id="1190" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Халат медицинский на кнопках синий L, 10 шт/уп</name>
+        <description>Одноразовый медицинский халат на кнопках. Синий. Размер L. 10 шт. SMS. Для медицинских процедур.</description>
+        <price>420</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>56</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Disposable_gown.jpg/640px-Disposable_gown.jpg</picture>
+      </offer>
+      <offer id="1191" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Маска медицинская 3-слойная белая на резинках, 50 шт/уп</name>
+        <description>Одноразовая трёхслойная медицинская маска на резинках. 50 шт. Мелтблаун-фильтр. Белая. Для медицины и стоматологии.</description>
+        <price>220</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>57</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Face_mask_on_table.jpg/640px-Face_mask_on_table.jpg</picture>
+      </offer>
+      <offer id="1192" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Маска медицинская 3-слойная голубая на резинках, 50 шт/уп</name>
+        <description>Одноразовая трёхслойная медицинская маска на резинках. 50 шт. Мелтблаун-фильтр. Голубая.</description>
+        <price>220</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>57</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Face_mask_on_table.jpg/640px-Face_mask_on_table.jpg</picture>
+      </offer>
+      <offer id="1193" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Маска медицинская 4-слойная на резинках, 50 шт/уп</name>
+        <description>Одноразовая четырёхслойная медицинская маска. 50 шт. Двойной мелтблаун. Повышенная защита.</description>
+        <price>320</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>57</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Face_mask_on_table.jpg/640px-Face_mask_on_table.jpg</picture>
+      </offer>
+      <offer id="1194" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Маска медицинская на завязках 3-слойная, 50 шт/уп</name>
+        <description>Одноразовая трёхслойная маска на завязках. 50 шт. Плотная фиксация. Для операционных блоков.</description>
+        <price>280</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>57</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Face_mask_on_table.jpg/640px-Face_mask_on_table.jpg</picture>
+      </offer>
+      <offer id="1195" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Маска стоматологическая с козырьком, 25 шт/уп</name>
+        <description>Маска с защитным козырьком (экраном). 25 шт. Комбинированная защита от брызг. Для стоматологии.</description>
+        <price>780</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>57</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Face_mask_on_table.jpg/640px-Face_mask_on_table.jpg</picture>
+      </offer>
+      <offer id="1196" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Респиратор FFP2 без клапана (шт)</name>
+        <description>Полумаска-респиратор FFP2 без клапана. Защита от аэрозолей и пыли. Одноразовый. Для медицины и промышленности.</description>
+        <price>95</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>57</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Atemschutzmaske.jpg/640px-Atemschutzmaske.jpg</picture>
+      </offer>
+      <offer id="1197" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Респиратор FFP2 с клапаном (шт)</name>
+        <description>Полумаска-респиратор FFP2 с выдыхательным клапаном. Комфортное ношение. Одноразовый. Для медицины.</description>
+        <price>110</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>57</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Atemschutzmaske.jpg/640px-Atemschutzmaske.jpg</picture>
+      </offer>
+      <offer id="1198" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Респиратор FFP3 без клапана (шт)</name>
+        <description>Полумаска-респиратор FFP3 без клапана. Максимальная защита. Для инфекционных отделений и лабораторий.</description>
+        <price>145</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>57</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Atemschutzmaske.jpg/640px-Atemschutzmaske.jpg</picture>
+      </offer>
+      <offer id="1199" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Шапочки медицинские шарлотка, 100 шт/уп</name>
+        <description>Одноразовые медицинские шапочки-шарлотка. 100 шт. Нетканый материал. Универсальный размер.</description>
+        <price>180</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>57</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Surgical_cap.jpg/640px-Surgical_cap.jpg</picture>
+      </offer>
+      <offer id="1200" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Шапочки медицинские берет, 100 шт/уп</name>
+        <description>Одноразовые медицинские шапочки-берет. 100 шт. Плотный нетканый материал. Для операционных.</description>
+        <price>220</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>57</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Surgical_cap.jpg/640px-Surgical_cap.jpg</picture>
+      </offer>
+      <offer id="1201" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Шапочки хирургические на завязках, 100 шт/уп</name>
+        <description>Одноразовые хирургические шапочки на завязках. 100 шт. Полное покрытие волос. Для операционных и стерильных зон.</description>
+        <price>250</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>57</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Surgical_cap.jpg/640px-Surgical_cap.jpg</picture>
+      </offer>
+      <offer id="1202" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Салфетки бумажные нарезные 1-слойные 24x24см, 400 шт/уп</name>
+        <description>Бумажные нарезные салфетки. 1 слой. 24х24 см. 400 шт. ZZ-складка. Для диспенсеров. Медицина, офис.</description>
+        <price>95</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>61</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Paper_towels.jpg/640px-Paper_towels.jpg</picture>
+      </offer>
+      <offer id="1203" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Салфетки бумажные нарезные 2-слойные 21x21см, 200 шт/уп</name>
+        <description>Бумажные нарезные салфетки. 2 слоя. 21х21 см. 200 шт. Для диспенсеров. Мягкие, белые.</description>
+        <price>120</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>61</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Paper_towels.jpg/640px-Paper_towels.jpg</picture>
+      </offer>
+      <offer id="1204" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Салфетки спанлейс перфорированные 30x40см, 100 шт/уп (рулон)</name>
+        <description>Нетканые салфетки спанлейс в рулоне. 30х40 см. 100 шт. Для косметологии, массажа, процедурных кабинетов.</description>
+        <price>340</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>61</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Paper_towels.jpg/640px-Paper_towels.jpg</picture>
+      </offer>
+      <offer id="1205" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Салфетки спанлейс 20x30см, 100 шт/уп</name>
+        <description>Нетканые салфетки спанлейс. 20х30 см. 100 шт. Для косметологических процедур. Мягкие.</description>
+        <price>220</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>61</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Paper_towels.jpg/640px-Paper_towels.jpg</picture>
+      </offer>
+      <offer id="1206" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Полотенца бумажные рулонные H1 200м (рулон)</name>
+        <description>Бумажные рулонные полотенца. Система H1, центральная вытяжка. 200 м. 1-слойные. Белые. Для диспенсеров.</description>
+        <price>145</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>61</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Papiertuecher.jpg/640px-Papiertuecher.jpg</picture>
+      </offer>
+      <offer id="1207" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Полотенца бумажные рулонные H2 150м 2-слойные (рулон)</name>
+        <description>Бумажные рулонные полотенца. Система H2. 150 м. 2-слойные, мягкие. Белые. Для диспенсеров.</description>
+        <price>185</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>61</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Papiertuecher.jpg/640px-Papiertuecher.jpg</picture>
+      </offer>
+      <offer id="1208" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Полотенца листовые V-сложение 2-слойные 21x22см, 200 шт/уп</name>
+        <description>Бумажные листовые полотенца V-сложения. 2 слоя. 21х22 см. 200 шт. Для диспенсеров. Медицина, офис.</description>
+        <price>155</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>61</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Papiertuecher.jpg/640px-Papiertuecher.jpg</picture>
+      </offer>
+      <offer id="1209" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Полотенца одноразовые спанлейс 35x70см, 50 шт/уп</name>
+        <description>Нетканые одноразовые полотенца спанлейс. 35х70 см. 50 шт. Для косметологии, массажа, медицины.</description>
+        <price>420</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>61</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Papiertuecher.jpg/640px-Papiertuecher.jpg</picture>
+      </offer>
+      <offer id="1210" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Полотенца одноразовые спанлейс 45x90см, 50 шт/уп</name>
+        <description>Нетканые одноразовые полотенца спанлейс. 45х90 см. 50 шт. Для массажных кабинетов и медицины.</description>
+        <price>580</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>61</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Papiertuecher.jpg/640px-Papiertuecher.jpg</picture>
+      </offer>
+      <offer id="1211" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Мыло жидкое антибактериальное 5л (канистра)</name>
+        <description>Жидкое антибактериальное мыло для рук. 5 л. Для заправки диспенсеров. Нейтральный pH. Для медицины и стоматологий.</description>
+        <price>520</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>62</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Liquid_soap_2.jpg/640px-Liquid_soap_2.jpg</picture>
+      </offer>
+      <offer id="1212" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Мыло жидкое антибактериальное 1л (флакон с дозатором)</name>
+        <description>Жидкое антибактериальное мыло для рук. 1 л. Флакон с дозатором. Нейтральный pH.</description>
+        <price>145</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>62</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Liquid_soap_2.jpg/640px-Liquid_soap_2.jpg</picture>
+      </offer>
+      <offer id="1213" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Антисептик кожный 70% спирт 5л (канистра)</name>
+        <description>Кожный антисептик для рук и поверхностей. 5 л. Спирт 70%. Для заправки диспенсеров. Для медицины и стоматологий.</description>
+        <price>1100</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>62</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Hand_sanitizer.jpg/640px-Hand_sanitizer.jpg</picture>
+      </offer>
+      <offer id="1214" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Антисептик кожный 70% спирт 1л (флакон)</name>
+        <description>Кожный антисептик. 1 л. Спирт 70%. Флакон. Не требует смывания. Широкий антимикробный спектр.</description>
+        <price>280</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>62</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Hand_sanitizer.jpg/640px-Hand_sanitizer.jpg</picture>
+      </offer>
+      <offer id="1215" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Антисептик кожный 70% спирт 0,5л (флакон с дозатором)</name>
+        <description>Кожный антисептик 70%. 500 мл. Флакон с помповым дозатором. Для стационарного применения.</description>
+        <price>165</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>62</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Hand_sanitizer.jpg/640px-Hand_sanitizer.jpg</picture>
+      </offer>
+      <offer id="1216" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Хлоргексидин 0,05% водный раствор 1л</name>
+        <description>Хлоргексидина биглюконат 0,05% водный раствор. 1 л. Для обработки ран, слизистых, дезинфекции инструментов.</description>
+        <price>95</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>62</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Hand_sanitizer.jpg/640px-Hand_sanitizer.jpg</picture>
+      </offer>
+      <offer id="1217" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Спирт медицинский этиловый 95% 1л</name>
+        <description>Медицинский этиловый спирт 95%. 1 л. Для дезинфекции инструментов и поверхностей. Стоматология, медицина.</description>
+        <price>320</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>62</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Hand_sanitizer.jpg/640px-Hand_sanitizer.jpg</picture>
+      </offer>
+      <offer id="1218" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Пергидроль (перекись водорода 30%) 1л</name>
+        <description>Перекись водорода 30% (пергидроль). 1 л. Для дезинфекции, отбеливания. Применение в медицине и стоматологии.</description>
+        <price>180</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>62</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Hand_sanitizer.jpg/640px-Hand_sanitizer.jpg</picture>
+      </offer>
+      <offer id="1219" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Дезинфектант для поверхностей концентрат 5л</name>
+        <description>Концентрированное дезинфицирующее средство для поверхностей. 5 л. Широкий антимикробный спектр. Для медицины и стоматологий.</description>
+        <price>680</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>63</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Spray_bottle.jpg/640px-Spray_bottle.jpg</picture>
+      </offer>
+      <offer id="1220" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Дезинфектант для поверхностей концентрат 1л</name>
+        <description>Концентрат дезинфицирующего средства для поверхностей. 1 л. Для поверхностей, оборудования. Для медицины.</description>
+        <price>185</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>63</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Spray_bottle.jpg/640px-Spray_bottle.jpg</picture>
+      </offer>
+      <offer id="1221" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Спрей дезинфицирующий готовый к применению 500мл</name>
+        <description>Готовый к применению дезинфицирующий спрей. 500 мл. Быстросохнущий. Против вирусов, бактерий, грибков.</description>
+        <price>180</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>63</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Spray_bottle.jpg/640px-Spray_bottle.jpg</picture>
+      </offer>
+      <offer id="1222" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Средство для дезинфекции инструментов 1л (концентрат)</name>
+        <description>Концентрат для замачивания и дезинфекции медицинских инструментов. 1 л. Широкий спектр.</description>
+        <price>220</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>63</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Spray_bottle.jpg/640px-Spray_bottle.jpg</picture>
+      </offer>
+      <offer id="1223" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Средство для дезинфекции инструментов 5л (концентрат)</name>
+        <description>Концентрат для дезинфекции медицинских инструментов. 5 л. Для медучреждений и стоматологий.</description>
+        <price>850</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>63</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Spray_bottle.jpg/640px-Spray_bottle.jpg</picture>
+      </offer>
+      <offer id="1224" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Аэрозоль для очистки стоматологических наконечников 250мл</name>
+        <description>Аэрозоль для очистки, смазки и дезинфекции стоматологических наконечников. 250 мл.</description>
+        <price>380</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>63</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Spray_bottle.jpg/640px-Spray_bottle.jpg</picture>
+      </offer>
+      <offer id="1225" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Дезинфицирующие влажные салфетки 70% спирт, 100 шт/уп</name>
+        <description>Дезинфицирующие влажные салфетки. 70% изопропиловый спирт. 100 шт. Для обработки поверхностей, инструментов, кожи.</description>
+        <price>280</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>63</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Spray_bottle.jpg/640px-Spray_bottle.jpg</picture>
+      </offer>
+      <offer id="1226" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Туалетная бумага стандарт 2-слойная, 48 рул/уп</name>
+        <description>Туалетная бумага стандарт. 2 слоя, белая. 48 рулонов. Длина 25 м/рулон. Первичная целлюлоза.</description>
+        <price>480</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>64</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Toilet_paper_orientation_over.jpg/640px-Toilet_paper_orientation_over.jpg</picture>
+      </offer>
+      <offer id="1227" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Туалетная бумага стандарт 2-слойная, 24 рул/уп</name>
+        <description>Туалетная бумага стандарт. 2 слоя, белая. 24 рулона. Длина 25 м/рулон. Для медицины и офисов.</description>
+        <price>260</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>64</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Toilet_paper_orientation_over.jpg/640px-Toilet_paper_orientation_over.jpg</picture>
+      </offer>
+      <offer id="1228" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Туалетная бумага системная T2 100м 2-слойная, 12 рул/уп</name>
+        <description>Туалетная бумага для диспенсеров. Система T2. 2 слоя. 12 рулонов. Длина 100 м/рулон.</description>
+        <price>650</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>64</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Toilet_paper_orientation_over.jpg/640px-Toilet_paper_orientation_over.jpg</picture>
+      </offer>
+      <offer id="1229" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Туалетная бумага системная T1 мини-джамбо 200м, 12 рул/уп</name>
+        <description>Туалетная бумага мини-джамбо. Система T1. 1 слой. 12 рулонов. Длина 200 м/рулон. Экономичный расход.</description>
+        <price>590</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>64</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Toilet_paper_orientation_over.jpg/640px-Toilet_paper_orientation_over.jpg</picture>
+      </offer>
+      <offer id="1230" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Туалетная бумага джамбо 200м 1-слойная (рулон)</name>
+        <description>Туалетная бумага джамбо. 1 слой. 200 м. Для диспенсеров. Высокий ресурс. Для мест с высокой проходимостью.</description>
+        <price>185</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>64</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Toilet_paper_orientation_over.jpg/640px-Toilet_paper_orientation_over.jpg</picture>
+      </offer>
+      <offer id="1231" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Туалетная бумага листовая V-складка, 250 шт/уп</name>
+        <description>Туалетная бумага листовая V-сложения. 250 листов. 2-слойная. Для диспенсеров. Мягкая.</description>
+        <price>120</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>64</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Toilet_paper_orientation_over.jpg/640px-Toilet_paper_orientation_over.jpg</picture>
+      </offer>
+      <offer id="1232" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Тапочки одноразовые закрытые нетканые, 10 пар/уп</name>
+        <description>Одноразовые закрытые тапочки. Нетканый материал. 10 пар. Универсальный размер. Нескользящая подошва. Для клиник, SPA, гостиниц.</description>
+        <price>180</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>65</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Disposable_slippers.jpg/640px-Disposable_slippers.jpg</picture>
+      </offer>
+      <offer id="1233" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Тапочки одноразовые открытые (шлёпки) нетканые, 10 пар/уп</name>
+        <description>Одноразовые тапочки-шлёпанцы. Нетканый материал. 10 пар. Для клиник, косметологии, гостиниц.</description>
+        <price>150</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>65</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Disposable_slippers.jpg/640px-Disposable_slippers.jpg</picture>
+      </offer>
+      <offer id="1234" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Тапочки одноразовые Terry (махровые), 10 пар/уп</name>
+        <description>Одноразовые тапочки terry (махровые). 10 пар. Мягкие. Для SPA, косметологии, стоматологий.</description>
+        <price>350</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>65</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Disposable_slippers.jpg/640px-Disposable_slippers.jpg</picture>
+      </offer>
+      <offer id="1235" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Тапочки одноразовые EVA, 10 пар/уп</name>
+        <description>Одноразовые тапочки EVA. 10 пар. Лёгкие, влагостойкие. Для бассейнов, SPA, медицины.</description>
+        <price>280</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>65</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Disposable_slippers.jpg/640px-Disposable_slippers.jpg</picture>
+      </offer>
+      <offer id="1236" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Тапочки одноразовые с закрытым носком спанбонд, 50 пар/уп</name>
+        <description>Одноразовые тапочки из спанбонда. 50 пар — оптовая фасовка. Для клиник и гостиниц. Универсальный размер.</description>
+        <price>650</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>65</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Disposable_slippers.jpg/640px-Disposable_slippers.jpg</picture>
+      </offer>
+      <offer id="1237" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Перчатки нитриловые голубые S, 50 шт/уп</name>
+        <description>Нитриловые смотровые перчатки голубые. Размер S. 50 шт (25 пар). Малая упаковка. Неопудренные, нестерильные.</description>
+        <price>310</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>11</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Blue_Latex_Gloves.jpg/640px-Blue_Latex_Gloves.jpg</picture>
+      </offer>
+      <offer id="1238" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Перчатки нитриловые голубые M, 50 шт/уп</name>
+        <description>Нитриловые смотровые перчатки голубые. Размер M. 50 шт (25 пар). Малая упаковка. Неопудренные, нестерильные.</description>
+        <price>310</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>11</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Blue_Latex_Gloves.jpg/640px-Blue_Latex_Gloves.jpg</picture>
+      </offer>
+      <offer id="1239" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Перчатки нитриловые голубые L, 50 шт/уп</name>
+        <description>Нитриловые смотровые перчатки голубые. Размер L. 50 шт (25 пар). Малая упаковка. Неопудренные, нестерильные.</description>
+        <price>310</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>11</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Blue_Latex_Gloves.jpg/640px-Blue_Latex_Gloves.jpg</picture>
+      </offer>
+      <offer id="1240" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Перчатки нитриловые High Risk S, 50 шт/уп</name>
+        <description>Нитриловые перчатки повышенной прочности High Risk. Размер S. 50 шт. Увеличенная толщина 0,15 мм. Для работы с агрессивными средами.</description>
+        <price>750</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>11</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Nitrile_gloves_2009.jpg/640px-Nitrile_gloves_2009.jpg</picture>
+      </offer>
+      <offer id="1241" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Перчатки нитриловые High Risk M, 50 шт/уп</name>
+        <description>Нитриловые перчатки повышенной прочности High Risk. Размер M. 50 шт. Увеличенная толщина 0,15 мм. Для работы с агрессивными средами.</description>
+        <price>750</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>11</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Nitrile_gloves_2009.jpg/640px-Nitrile_gloves_2009.jpg</picture>
+      </offer>
+      <offer id="1242" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Перчатки нитриловые High Risk L, 50 шт/уп</name>
+        <description>Нитриловые перчатки повышенной прочности High Risk. Размер L. 50 шт. Увеличенная толщина 0,15 мм. Для работы с агрессивными средами.</description>
+        <price>750</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>11</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Nitrile_gloves_2009.jpg/640px-Nitrile_gloves_2009.jpg</picture>
+      </offer>
+      <offer id="1243" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Иглы для шприц-ручек 4мм 32G, 100 шт/уп</name>
+        <description>Иглы для инсулиновых шприц-ручек. 4 мм 32G. 100 шт. Совместимы со всеми шприц-ручками (Novo Nordisk, Sanofi, Lilly и др.). Стерильные.</description>
+        <price>380</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>31</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Hypodermic_needle_4_-_Jaredkj.jpg/640px-Hypodermic_needle_4_-_Jaredkj.jpg</picture>
+      </offer>
+      <offer id="1244" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Иглы для шприц-ручек 6мм 31G, 100 шт/уп</name>
+        <description>Иглы для инсулиновых шприц-ручек. 6 мм 31G. 100 шт. Совместимы со всеми шприц-ручками. Стерильные.</description>
+        <price>360</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>31</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Hypodermic_needle_4_-_Jaredkj.jpg/640px-Hypodermic_needle_4_-_Jaredkj.jpg</picture>
+      </offer>
+      <offer id="1245" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Иглы для шприц-ручек 8мм 31G, 100 шт/уп</name>
+        <description>Иглы для инсулиновых шприц-ручек. 8 мм 31G. 100 шт. Для взрослых пациентов. Совместимы со всеми шприц-ручками.</description>
+        <price>340</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>31</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Hypodermic_needle_4_-_Jaredkj.jpg/640px-Hypodermic_needle_4_-_Jaredkj.jpg</picture>
+      </offer>
+      <offer id="1246" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Вата медицинская гигроскопическая 100г (пачка)</name>
+        <description>Вата медицинская гигроскопическая 100 г. Для обработки ран, фиксации, применения антисептиков. Стерильная.</description>
+        <price>65</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>62</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Cotton_balls.jpg/640px-Cotton_balls.jpg</picture>
+      </offer>
+      <offer id="1247" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Вата медицинская гигроскопическая 500г (пачка)</name>
+        <description>Вата медицинская гигроскопическая 500 г. Для перевязок, обработки. Нестерильная. Для медицинских кабинетов.</description>
+        <price>185</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>62</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Cotton_balls.jpg/640px-Cotton_balls.jpg</picture>
+      </offer>
+      <offer id="1248" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Перчатки виниловые прозрачные S, 50 шт/уп</name>
+        <description>Одноразовые виниловые перчатки. Размер S. 50 шт (25 пар). Малая упаковка. Без латекса.</description>
+        <price>220</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>13</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Vinyl-gloves.jpg/640px-Vinyl-gloves.jpg</picture>
+      </offer>
+      <offer id="1249" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Перчатки виниловые прозрачные M, 50 шт/уп</name>
+        <description>Одноразовые виниловые перчатки. Размер M. 50 шт (25 пар). Малая упаковка. Без латекса.</description>
+        <price>220</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>13</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Vinyl-gloves.jpg/640px-Vinyl-gloves.jpg</picture>
+      </offer>
+      <offer id="1250" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Перчатки виниловые прозрачные L, 50 шт/уп</name>
+        <description>Одноразовые виниловые перчатки. Размер L. 50 шт (25 пар). Малая упаковка. Без латекса.</description>
+        <price>220</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>13</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Vinyl-gloves.jpg/640px-Vinyl-gloves.jpg</picture>
+      </offer>
+      <offer id="1251" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Стаканчики для полоскания 180мл, 100 шт/уп</name>
+        <description>Одноразовые стаканчики для полоскания полости рта. 180 мл. 100 шт. Прозрачные. Для стоматологических установок.</description>
+        <price>95</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>52</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Dental_cup.jpg/640px-Dental_cup.jpg</picture>
+      </offer>
+      <offer id="1252" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Стаканчики для полоскания 180мл, 1000 шт/уп</name>
+        <description>Одноразовые стаканчики для полоскания полости рта. 180 мл. 1000 шт — оптовая упаковка. Для стоматологических клиник.</description>
+        <price>780</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>52</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Dental_cup.jpg/640px-Dental_cup.jpg</picture>
+      </offer>
+      <offer id="1253" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Ватные шарики стерильные 100 шт/уп</name>
+        <description>Ватные шарики стерильные. 100 шт. Диаметр ~2 см. Для обработки ран, инъекционных полей, нанесения антисептиков.</description>
+        <price>80</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>62</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Cotton_balls.jpg/640px-Cotton_balls.jpg</picture>
+      </offer>
+      <offer id="1254" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Ватные палочки медицинские 100 шт/уп</name>
+        <description>Ватные палочки медицинские. 100 шт. Для обработки труднодоступных участков, нанесения препаратов.</description>
+        <price>55</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>62</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Cotton_balls.jpg/640px-Cotton_balls.jpg</picture>
+      </offer>
+      <offer id="1255" available="true">
+        <url>https://nitril-tomsk.ru</url>
+        <name>Пакеты для утилизации острых предметов класс Б 10л, 50 шт/уп</name>
+        <description>Пакеты для утилизации медицинских отходов класс Б с острыми предметами. 10 л. 50 шт. Жёлтые, прочные.</description>
+        <price>280</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Yellow_medical_waste.jpg/640px-Yellow_medical_waste.jpg</picture>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
